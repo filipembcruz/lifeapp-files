@@ -1,0 +1,18 @@
+{
+    "title": "Easter Special 30% OFF",
+    "subtitle": "Don't miss our limited offer",
+    "title_text_color": "#FFFFFF",
+    "subtitle_text_color": "#FFFFFF",
+    "background_gradient": {
+        "start_color": "#FF0080",
+        "end_color": "#FFD1E8",
+        "direction": "left-to-right"
+    },
+    "title_font_size": "24",
+    "subtitle_font_size": "16",
+    "animation": {
+        "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/easter-animation.json",
+        "width": "60",
+        "height": "60"
+    }
+}
