@@ -4,7 +4,10 @@
     "title_text_color": "#FFFFFF",
     "subtitle_text_color": "#FFFFFF",
     "background": {
-        "color": ["#FF0080", "#FFD1E8"],
+        "color": [
+            "#FF0080",
+            "#FFD1E8"
+        ],
         "direction": "left-to-right"
     },
     "title_font_size": "18",
@@ -14,5 +17,79 @@
         "width": "103",
         "height": "58",
         "right_padding": "16"
+    },
+    "translations": {
+        "de": {
+            "title": "Osterspecial 86 % RABATT",
+            "subtitle": "Verpasse nicht unser zeitlich begrenztes Angebot"
+        },
+        "fr": {
+            "title": "Offre spéciale de Pâques : 86 % DE RÉDUCTION",
+            "subtitle": "Ne manque pas notre offre à durée limitée"
+        },
+        "it": {
+            "title": "Offerta di Pasqua: 86% DI SCONTO",
+            "subtitle": "Non perdere la nostra offerta a tempo limitato"
+        },
+        "nb": {
+            "title": "Påsketilbud 86 % AVSLAG",
+            "subtitle": "Ikke gå glipp av vårt tidsbegrensede tilbud"
+        },
+        "pt_BR": {
+            "title": "Especial de Páscoa 86% OFF",
+            "subtitle": "Não perca nossa oferta por tempo limitado"
+        },
+        "pt_PT": {
+            "title": "Especial da Páscoa 86% OFF",
+            "subtitle": "Não percas a nossa oferta por tempo limitado"
+        },
+        "ru": {
+            "title": "Пасхальное предложение — СКИДКА 86%",
+            "subtitle": "Не пропусти наше ограниченное предложение"
+        },
+        "sv": {
+            "title": "Påskerbjudande 86 % RABATT",
+            "subtitle": "Missa inte vårt tidsbegränsade erbjudande"
+        },
+        "zh_Hans": {
+            "title": "复活节特惠 86% 折扣",
+            "subtitle": "别错过我们的限时优惠"
+        },
+        "zh_Hant": {
+            "title": "復活節特惠 86% 折扣",
+            "subtitle": "別錯過我們的限時優惠"
+        },
+        "ja": {
+            "title": "イースター特別セール 86%オフ",
+            "subtitle": "期間限定のオファーをお見逃しなく"
+        },
+        "ko": {
+            "title": "부활절 특별 할인 86% OFF",
+            "subtitle": "한정 할인 혜택을 놓치지 마세요"
+        },
+        "da": {
+            "title": "Påsketilbud 86% RABAT",
+            "subtitle": "Gå ikke glip af vores tidsbegrænsede tilbud"
+        },
+        "es": {
+            "title": "Especial de Pascua 86% DE DESCUENTO",
+            "subtitle": "No te pierdas nuestra oferta por tiempo limitado"
+        },
+        "nl": {
+            "title": "Paasaanbieding 86% KORTING",
+            "subtitle": "Mis onze tijdelijke aanbieding niet"
+        },
+        "fi": {
+            "title": "Pääsiäistarjous 86 % ALENNUS",
+            "subtitle": "Älä missaa rajoitetun ajan tarjoustamme"
+        },
+        "ro": {
+            "title": "Ofertă specială de Paște: 86% REDUCERE",
+            "subtitle": "Nu rata oferta noastră limitată"
+        },
+        "uk": {
+            "title": "Великодня пропозиція — ЗНИЖКА 86%",
+            "subtitle": "Не пропусти нашу обмежену пропозицію"
+        }
     }
 }
