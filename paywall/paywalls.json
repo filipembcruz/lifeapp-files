@@ -44,10 +44,26 @@
         "priceID": 7
     },
     {
-        "name": "Seasonal Template",
+        "name": "Current price 10 (Default)",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
-        "priceID": 0
+        "priceID": 0,
+        "experiment": [
+            {
+                "name": "Easter Surprise",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/EasterSurpriseTemplate2.json",
+                "priceID": 0
+            },
+            {
+                "name": "Easter Offer",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/EasterOfferTemplate3.json",
+                "priceID": 0
+            }
+        ]
     }
 ]
