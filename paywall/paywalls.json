@@ -15,13 +15,13 @@
                 "name": "Know You",
                 "origin:": "git",
                 "type": "subscription",
-                "variable": "subscription_template"
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/know-you.json"
             },
             {
                 "name": "Try Premium",
                 "origin:": "git",
                 "type": "subscription",
-                "variable": "subscription_template"
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/try-premium.json"
             }
         ]
     },
