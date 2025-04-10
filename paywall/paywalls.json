@@ -44,7 +44,7 @@
         "priceID": 7
     },
     {
-        "name": "Current price 10 (Default)",
+        "name": "Easter Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
