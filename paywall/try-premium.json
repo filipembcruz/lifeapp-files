@@ -1,0 +1,224 @@
+{
+    "background_color": [
+        "#FFFFFF"
+    ],
+    "background_height": 0.3,
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://i.imgur.com/GQIWfFH.png",
+    "background_image_fit": "fitWidth",
+    "badge_background_color": [
+        "#D1416B"
+    ],
+    "badge_border_color": "#B02653",
+    "badge_position": "center",
+    "badge_text": "Most Popular",
+    "badge_text_color": "#FFFFFF",
+    "cancel_text": "Cancel anytime",
+    "cancel_text_color": "#0EA73C",
+    "cancel_text_size": 20,
+    "carousel_height": 130,
+    "carousel_icon_color": "#e49e38",
+    "carousel_icon_size": 24,
+    "carousel_interval": 5,
+    "carousel_text": [],
+    "carousel_text_color": "#24191a",
+    "carousel_text_size": 18,
+    "close_btn_color": "#ffffff",
+    "close_btn_position": "left",
+    "close_btn_size": 40,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#43292E",
+    "link_text_size": 13,
+    "purchase_area_margin_top": 90,
+    "purchase_button_color": [
+        "#FFB1C0",
+        "#B02653",
+        "#8F043C"
+    ],
+    "purchase_button_text": "Try free for 3 days",
+    "purchase_button_text_color": "#ffffff",
+    "restore_text": "Restore purchases",
+    "restore_text_color": "#000000",
+    "restore_text_size": 16,
+    "subscription_option_background_color": [
+        "#FFECEE"
+    ],
+    "subscription_option_background_color_opacity": 1,
+    "subscription_option_border_color": [
+        "#FFECEE"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#FFB1C0"
+    ],
+    "subscription_selected_option_border_color": [
+        "#FF86A1"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "Boost Your Chances of Getting Pregnant ",
+    "subtitle_color": [
+        "#8F043C"
+    ],
+    "subtitle_position": "left",
+    "subtitle_size": 20,
+    "template": 3,
+    "title": "Try Premium",
+    "title_color": [
+        "#24191A"
+    ],
+    "title_margin_top": 30,
+    "title_position": "left",
+    "title_size": 25,
+    "translations": {
+        "da": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Annuller når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dage",
+            "restore_text": "Gendan køb",
+            "subtitle": "Øg dine chancer for at blive gravid",
+            "title": "Prøv Premium"
+        },
+        "de": {
+            "badge_text": "Am beliebtesten",
+            "cancel_text": "Jederzeit kündigen",
+            "purchase_button_text": "Kostenlos für 3 Tage testen",
+            "restore_text": "Käufe wiederherstellen",
+            "subtitle": "Steigern Sie Ihre Chancen auf eine Schwangerschaft",
+            "title": "Premium testen"
+        },
+        "es": {
+            "badge_text": "Más popular",
+            "cancel_text": "Cancela en cualquier momento",
+            "purchase_button_text": "Prueba gratis por 3 días",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Aumenta tus posibilidades de quedar embarazada",
+            "title": "Prueba Premium"
+        },
+        "fi": {
+            "badge_text": "Suosituin",
+            "cancel_text": "Peruuta milloin tahansa",
+            "purchase_button_text": "Kokeile ilmaiseksi 3 päivää",
+            "restore_text": "Palauta ostot",
+            "subtitle": "Lisää mahdollisuuksiasi tulla raskaaksi",
+            "title": "Kokeile Premiumia"
+        },
+        "fr": {
+            "badge_text": "Le plus populaire",
+            "cancel_text": "Annulez à tout moment",
+            "purchase_button_text": "Essayez gratuitement pendant 3 jours",
+            "restore_text": "Restaurer les achats",
+            "subtitle": "Augmentez vos chances de tomber enceinte",
+            "title": "Essayer Premium"
+        },
+        "it": {
+            "badge_text": "Il più popolare",
+            "cancel_text": "Annulla in qualsiasi momento",
+            "purchase_button_text": "Prova gratis per 3 giorni",
+            "restore_text": "Ripristina acquisti",
+            "subtitle": "Aumenta le tue possibilità di rimanere incinta",
+            "title": "Prova Premium"
+        },
+        "ja": {
+            "badge_text": "最も人気",
+            "cancel_text": "いつでもキャンセル可能",
+            "purchase_button_text": "3日間無料で試す",
+            "restore_text": "購入を復元",
+            "subtitle": "妊娠の確率を高めましょう",
+            "title": "プレミアムを試す"
+        },
+        "ko": {
+            "badge_text": "가장 인기 있는",
+            "cancel_text": "언제든지 취소 가능",
+            "purchase_button_text": "3일 동안 무료로 체험하기",
+            "restore_text": "구매 복원",
+            "subtitle": "임신 가능성을 높이세요",
+            "title": "프리미엄 체험하기"
+        },
+        "nb": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Avbryt når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dager",
+            "restore_text": "Gjenopprett kjøp",
+            "subtitle": "Øk sjansene dine for å bli gravid",
+            "title": "Prøv Premium"
+        },
+        "nl": {
+            "badge_text": "Meest populair",
+            "cancel_text": "Annuleer op elk moment",
+            "purchase_button_text": "Probeer 3 dagen gratis",
+            "restore_text": "Aankopen herstellen",
+            "subtitle": "Verhoog je kansen om zwanger te worden",
+            "title": "Probeer Premium"
+        },
+        "pt_BR": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Experimente grátis por 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Aumente suas chances de engravidar",
+            "title": "Experimente Premium"
+        },
+        "pt_PT": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Experimente grátis durante 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Aumente as suas hipóteses de engravidar",
+            "title": "Experimente Premium"
+        },
+        "ro": {
+            "badge_text": "Cel mai popular",
+            "cancel_text": "Anulează oricând",
+            "purchase_button_text": "Încearcă gratuit timp de 3 zile",
+            "restore_text": "Restaurează achizițiile",
+            "subtitle": "Crește-ți șansele de a rămâne însărcinată",
+            "title": "Încearcă Premium"
+        },
+        "ru": {
+            "badge_text": "Самый популярный",
+            "cancel_text": "Отменить в любое время",
+            "purchase_button_text": "Попробуйте бесплатно на 3 дня",
+            "restore_text": "Восстановить покупки",
+            "subtitle": "Увеличьте шансы забеременеть",
+            "title": "Попробуйте Премиум"
+        },
+        "sv": {
+            "badge_text": "Mest populär",
+            "cancel_text": "Avbryt när som helst",
+            "purchase_button_text": "Prova gratis i 3 dagar",
+            "restore_text": "Återställ köp",
+            "subtitle": "Öka dina chanser att bli gravid",
+            "title": "Prova Premium"
+        },
+        "uk": {
+            "badge_text": "Найпопулярніший",
+            "cancel_text": "Скасувати будь-коли",
+            "purchase_button_text": "Спробуйте безкоштовно протягом 3 днів",
+            "restore_text": "Відновити покупки",
+            "subtitle": "Підвищіть шанси завагітніти",
+            "title": "Спробуйте Преміум"
+        },
+        "zh_Hans": {
+            "badge_text": "最受欢迎",
+            "cancel_text": "随时取消",
+            "purchase_button_text": "免费试用3天",
+            "restore_text": "恢复购买",
+            "subtitle": "提高怀孕机会",
+            "title": "试用高级版"
+        },
+        "zh_Hant": {
+            "badge_text": "最受歡迎",
+            "cancel_text": "隨時取消",
+            "purchase_button_text": "免費試用3天",
+            "restore_text": "恢復購買",
+            "subtitle": "提高懷孕機會",
+            "title": "試用高級版"
+        }
+    }
+}

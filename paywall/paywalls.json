@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Current price 12",
+        "origin:": "qonversion",
+        "type": "subscription",
+        "variable": "subscription_template_12"
+    },
+    {
+        "name": "Current price 10 (Default)",
+        "origin:": "qonversion",
+        "type": "subscription",
+        "variable": "subscription_template",
+        "experiment": [
+            {
+                "name": "Know You",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "subscription_template"
+            },
+            {
+                "name": "Try Premium",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "subscription_template"
+            }
+        ]
+    },
+    {
+        "name": "Current price 8",
+        "origin:": "qonversion",
+        "type": "subscription",
+        "variable": "subscription_template_8"
+    },
+    {
+        "name": "Current price 7",
+        "origin:": "qonversion",
+        "type": "subscription",
+        "variable": "subscription_template_7"
+    }
+]

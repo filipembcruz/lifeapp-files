@@ -1,0 +1,210 @@
+{
+    "background_color": [
+        "#8f043d"
+    ],
+    "background_height": 0.39,
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://i.imgur.com/4l54YpF.png",
+    "badge_background_color": [
+        "#D1416B"
+    ],
+    "badge_position": "center",
+    "badge_text": "Most Popular",
+    "badge_text_color": "#FFFFFF",
+    "cancel_text": "Cancel anytime",
+    "cancel_text_color": "#0EA73C",
+    "cancel_text_size": 20,
+    "close_btn_color": "#FFFFFF",
+    "close_btn_position": "left",
+    "close_btn_size": 40,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#43292E",
+    "link_text_size": 13,
+    "purchase_button_color": [
+        "#FFB1C0",
+        "#B02653",
+        "#8F043C"
+    ],
+    "purchase_button_text": "Try free for 3 days",
+    "purchase_button_text_color": "#ffffff",
+    "restore_text": "Restore purchases",
+    "restore_text_color": "#171515",
+    "restore_text_size": 16,
+    "subscription_option_border_color": [
+        "#FFECEE"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#FFB1C0"
+    ],
+    "subscription_selected_option_border_color": [
+        "#FF86A1"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "Know your hormones",
+    "subtitle_color": [
+        "#FFB1C0"
+    ],
+    "subtitle_position": "center",
+    "subtitle_size": 24,
+    "template": 1,
+    "title": "Know you",
+    "title_color": [
+        "#FFFFFF"
+    ],
+    "title_margin_top": 0,
+    "title_position": "center",
+    "title_size": 40,
+    "translations": {
+        "da": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Annuller når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dage",
+            "restore_text": "Gendan køb",
+            "subtitle": "Lær dine hormoner at kende",
+            "title": "Lær dig selv at kende"
+        },
+        "de": {
+            "badge_text": "Am beliebtesten",
+            "cancel_text": "Jederzeit kündbar",
+            "purchase_button_text": "3 Tage kostenlos testen",
+            "restore_text": "Käufe wiederherstellen",
+            "subtitle": "Lerne deine Hormone kennen",
+            "title": "Lerne dich kennen"
+        },
+        "es": {
+            "badge_text": "Más popular",
+            "cancel_text": "Cancela en cualquier momento",
+            "purchase_button_text": "Prueba gratis por 3 días",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Conoce tus hormonas",
+            "title": "Conócete a ti misma"
+        },
+        "fi": {
+            "badge_text": "Suosituin",
+            "cancel_text": "Peruuta milloin tahansa",
+            "purchase_button_text": "Kokeile ilmaiseksi 3 päivää",
+            "restore_text": "Palauta ostokset",
+            "subtitle": "Tutustu hormoneihisi",
+            "title": "Tutustu itseesi"
+        },
+        "fr": {
+            "badge_text": "Le plus populaire",
+            "cancel_text": "Annulez à tout moment",
+            "purchase_button_text": "Essayez gratuitement pendant 3 jours",
+            "restore_text": "Restaurer les achats",
+            "subtitle": "Comprenez vos hormones",
+            "title": "Comprenez-vous"
+        },
+        "it": {
+            "badge_text": "Più popolare",
+            "cancel_text": "Annulla in qualsiasi momento",
+            "purchase_button_text": "Prova gratis per 3 giorni",
+            "restore_text": "Ripristina gli acquisti",
+            "subtitle": "Conosci i tuoi ormoni",
+            "title": "Conosci te stessa"
+        },
+        "ja": {
+            "badge_text": "最も人気",
+            "cancel_text": "いつでもキャンセル可能",
+            "purchase_button_text": "3日間無料で試す",
+            "restore_text": "購入を復元",
+            "subtitle": "ホルモンを知る",
+            "title": "自分を知る"
+        },
+        "ko": {
+            "badge_text": "가장 인기",
+            "cancel_text": "언제든지 취소 가능",
+            "purchase_button_text": "3일 동안 무료 체험",
+            "restore_text": "구매 복원",
+            "subtitle": "호르몬을 이해하세요",
+            "title": "자신을 이해하세요"
+        },
+        "nb": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Avbryt når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dager",
+            "restore_text": "Gjenopprett kjøp",
+            "subtitle": "Lær om hormonene dine",
+            "title": "Lær om deg selv"
+        },
+        "nl": {
+            "badge_text": "Meest populair",
+            "cancel_text": "Op elk moment annuleren",
+            "purchase_button_text": "Probeer 3 dagen gratis",
+            "restore_text": "Aankopen herstellen",
+            "subtitle": "Leer je hormonen kennen",
+            "title": "Leer jezelf kennen"
+        },
+        "pt_BR": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Experimente grátis por 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Conheça seus hormônios",
+            "title": "Conheça você"
+        },
+        "pt_PT": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Experimente grátis por 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Conhece os teus hormônios",
+            "title": "Conhece-te"
+        },
+        "ro": {
+            "badge_text": "Cea mai populară",
+            "cancel_text": "Anulează oricând",
+            "purchase_button_text": "Încearcă gratuit timp de 3 zile",
+            "restore_text": "Restabilește achizițiile",
+            "subtitle": "Cunoaște-ți hormonii",
+            "title": "Cunoaște-te"
+        },
+        "ru": {
+            "badge_text": "Самая популярная",
+            "cancel_text": "Отменить в любое время",
+            "purchase_button_text": "Попробуйте бесплатно 3 дня",
+            "restore_text": "Восстановить покупки",
+            "subtitle": "Познай свои гормоны",
+            "title": "Познай себя"
+        },
+        "sv": {
+            "badge_text": "Mest populär",
+            "cancel_text": "Avbryt när som helst",
+            "purchase_button_text": "Prova gratis i 3 dagar",
+            "restore_text": "Återställ köp",
+            "subtitle": "Lär känna dina hormoner",
+            "title": "Lär känna dig själv"
+        },
+        "uk": {
+            "badge_text": "Найпопулярніша",
+            "cancel_text": "Скасувати будь-коли",
+            "purchase_button_text": "Спробуйте безкоштовно 3 дні",
+            "restore_text": "Відновити покупки",
+            "subtitle": "Дізнайся про свої гормони",
+            "title": "Дізнайся про себе"
+        },
+        "zh_Hans": {
+            "badge_text": "最受欢迎",
+            "cancel_text": "随时取消",
+            "purchase_button_text": "免费试用3天",
+            "restore_text": "恢复购买",
+            "subtitle": "了解你的激素",
+            "title": "了解自己"
+        },
+        "zh_Hant": {
+            "badge_text": "最受歡迎",
+            "cancel_text": "隨時取消",
+            "purchase_button_text": "免費試用3天",
+            "restore_text": "恢復購買",
+            "subtitle": "了解你的激素",
+            "title": "了解自己"
+        }
+    }
+}
