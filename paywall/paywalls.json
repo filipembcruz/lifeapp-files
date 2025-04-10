@@ -36,5 +36,11 @@
         "origin:": "qonversion",
         "type": "subscription",
         "variable": "subscription_template_7"
+    },
+    {
+        "name": "Seasonal Template",
+        "origin:": "qonversion",
+        "type": "seasonal",
+        "variable": "seasonal_template"
     }
 ]
