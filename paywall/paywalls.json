@@ -11,7 +11,7 @@
         "origin:": "qonversion",
         "type": "subscription",
         "variable": "subscription_template",
-        "priceID": 10
+        "priceID": 10,
         "experiment": [
             {
                 "name": "Know You",
