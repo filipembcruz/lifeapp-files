@@ -1,8 +1,10 @@
 {
     "title": "Easter Special 86% OFF",
-    "subtitle": "Don't miss our limited offer",
+    "subtitle": "Easter Special 86% OFF",
     "title_text_color": "#FFFFFF",
     "subtitle_text_color": "#FFFFFF",
+    "countdown": true,
+    "deadline": "2025-04-21",
     "background": {
         "color": [
             "#FF0080",
