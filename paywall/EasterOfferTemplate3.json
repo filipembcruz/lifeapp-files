@@ -1,0 +1,309 @@
+{
+    "animation_height": 0,
+    "background_color": [
+        "#FFECEE"
+    ],
+    "background_height": 0.45,
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://i.imgur.com/cKEcumL.png",
+    "badge_background_color": [
+        "#FFC579",
+        "#FF8A76"
+    ],
+    "badge_border_color": "#FF8A76",
+    "badge_position": "right",
+    "badge_text": "Easter offer",
+    "badge_text_color": "#171515",
+    "close_btn_color": "#171515",
+    "close_btn_position": "left",
+    "close_btn_size": 40,
+    "discount_button_border_color": "#577962",
+    "discount_button_color": "#577962",
+    "discount_button_text_color": "#FFFFFF",
+    "discount_button_text_size": 20,
+    "discount_margin_top": 80,
+    "discount_text": "{{}}% OFF",
+    "discount_text_color": [
+        "#B95946"
+    ],
+    "discount_text_description": "Enjoy lifetime access with a special\noffer. Because you deserve it.\n",
+    "discount_text_description_color": [
+        "#577962"
+    ],
+    "discount_text_description_size": 20,
+    "discount_text_size": 40,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": "#FFFFFF",
+    "last_chance_cancel_color": "#000000",
+    "last_chance_cancel_size": 18,
+    "last_chance_cancel_text": "I don’t want it",
+    "last_chance_image_url": "https://i.imgur.com/Ld5IY8y.png",
+    "last_chance_image_width": 0.61,
+    "last_chance_image_negative_margin": -260,
+    "last_chance_price_text_color": "#000000",
+    "last_chance_price_text_size": 16,
+    "last_chance_purchase_button_text": "Continue",
+    "last_chance_subtitle": "The offer won’t last long. Claim your lifetime discout now before it’s gone",
+    "last_chance_subtitle_color": "#606365",
+    "last_chance_subtitle_size": 16,
+    "last_chance_title": "Are you sure you don’t want a discount?",
+    "last_chance_title_color": "#000000",
+    "last_chance_title_size": 20,
+    "link_horizontal_space": 16,
+    "link_text_color": "#43292E",
+    "link_text_size": 13,
+    "purchase_button_color": [
+        "#577962",
+        "#58CE88"
+    ],
+    "purchase_button_text": "Continue",
+    "purchase_button_text_color": "#ffffff",
+    "subscription_option_background_color": "#FFFFFF",
+    "subscription_option_background_color_opacity": 0.01,
+    "subscription_option_border_color": [
+        "#FFFFFF"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#FFECCF"
+    ],
+    "subscription_selected_option_border_color": [
+        "#E99385"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "Limited-time deal",
+    "subtitle_color": [
+        "#577962"
+    ],
+    "subtitle_position": "left",
+    "subtitle_size": 24,
+    "template": 3,
+    "title": "Easter offer!",
+    "title_color": [
+        "#AB4A39"
+    ],
+    "title_margin_top": 40,
+    "title_position": "center",
+    "title_size": 40,
+    "pricing_area_margin_bottom": 120,
+    "translations": {
+        "de": {
+            "badge_text": "Osterangebot",
+            "discount_text": "{{}}% RABATT",
+            "discount_text_description": "Genießen Sie lebenslangen Zugang mit einem speziellen\nAngebot. Weil Sie es verdienen.\n",
+            "last_chance_cancel_text": "Ich möchte es nicht",
+            "last_chance_purchase_button_text": "Weiter",
+            "last_chance_subtitle": "Das Angebot wird nicht lange dauern. Sichern Sie sich jetzt Ihren lebenslangen Rabatt, bevor er weg ist",
+            "last_chance_title": "Sind Sie sicher, dass Sie keinen Rabatt möchten?",
+            "purchase_button_text": "Weiter",
+            "subtitle": "Angebot für begrenzte Zeit",
+            "title": "Osterangebot!"
+        },
+        "fr": {
+            "badge_text": "Offre de Pâques",
+            "discount_text": "{{}}% DE RÉDUCTION",
+            "discount_text_description": "Profitez d'un accès à vie avec une offre spéciale.\nParce que vous le méritez.\n",
+            "last_chance_cancel_text": "Je n'en veux pas",
+            "last_chance_purchase_button_text": "Continuer",
+            "last_chance_subtitle": "L'offre ne durera pas longtemps. Obtenez votre réduction à vie maintenant avant qu'elle ne disparaisse",
+            "last_chance_title": "Êtes-vous sûre de ne pas vouloir une réduction ?",
+            "purchase_button_text": "Continuer",
+            "subtitle": "Offre à durée limitée",
+            "title": "Offre de Pâques !"
+        },
+        "pt_BR": {
+            "badge_text": "Oferta de Páscoa",
+            "discount_text": "{{}}% DE DESCONTO",
+            "discount_text_description": "Tenha acesso vitalício com uma oferta\nespecial.Porque você merece.\n",
+            "last_chance_cancel_text": "Eu não quero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "A oferta não vai durar muito. Garanta seu desconto vitalício agora antes que acabe",
+            "last_chance_title": "Você tem certeza de que não quer um desconto?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "Oferta por tempo limitado",
+            "title": "Oferta de Páscoa!"
+        },
+        "es": {
+            "badge_text": "Oferta de Pascua",
+            "discount_text": "{{}}% DE DESCUENTO",
+            "discount_text_description": "Disfruta de acceso de por vida con una oferta especial.\nPorque te lo mereces.\n",
+            "last_chance_cancel_text": "No lo quiero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "La oferta no durará mucho. Reclama tu descuento de por vida antes de que desaparezca",
+            "last_chance_title": "¿Estás segura de que no quieres un descuento?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "Oferta por tiempo limitado",
+            "title": "¡Oferta de Pascua!"
+        },
+        "it": {
+            "badge_text": "Offerta di Pasqua",
+            "discount_text": "{{}}% DI SCONTO",
+            "discount_text_description": "Goditi l'accesso a vita con un'offerta speciale.\nPerché te lo meriti.\n",
+            "last_chance_cancel_text": "Non lo voglio",
+            "last_chance_purchase_button_text": "Continua",
+            "last_chance_subtitle": "L'offerta non durerà a lungo. Richiedi subito il tuo sconto a vita prima che scompaia",
+            "last_chance_title": "Sei sicura di non voler uno sconto?",
+            "purchase_button_text": "Continua",
+            "subtitle": "Offerta a tempo limitato",
+            "title": "Offerta di Pasqua!"
+        },
+        "nb": {
+            "badge_text": "Påsketilbud",
+            "discount_text": "{{}}% RABATT",
+            "discount_text_description": "Nyt livstidsadgang med et spesielt tilbud.\nFordi du fortjener det.\n",
+            "last_chance_cancel_text": "Jeg vil ikke ha det",
+            "last_chance_purchase_button_text": "Fortsett",
+            "last_chance_subtitle": "Tilbudet varer ikke lenge. Få din livstidsrabatt nå før det er borte",
+            "last_chance_title": "Er du sikker på at du ikke vil ha rabatt?",
+            "purchase_button_text": "Fortsett",
+            "subtitle": "Tidsbegrenset tilbud",
+            "title": "Påsketilbud!"
+        },
+        "pt_PT": {
+            "badge_text": "Oferta da Páscoa",
+            "discount_text": "{{}}% DE DESCONTO",
+            "discount_text_description": "Desfrute de acesso vitalício com uma oferta especial.\nPorque você merece.\n",
+            "last_chance_cancel_text": "Não quero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "A oferta não vai durar muito. Garanta já o seu desconto vitalício antes que desapareça",
+            "last_chance_title": "Tem a certeza de que não quer um desconto?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "Oferta por tempo limitado",
+            "title": "Oferta da Páscoa!"
+        },
+        "ru": {
+            "badge_text": "Пасхальное предложение",
+            "discount_text": "{{}}% СКИДКА",
+            "discount_text_description": "Получите пожизненный доступ по специальному предложению.\nПотому что вы это заслужили.\n",
+            "last_chance_cancel_text": "Я не хочу",
+            "last_chance_purchase_button_text": "Продолжить",
+            "last_chance_subtitle": "Предложение скоро закончится. Получите пожизненную скидку сейчас, пока она доступна",
+            "last_chance_title": "Вы уверены, что не хотите скидку?",
+            "purchase_button_text": "Продолжить",
+            "subtitle": "Ограниченное предложение",
+            "title": "Пасхальное предложение!"
+        },
+        "sv": {
+            "badge_text": "Påskerbjudande",
+            "discount_text": "{{}}% RABATT",
+            "discount_text_description": "Njut av livstidsåtkomst med ett specialerbjudande.\nFör att du förtjänar det.\n",
+            "last_chance_cancel_text": "Jag vill inte ha det",
+            "last_chance_purchase_button_text": "Fortsätt",
+            "last_chance_subtitle": "Erbjudandet varar inte länge. Hämta din livstidsrabatt nu innan det försvinner",
+            "last_chance_title": "Är du säker på att du inte vill ha en rabatt?",
+            "purchase_button_text": "Fortsätt",
+            "subtitle": "Tidsbegränsat erbjudande",
+            "title": "Påskerbjudande!"
+        },
+        "zh_Hans": {
+            "badge_text": "复活节优惠",
+            "discount_text": "{{}}% 折扣",
+            "discount_text_description": "享受终身访问权限，享受特别优惠。\n因为你值得拥有。\n",
+            "last_chance_cancel_text": "我不想要",
+            "last_chance_purchase_button_text": "继续",
+            "last_chance_subtitle": "优惠不会持续太久。现在就领取你的终身折扣，趁它还在",
+            "last_chance_title": "你确定不想要折扣吗？",
+            "purchase_button_text": "继续",
+            "subtitle": "限时优惠",
+            "title": "复活节优惠！"
+        },
+        "zh_Hant": {
+            "badge_text": "復活節優惠",
+            "discount_text": "{{}}% 折扣",
+            "discount_text_description": "享有終身使用權限的特別優惠。\n因為妳值得擁有。\n",
+            "last_chance_cancel_text": "我不要",
+            "last_chance_purchase_button_text": "繼續",
+            "last_chance_subtitle": "優惠即將結束。現在就領取妳的終身折扣",
+            "last_chance_title": "妳確定不想要折扣嗎？",
+            "purchase_button_text": "繼續",
+            "subtitle": "限時優惠",
+            "title": "復活節優惠！"
+        },
+        "ja": {
+            "badge_text": "イースター特別オファー",
+            "discount_text": "{{}}% オフ",
+            "discount_text_description": "特別オファーで生涯アクセスを楽しもう。\nあなたにはその価値があります。\n",
+            "last_chance_cancel_text": "いりません",
+            "last_chance_purchase_button_text": "続ける",
+            "last_chance_subtitle": "このオファーは長く続きません。今すぐ生涯割引を手に入れましょう",
+            "last_chance_title": "本当に割引はいりませんか？",
+            "purchase_button_text": "続ける",
+            "subtitle": "期間限定オファー",
+            "title": "イースター特別オファー！"
+        },
+        "ko": {
+            "badge_text": "부활절 특별 혜택",
+            "discount_text": "{{}}% 할인",
+            "discount_text_description": "특별한 혜택으로 평생 이용하세요.\n당신은 그럴 자격이 있어요.\n",
+            "last_chance_cancel_text": "원하지 않아요",
+            "last_chance_purchase_button_text": "계속",
+            "last_chance_subtitle": "이 혜택은 오래가지 않아요. 지금 평생 할인을 받으세요",
+            "last_chance_title": "정말 할인을 원하지 않으세요?",
+            "purchase_button_text": "계속",
+            "subtitle": "한정 기간 혜택",
+            "title": "부활절 특별 혜택!"
+        },
+        "da": {
+            "badge_text": "Påsketilbud",
+            "discount_text": "{{}}% RABAT",
+            "discount_text_description": "Få livstidsadgang med et særligt tilbud.\nFordi du fortjener det.\n",
+            "last_chance_cancel_text": "Jeg vil ikke have det",
+            "last_chance_purchase_button_text": "Fortsæt",
+            "last_chance_subtitle": "Tilbuddet varer ikke længe. Hent din livstidsrabat nu, før det er for sent",
+            "last_chance_title": "Er du sikker på, du ikke vil have rabat?",
+            "purchase_button_text": "Fortsæt",
+            "subtitle": "Begrænset tilbud",
+            "title": "Påsketilbud!"
+        },
+        "nl": {
+            "badge_text": "Paasaanbieding",
+            "discount_text": "{{}}% KORTING",
+            "discount_text_description": "Geniet van levenslange toegang met een speciale aanbieding.\nOmdat je het verdient.\n",
+            "last_chance_cancel_text": "Ik wil het niet",
+            "last_chance_purchase_button_text": "Doorgaan",
+            "last_chance_subtitle": "De aanbieding is tijdelijk. Claim nu je levenslange korting voordat het te laat is",
+            "last_chance_title": "Weet je zeker dat je geen korting wilt?",
+            "purchase_button_text": "Doorgaan",
+            "subtitle": "Tijdelijke aanbieding",
+            "title": "Paasaanbieding!"
+        },
+        "fi": {
+            "badge_text": "Pääsiäistarjous",
+            "discount_text": "{{}}% ALENNUS",
+            "discount_text_description": "Nauti elinikäisestä pääsystä erikoistarjouksella.\nKoska ansaitset sen.\n",
+            "last_chance_cancel_text": "En halua sitä",
+            "last_chance_purchase_button_text": "Jatka",
+            "last_chance_subtitle": "Tarjous ei kestä kauan. Lunasta elinikäinen alennuksesi nyt ennen kuin se katoaa",
+            "last_chance_title": "Oletko varma ettet halua alennusta?",
+            "purchase_button_text": "Jatka",
+            "subtitle": "Rajoitetun ajan tarjous",
+            "title": "Pääsiäistarjous!"
+        },
+        "ro": {
+            "badge_text": "Ofertă de Paște",
+            "discount_text": "{{}}% REDUCERE",
+            "discount_text_description": "Bucură-te de acces pe viață cu o ofertă specială.\nPentru că meriți.\n",
+            "last_chance_cancel_text": "Nu o vreau",
+            "last_chance_purchase_button_text": "Continuă",
+            "last_chance_subtitle": "Oferta nu va dura mult. Obține acum reducerea pe viață înainte să dispară",
+            "last_chance_title": "Ești sigură că nu vrei o reducere?",
+            "purchase_button_text": "Continuă",
+            "subtitle": "Ofertă limitată",
+            "title": "Ofertă de Paște!"
+        },
+        "uk": {
+            "badge_text": "Великодня пропозиція",
+            "discount_text": "{{}}% ЗНИЖКА",
+            "discount_text_description": "Отримайте довічний доступ за спеціальною пропозицією.\nВи цього заслуговуєте.\n",
+            "last_chance_cancel_text": "Я не хочу",
+            "last_chance_purchase_button_text": "Продовжити",
+            "last_chance_subtitle": "Пропозиція не триватиме довго. Отримайте свою довічну знижку зараз, поки вона ще доступна",
+            "last_chance_title": "Ви впевнені, що не хочете знижку?",
+            "purchase_button_text": "Продовжити",
+            "subtitle": "Пропозиція обмежена в часі",
+            "title": "Великодня пропозиція!"
+        }
+    }
+}
