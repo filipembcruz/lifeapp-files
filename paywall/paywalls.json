@@ -14,17 +14,17 @@
         "priceID": 10,
         "experiment": [
             {
-                "name": "Know You",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/know-you.json",
-                "priceID": 10
-            },
-            {
                 "name": "Try Premium",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/try-premium.json",
+                "priceID": 10
+            },
+            {
+                "name": "#1 Cycle Syncing App",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/cycle-syncing-app.json",
                 "priceID": 10
             }
         ]
@@ -44,24 +44,24 @@
         "priceID": 7
     },
     {
-        "name": "Easter Campaign",
+        "name": "Women's Wellness Month",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Easter Surprise",
+                "name": "Today is for you",
                 "origin:": "git",
                 "type": "seasonal",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/EasterSurpriseTemplate2.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/WomensWellnessTemplate2.json",
                 "priceID": 0
             },
             {
-                "name": "Easter Offer",
+                "name": "Take care love",
                 "origin:": "git",
                 "type": "seasonal",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/EasterOfferTemplate3.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/WomensWellnessTemplate3.json",
                 "priceID": 0
             }
         ]
