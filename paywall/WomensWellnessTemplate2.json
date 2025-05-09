@@ -1,0 +1,288 @@
+{
+      "animation_height": 0,
+      "background_color": ["#B02653"],
+      "background_height": 0.45,
+      "background_icon": "",
+      "background_icon_position": "right",
+      "background_image": "https://i.imgur.com/0vNOn7G.png",
+      "badge_background_color": ["#B22954", "#D46E5A"],
+      "badge_border_color": "#B22954",
+      "badge_position": "right",
+      "badge_text": "Special offer",
+      "badge_text_color": "#FFFFFF",
+      "cancel_text": "Cancel anytime",
+      "cancel_text_color": "#0EA73C",
+      "cancel_text_size": 20,
+      "close_btn_color": "#FFFFFF",
+      "close_btn_position": "left",
+      "close_btn_size": 40,
+      "discount_button_border_color": "#FFE3D3",
+      "discount_button_color": "#FFE3D3",
+      "discount_button_text_color": "#B22A54",
+      "discount_button_text_size": 20,
+      "discount_margin_top": 24,
+      "discount_text": "{{}}% OFF",
+      "discount_text_color": ["#D46F5A"],
+      "discount_text_description": "FOREVER",
+      "discount_text_description_color": ["#B22A54"],
+      "discount_text_description_size": 20,
+      "discount_text_size": 32,
+      "divider_height": 24,
+      "divider_shape":
+          "<svg width=\"390\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#F0BB98\" d=\"M0 0h43v24H0z\"/><path fill=\"#F0BB98\" d=\"M347 0h43v24h-43z\"/><path d=\"M0 24C0 10.745 10.745 0 24 0h342c13.255 0 24 10.745 24 24H0Z\" fill=\"#fff\"/></svg>",
+      "foreground_color": "#FFFFFF",
+      "last_chance_cancel_color": "#000000",
+      "last_chance_cancel_size": 18,
+      "last_chance_cancel_text": "I don’t want it",
+      "last_chance_image_url": "https://i.imgur.com/gErbFvC.png",
+      "last_chance_image_width": 0.46,
+      "last_chance_image_negative_margin": -195,
+      "last_chance_price_text_color": "#000000",
+      "last_chance_price_text_size": 16,
+      "last_chance_purchase_button_text": "Continue",
+      "last_chance_subtitle":
+          "The offer won’t last long. Claim your lifetime discout now before it’s gone",
+      "last_chance_subtitle_color": "#606365",
+      "last_chance_subtitle_size": 16,
+      "last_chance_title": "Are you sure you don’t want a discount?",
+      "last_chance_title_color": "#000000",
+      "last_chance_title_size": 20,
+      "link_horizontal_space": 16,
+      "link_text_color": "#43292E",
+      "link_text_size": 13,
+      "purchase_button_color": ["#B02653", "#D46F5A"],
+      "purchase_button_text": "Continue",
+      "purchase_button_text_color": "#ffffff",
+      "subscription_option_background_color": "#FFFFFF",
+      "subscription_option_background_color_opacity": 0.01,
+      "subscription_option_border_color": ["#E8E8E8"],
+      "subscription_option_text_color": "#000000",
+      "subscription_selected_option_background_color": ["#FFE3D5"],
+      "subscription_selected_option_border_color": ["#FFE3D5"],
+      "subscription_selected_option_text_color": "#B32C54",
+      "subtitle": "Choose You!",
+      "subtitle_color": ["#E1356E"],
+      "subtitle_position": "left",
+      "subtitle_size": 24,
+      "template": 2,
+      "title": "Today is\nfor you\n\n",
+      "title_color": ["#FFFFFF"],
+      "title_margin_top": 0,
+      "title_position": "center",
+      "title_size": 40,
+      "pricing_area_margin_bottom": 120,
+      "translations": {
+        "de": {
+          "badge_text": "Sonderangebot",
+          "discount_text": "{{}} % RABATT",
+          "discount_text_description": "FÜR IMMER",
+          "last_chance_cancel_text": "Ich möchte es nicht",
+          "last_chance_purchase_button_text": "Weiter",
+          "last_chance_subtitle":
+              "Das Angebot gilt nicht ewig.\nSichere dir jetzt den lebenslangen Rabatt,\nbevor es zu spät ist",
+          "last_chance_title": "Bist du sicher,\ndass du keinen Rabatt willst?",
+          "purchase_button_text": "Weiter",
+          "title": "Heute ist\ndein Tag\n\n"
+        },
+        "fr": {
+          "badge_text": "Offre spéciale",
+          "discount_text": "{{}} % DE RÉDUCTION",
+          "discount_text_description": "POUR TOUJOURS",
+          "last_chance_cancel_text": "Je n’en veux pas",
+          "last_chance_purchase_button_text": "Continuer",
+          "last_chance_subtitle":
+              "Cette offre ne durera pas.\nProfite du tarif à vie\navant qu’il ne soit trop tard",
+          "last_chance_title": "Tu es sûre de ne pas vouloir de réduction ?",
+          "purchase_button_text": "Continuer",
+          "title": "Aujourd’hui est\npour toi\n\n"
+        },
+        "it": {
+          "badge_text": "Offerta speciale",
+          "discount_text": "{{}}% DI SCONTO",
+          "discount_text_description": "PER SEMPRE",
+          "last_chance_cancel_text": "Non lo voglio",
+          "last_chance_purchase_button_text": "Continua",
+          "last_chance_subtitle":
+              "L’offerta non durerà a lungo.\nOttieni ora lo sconto a vita\nprima che finisca",
+          "last_chance_title": "Sei sicura di non volere uno sconto?",
+          "purchase_button_text": "Continua",
+          "title": "Oggi è\nper te\n\n"
+        },
+        "nb": {
+          "badge_text": "Spesialtilbud",
+          "discount_text": "{{}} % AVSLAG",
+          "discount_text_description": "FOR ALLTID",
+          "last_chance_cancel_text": "Jeg vil ikke ha det",
+          "last_chance_purchase_button_text": "Fortsett",
+          "last_chance_subtitle":
+              "Tilbudet varer ikke evig.\nSikre deg livstidsrabatten nå\nfør det er for sent",
+          "last_chance_title": "Er du sikker på at du ikke vil ha rabatt?",
+          "purchase_button_text": "Fortsett",
+          "title": "I dag er\nfor deg\n\n"
+        },
+        "pt_BR": {
+          "badge_text": "Oferta especial",
+          "discount_text": "{{}}% DE DESCONTO",
+          "discount_text_description": "PARA SEMPRE",
+          "last_chance_cancel_text": "Não quero",
+          "last_chance_purchase_button_text": "Continuar",
+          "last_chance_subtitle":
+              "A oferta não vai durar muito.\nGaranta seu desconto vitalício agora\nantes que acabe",
+          "last_chance_title": "Tem certeza de que não quer um desconto?",
+          "purchase_button_text": "Continuar",
+          "title": "Hoje é\npor você\n\n"
+        },
+        "pt_PT": {
+          "badge_text": "Oferta especial",
+          "discount_text": "{{}}% DE DESCONTO",
+          "discount_text_description": "PARA SEMPRE",
+          "last_chance_cancel_text": "Não quero",
+          "last_chance_purchase_button_text": "Continuar",
+          "last_chance_subtitle":
+              "A oferta não vai durar muito.\nGarante já o teu desconto vitalício\nantes que desapareça",
+          "last_chance_title": "Tens a certeza de que não queres um desconto?",
+          "purchase_button_text": "Continuar",
+          "title": "Hoje é\npara ti\n\n"
+        },
+        "ru": {
+          "badge_text": "Специальное предложение",
+          "discount_text": "{{}}% СКИДКА",
+          "discount_text_description": "НАВСЕГДА",
+          "last_chance_cancel_text": "Я не хочу",
+          "last_chance_purchase_button_text": "Продолжить",
+          "last_chance_subtitle":
+              "Предложение скоро закончится.\nПолучите пожизненную скидку\nпока не стало слишком поздно",
+          "last_chance_title": "Ты уверена,\nчто не хочешь скидку?",
+          "purchase_button_text": "Продолжить",
+          "title": "Сегодня —\nтвой день\n\n"
+        },
+        "sv": {
+          "badge_text": "Specialerbjudande",
+          "discount_text": "{{}} % RABATT",
+          "discount_text_description": "FÖR ALLTID",
+          "last_chance_cancel_text": "Jag vill inte ha det",
+          "last_chance_purchase_button_text": "Fortsätt",
+          "last_chance_subtitle":
+              "Erbjudandet varar inte länge.\nFå livstidsrabatt nu\ninnan det är för sent",
+          "last_chance_title": "Är du säker på att du inte vill ha en rabatt?",
+          "purchase_button_text": "Fortsätt",
+          "title": "Idag är\nför dig\n\n"
+        },
+        "zh_Hans": {
+          "badge_text": "特别优惠",
+          "discount_text": "立减{{}}%",
+          "discount_text_description": "永久有效",
+          "last_chance_cancel_text": "我不需要",
+          "last_chance_purchase_button_text": "继续",
+          "last_chance_subtitle": "优惠即将结束。\n立即领取终身折扣\n别错过了",
+          "last_chance_title": "你确定不要折扣吗？",
+          "purchase_button_text": "继续",
+          "title": "今天是\n属于你的\n\n"
+        },
+        "zh_Hant": {
+          "badge_text": "特別優惠",
+          "discount_text": "立減{{}}%",
+          "discount_text_description": "永久有效",
+          "last_chance_cancel_text": "我不需要",
+          "last_chance_purchase_button_text": "繼續",
+          "last_chance_subtitle": "優惠即將結束。\n立即領取終身折扣\n別錯過了",
+          "last_chance_title": "妳確定不要折扣嗎？",
+          "purchase_button_text": "繼續",
+          "title": "今天是\n妳的日子\n\n"
+        },
+        "ja": {
+          "badge_text": "特別オファー",
+          "discount_text": "{{}}% オフ",
+          "discount_text_description": "永久に有効",
+          "last_chance_cancel_text": "いりません",
+          "last_chance_purchase_button_text": "続ける",
+          "last_chance_subtitle": "このオファーは長く続きません。\n今すぐ一生使える割引をゲットしよう\nなくなる前に",
+          "last_chance_title": "割引を本当にいりませんか？",
+          "purchase_button_text": "続ける",
+          "title": "今日は\nあなたのための\n日です\n\n"
+        },
+        "ko": {
+          "badge_text": "특별 할인",
+          "discount_text": "{{}}% 할인",
+          "discount_text_description": "영구 혜택",
+          "last_chance_cancel_text": "원하지 않아요",
+          "last_chance_purchase_button_text": "계속하기",
+          "last_chance_subtitle": "이 혜택은 오래가지 않아요.\n지금 평생 할인을 받아보세요\n놓치기 전에",
+          "last_chance_title": "정말 할인을 원하지 않으세요?",
+          "purchase_button_text": "계속하기",
+          "title": "오늘은\n당신을 위한 날이에요\n\n"
+        },
+        "da": {
+          "badge_text": "Særtilbud",
+          "discount_text": "{{}}% RABAT",
+          "discount_text_description": "FOR ALTID",
+          "last_chance_cancel_text": "Jeg vil ikke have det",
+          "last_chance_purchase_button_text": "Fortsæt",
+          "last_chance_subtitle":
+              "Tilbuddet varer ikke længe.\nFå livstidsrabatten nu,\ninden det er for sent",
+          "last_chance_title": "Er du sikker på,\nat du ikke vil have rabat?",
+          "purchase_button_text": "Fortsæt",
+          "title": "I dag er\nfor dig\n\n"
+        },
+        "es": {
+          "badge_text": "Oferta especial",
+          "discount_text": "{{}}% DE DESCUENTO",
+          "discount_text_description": "PARA SIEMPRE",
+          "last_chance_cancel_text": "No lo quiero",
+          "last_chance_purchase_button_text": "Continuar",
+          "last_chance_subtitle":
+              "La oferta no durará mucho.\nAprovecha el descuento de por vida\nantes de que desaparezca",
+          "last_chance_title": "¿Estás segura de que no quieres un descuento?",
+          "purchase_button_text": "Continuar",
+          "title": "Hoy es\npara ti\n\n"
+        },
+        "nl": {
+          "badge_text": "Speciale aanbieding",
+          "discount_text": "{{}}% KORTING",
+          "discount_text_description": "VOOR ALTIJD",
+          "last_chance_cancel_text": "Ik wil het niet",
+          "last_chance_purchase_button_text": "Doorgaan",
+          "last_chance_subtitle":
+              "De aanbieding is tijdelijk.\nClaim je levenslange korting nu\nvoor het te laat is",
+          "last_chance_title": "Weet je zeker dat je geen korting wilt?",
+          "purchase_button_text": "Doorgaan",
+          "title": "Vandaag is\nvoor jou\n\n"
+        },
+        "fi": {
+          "badge_text": "Erikoistarjous",
+          "discount_text": "{{}}% ALENNUS",
+          "discount_text_description": "IKUISESTI",
+          "last_chance_cancel_text": "En halua sitä",
+          "last_chance_purchase_button_text": "Jatka",
+          "last_chance_subtitle":
+              "Tarjous ei kestä kauaa.\nLunasta elinikäinen alennus nyt\nennen kuin se katoaa",
+          "last_chance_title": "Oletko varma,\nettet halua alennusta?",
+          "purchase_button_text": "Jatka",
+          "title": "Tänään on\nsinulle\n\n"
+        },
+        "ro": {
+          "badge_text": "Ofertă specială",
+          "discount_text": "{{}}% REDUCERE",
+          "discount_text_description": "PENTRU TOTDEAUNA",
+          "last_chance_cancel_text": "Nu o vreau",
+          "last_chance_purchase_button_text": "Continuă",
+          "last_chance_subtitle":
+              "Oferta nu va dura mult.\nProfită acum de reducerea pe viață\nînainte să dispară",
+          "last_chance_title": "Ești sigură că nu vrei o reducere?",
+          "purchase_button_text": "Continuă",
+          "title": "Astăzi este\npentru tine\n\n"
+        },
+        "uk": {
+          "badge_text": "Спеціальна пропозиція",
+          "discount_text": "{{}}% ЗНИЖКА",
+          "discount_text_description": "НАЗАВЖДИ",
+          "last_chance_cancel_text": "Я не хочу",
+          "last_chance_purchase_button_text": "Продовжити",
+          "last_chance_subtitle":
+              "Пропозиція діє недовго.\nОтримай довічну знижку зараз,\nпоки не стало пізно",
+          "last_chance_title": "Ти впевнена,\nщо не хочеш знижку?",
+          "purchase_button_text": "Продовжити",
+          "title": "Сьогодні —\nтвой день\n\n"
+        }
+      }
+    }

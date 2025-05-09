@@ -1,0 +1,307 @@
+{
+    "animation_height": 0,
+    "background_color": [
+        "#001926"
+    ],
+    "background_height": 0.45,
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://i.imgur.com/EkdDBZM.png",
+    "badge_background_color": [
+        "#FF6695"
+    ],
+    "badge_border_color": "#FF6695",
+    "badge_position": "right",
+    "badge_text": "Special offer",
+    "badge_text_color": "#FFFFFF",
+    "close_btn_color": "#FFFFFF",
+    "close_btn_position": "left",
+    "close_btn_size": 40,
+    "discount_button_border_color": "#FFFFFF",
+    "discount_button_color": "#001926",
+    "discount_button_text_color": "#FFFFFF",
+    "discount_button_text_size": 20,
+    "discount_margin_top": 80,
+    "discount_text": "{{}}% OFF",
+    "discount_text_color": [
+        "#FF6695"
+    ],
+    "discount_text_description": "Enjoy lifetime access with a\nspecial offer. Because you\ndeserve it.",
+    "discount_text_description_color": [
+        "#BCBCBC"
+    ],
+    "discount_text_description_size": 20,
+    "discount_text_size": 40,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": "#FFFFFF",
+    "last_chance_cancel_color": "#000000",
+    "last_chance_cancel_size": 18,
+    "last_chance_cancel_text": "I don’t want it",
+    "last_chance_image_url": "https://i.imgur.com/P6PKGgt.png",
+    "last_chance_image_width": 0.46,
+    "last_chance_image_negative_margin": -240,
+    "last_chance_price_text_color": "#000000",
+    "last_chance_price_text_size": 16,
+    "last_chance_purchase_button_text": "Continue",
+    "last_chance_subtitle": "The offer won’t last long. Claim your lifetime discount now before it’s gone",
+    "last_chance_subtitle_color": "#606365",
+    "last_chance_subtitle_size": 16,
+    "last_chance_title": "Are you sure you don’t want a discount?",
+    "last_chance_title_color": "#000000",
+    "last_chance_title_size": 20,
+    "link_horizontal_space": 16,
+    "link_text_color": "#43292E",
+    "link_text_size": 13,
+    "purchase_button_color": [
+        "#FF6695"
+    ],
+    "purchase_button_text": "Continue",
+    "purchase_button_text_color": "#ffffff",
+    "subscription_option_background_color": "#FFFFFF",
+    "subscription_option_background_color_opacity": 0.01,
+    "subscription_option_border_color": [
+        "#FFFFFF"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#D9FCFF"
+    ],
+    "subscription_selected_option_border_color": [
+        "#D9FCFF"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "It’s Woman Wellness Month",
+    "subtitle_color": [
+        "#FFFFFF"
+    ],
+    "subtitle_position": "left",
+    "subtitle_size": 24,
+    "template": 3,
+    "title": "Take Care Love",
+    "title_color": [
+        "#FFFFFF"
+    ],
+    "title_margin_top": 0,
+    "title_position": "center",
+    "title_size": 32,
+    "pricing_area_margin_bottom": 120,
+    "translations": {
+        "de": {
+            "badge_text": "Sonderangebot",
+            "discount_text": "{{}} % RABATT",
+            "discount_text_description": "Genieße lebenslangen Zugang mit einem\nSonderangebot. Du hast es\ndir verdient.",
+            "last_chance_cancel_text": "Ich möchte es nicht",
+            "last_chance_purchase_button_text": "Weiter",
+            "last_chance_subtitle": "Das Angebot gilt nicht ewig.\nSichere dir jetzt den lebenslangen Rabatt,\nbevor es zu spät ist",
+            "last_chance_title": "Bist du sicher,\ndass du keinen Rabatt willst?",
+            "purchase_button_text": "Weiter",
+            "subtitle": "Es ist Monat der Frauengesundheit",
+            "title": "Kümmer dich um dich, Liebe"
+        },
+        "fr": {
+            "badge_text": "Offre spéciale",
+            "discount_text": "{{}} % DE RÉDUCTION",
+            "discount_text_description": "Profite d’un accès à vie avec une\noffre spéciale. Tu le\nmérites.",
+            "last_chance_cancel_text": "Je n’en veux pas",
+            "last_chance_purchase_button_text": "Continuer",
+            "last_chance_subtitle": "Cette offre ne durera pas.\nProfite du tarif à vie\navant qu’il ne soit trop tard",
+            "last_chance_title": "Tu es sûre de ne pas vouloir de réduction ?",
+            "purchase_button_text": "Continuer",
+            "subtitle": "C’est le Mois du bien-être féminin",
+            "title": "Prends soin de toi, ma belle"
+        },
+        "it": {
+            "badge_text": "Offerta speciale",
+            "discount_text": "{{}}% DI SCONTO",
+            "discount_text_description": "Goditi l’accesso a vita con un’\nofferta speciale. Perché te lo\nmeriti.",
+            "last_chance_cancel_text": "Non lo voglio",
+            "last_chance_purchase_button_text": "Continua",
+            "last_chance_subtitle": "L’offerta non durerà a lungo.\nOttieni ora lo sconto a vita\nprima che finisca",
+            "last_chance_title": "Sei sicura di non volere uno sconto?",
+            "purchase_button_text": "Continua",
+            "subtitle": "È il Mese del Benessere della Donna",
+            "title": "Abbi cura di te, amore"
+        },
+        "nb": {
+            "badge_text": "Spesialtilbud",
+            "discount_text": "{{}} % AVSLAG",
+            "discount_text_description": "Nyt livstidstilgang med et\nspesialtilbud. Du\nfortjener det.",
+            "last_chance_cancel_text": "Jeg vil ikke ha det",
+            "last_chance_purchase_button_text": "Fortsett",
+            "last_chance_subtitle": "Tilbudet varer ikke lenge.\nSikre deg livstidsrabatten nå\nfør det er for sent",
+            "last_chance_title": "Er du sikker på at du ikke vil ha rabatt?",
+            "purchase_button_text": "Fortsett",
+            "subtitle": "Det er Kvinnelig velvære-måned",
+            "title": "Ta vare på deg selv, kjære"
+        },
+        "pt_BR": {
+            "badge_text": "Oferta especial",
+            "discount_text": "{{}}% DE DESCONTO",
+            "discount_text_description": "Aproveite acesso vitalício com uma\noferta especial. Você merece isso.",
+            "last_chance_cancel_text": "Não quero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "A oferta não vai durar muito.\nGaranta seu desconto vitalício agora\nantes que acabe",
+            "last_chance_title": "Tem certeza de que não quer um desconto?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "É o Mês do Bem-Estar da Mulher",
+            "title": "Cuide-se, amor"
+        },
+        "pt_PT": {
+            "badge_text": "Oferta especial",
+            "discount_text": "{{}}% DE DESCONTO",
+            "discount_text_description": "Desfruta de acesso vitalício com uma\noferta especial. Tu mereces isso.",
+            "last_chance_cancel_text": "Não quero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "A oferta não vai durar muito.\nGarante já o teu desconto vitalício\nantes que desapareça",
+            "last_chance_title": "Tens a certeza de que não queres um desconto?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "É o Mês do Bem-Estar da Mulher",
+            "title": "Cuida-te, querida"
+        },
+        "ru": {
+            "badge_text": "Специальное предложение",
+            "discount_text": "{{}}% СКИДКА",
+            "discount_text_description": "Наслаждайся пожизненным доступом\nпо специальному предложению. Ты\nэтого заслуживаешь.",
+            "last_chance_cancel_text": "Я не хочу",
+            "last_chance_purchase_button_text": "Продолжить",
+            "last_chance_subtitle": "Предложение скоро закончится.\nПолучите пожизненную скидку\nпока не стало поздно",
+            "last_chance_title": "Ты уверена,\nчто не хочешь скидку?",
+            "purchase_button_text": "Продолжить",
+            "subtitle": "Месяц женского благополучия",
+            "title": "Позаботься о себе, милая"
+        },
+        "sv": {
+            "badge_text": "Specialerbjudande",
+            "discount_text": "{{}}% RABATT",
+            "discount_text_description": "Njut av livstidsåtkomst med ett\nspecialerbjudande. Du\nförtjänar det.",
+            "last_chance_cancel_text": "Jag vill inte ha det",
+            "last_chance_purchase_button_text": "Fortsätt",
+            "last_chance_subtitle": "Erbjudandet varar inte länge.\nFå livstidsrabatten nu\ninnan det är för sent",
+            "last_chance_title": "Är du säker på att du inte vill ha rabatt?",
+            "purchase_button_text": "Fortsätt",
+            "subtitle": "Det är kvinnors hälsomånad",
+            "title": "Ta hand om dig, älskling"
+        },
+        "zh_Hans": {
+            "badge_text": "特别优惠",
+            "discount_text": "{{}}% 折扣",
+            "discount_text_description": "享受终身访问权限，\n尽享特别优惠。\n你值得拥有。",
+            "last_chance_cancel_text": "我不想要",
+            "last_chance_purchase_button_text": "继续",
+            "last_chance_subtitle": "优惠即将结束。\n立即领取终身折扣，\n不要错过了",
+            "last_chance_title": "你确定不想要折扣吗？",
+            "purchase_button_text": "继续",
+            "subtitle": "女性健康月",
+            "title": "好好照顾自己，亲爱的"
+        },
+        "zh_Hant": {
+            "badge_text": "特別優惠",
+            "discount_text": "{{}}% 折扣",
+            "discount_text_description": "享有終身存取權，\n搭配特別優惠。\n妳值得擁有。",
+            "last_chance_cancel_text": "我不想要",
+            "last_chance_purchase_button_text": "繼續",
+            "last_chance_subtitle": "優惠即將結束。\n立即領取終身折扣，\n別錯過了",
+            "last_chance_title": "妳確定不想要折扣嗎？",
+            "purchase_button_text": "繼續",
+            "subtitle": "女性健康月",
+            "title": "好好照顧自己，親愛的"
+        },
+        "ja": {
+            "badge_text": "特別オファー",
+            "discount_text": "{{}}% オフ",
+            "discount_text_description": "特別なオファーで\n一生使えるアクセスを。\nあなたにふさわしい。",
+            "last_chance_cancel_text": "いりません",
+            "last_chance_purchase_button_text": "続ける",
+            "last_chance_subtitle": "このオファーは長く続きません。\n今すぐ一生使える割引をゲットしよう\nなくなる前に",
+            "last_chance_title": "本当に割引は必要ありませんか？",
+            "purchase_button_text": "続ける",
+            "subtitle": "女性の健康月間です",
+            "title": "自分を大切にしてね"
+        },
+        "ko": {
+            "badge_text": "특별 할인",
+            "discount_text": "{{}}% 할인",
+            "discount_text_description": "특별한 제안으로\n평생 이용 가능.\n당신은 받을 자격이 있어요.",
+            "last_chance_cancel_text": "원하지 않아요",
+            "last_chance_purchase_button_text": "계속하기",
+            "last_chance_subtitle": "이 혜택은 오래가지 않아요.\n지금 평생 할인을 받아보세요\n놓치기 전에",
+            "last_chance_title": "정말 할인을 원하지 않으세요?",
+            "purchase_button_text": "계속하기",
+            "subtitle": "여성 건강의 달입니다",
+            "title": "사랑하는 당신,\n자신을 돌보세요"
+        },
+        "da": {
+            "badge_text": "Særtilbud",
+            "discount_text": "{{}}% RABAT",
+            "discount_text_description": "Nyd livstidsadgang med et\nsærtilbud. Du\nfortjener det.",
+            "last_chance_cancel_text": "Jeg vil ikke have det",
+            "last_chance_purchase_button_text": "Fortsæt",
+            "last_chance_subtitle": "Tilbuddet varer ikke længe.\nFå din livstidsrabat nu\nfør det er for sent",
+            "last_chance_title": "Er du sikker på,\nat du ikke vil have rabat?",
+            "purchase_button_text": "Fortsæt",
+            "subtitle": "Det er Kvinders Sundhedsmåned",
+            "title": "Pas på dig selv, skat"
+        },
+        "es": {
+            "badge_text": "Oferta especial",
+            "discount_text": "{{}}% DE DESCUENTO",
+            "discount_text_description": "Disfruta acceso de por vida con una\noferta especial. Te lo\nmereces.",
+            "last_chance_cancel_text": "No lo quiero",
+            "last_chance_purchase_button_text": "Continuar",
+            "last_chance_subtitle": "La oferta no durará mucho.\nAprovecha el descuento de por vida\nantes de que desaparezca",
+            "last_chance_title": "¿Estás segura de que no quieres un descuento?",
+            "purchase_button_text": "Continuar",
+            "subtitle": "Es el Mes del Bienestar de la Mujer",
+            "title": "Cuídate, amor"
+        },
+        "nl": {
+            "badge_text": "Speciale aanbieding",
+            "discount_text": "{{}}% KORTING",
+            "discount_text_description": "Geniet van levenslange toegang met een\nspeciale aanbieding. Je\nverdient het.",
+            "last_chance_cancel_text": "Ik wil het niet",
+            "last_chance_purchase_button_text": "Doorgaan",
+            "last_chance_subtitle": "De aanbieding is tijdelijk.\nClaim je levenslange korting nu\nvoor het te laat is",
+            "last_chance_title": "Weet je zeker dat je geen korting wilt?",
+            "purchase_button_text": "Doorgaan",
+            "subtitle": "Het is Vrouwen Welzijnsmaand",
+            "title": "Zorg goed voor jezelf, liefje"
+        },
+        "fi": {
+            "badge_text": "Erikoistarjous",
+            "discount_text": "{{}}% ALENNUS",
+            "discount_text_description": "Nauti elinikäisestä pääsystä\nerikoistarjouksella. Sinä\nansaitset sen.",
+            "last_chance_cancel_text": "En halua sitä",
+            "last_chance_purchase_button_text": "Jatka",
+            "last_chance_subtitle": "Tarjous ei kestä kauaa.\nHanki elinikäinen alennus nyt\nennen kuin se katoaa",
+            "last_chance_title": "Oletko varma,\nettet halua alennusta?",
+            "purchase_button_text": "Jatka",
+            "subtitle": "Naisten hyvinvoinnin kuukausi",
+            "title": "Pidä huolta itsestäsi, rakas"
+        },
+        "ro": {
+            "badge_text": "Ofertă specială",
+            "discount_text": "{{}}% REDUCERE",
+            "discount_text_description": "Bucură-te de acces pe viață cu o\nofertă specială. Meriți\nasta.",
+            "last_chance_cancel_text": "Nu o vreau",
+            "last_chance_purchase_button_text": "Continuă",
+            "last_chance_subtitle": "Oferta nu va dura mult.\nProfită acum de reducerea pe viață\nînainte să dispară",
+            "last_chance_title": "Ești sigură că nu vrei o reducere?",
+            "purchase_button_text": "Continuă",
+            "subtitle": "Este Luna Sănătății Femeii",
+            "title": "Ai grijă de tine, draga mea"
+        },
+        "uk": {
+            "badge_text": "Спеціальна пропозиція",
+            "discount_text": "{{}}% ЗНИЖКА",
+            "discount_text_description": "Отримай довічний доступ зі\nспеціальною пропозицією. Ти\nце заслужила.",
+            "last_chance_cancel_text": "Я не хочу",
+            "last_chance_purchase_button_text": "Продовжити",
+            "last_chance_subtitle": "Пропозиція діє недовго.\nОтримай довічну знижку зараз,\nпоки не стало пізно",
+            "last_chance_title": "Ти впевнена,\nщо не хочеш знижку?",
+            "purchase_button_text": "Продовжити",
+            "subtitle": "Це Місяць жіночого добробуту",
+            "title": "Потурбуйся про себе, люба"
+        }
+    }
+}
