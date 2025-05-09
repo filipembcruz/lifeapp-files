@@ -1,0 +1,77 @@
+{
+    "title": "Woman Wellness Month 86% OFF ",
+    "subtitle": "Woman Wellness Month 86% OFF ",
+    "title_text_color": "#FFFFFF",
+    "subtitle_text_color": "#FFFFFF",
+    "countdown": true,
+    "deadline": "2025-05-16",
+    "background": {
+        "start_color": "#FF0053",
+        "end_color": "#FFFFFF",
+        "direction": "left-to-right"
+    },
+    "title_font_size": "18",
+    "subtitle_font_size": "14",
+    "animation": {
+        "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/Womens-wellness-animation.json",
+        "width": "50",
+        "height": "60",
+        "right_padding": "16"
+    },
+    "translations": {
+        "de": {
+            "title": "Monat der Frauengesundheit – 86 % RABATT"
+        },
+        "fr": {
+            "title": "Mois du bien-être féminin – 86 % DE RÉDUCTION"
+        },
+        "it": {
+            "title": "Mese del benessere femminile – 86% DI SCONTO"
+        },
+        "nb": {
+            "title": "Kvinnelig velvære-måned – 86 % AVSLAG"
+        },
+        "pt_BR": {
+            "title": "Mês do Bem-Estar da Mulher – 86% OFF"
+        },
+        "pt_PT": {
+            "title": "Mês do Bem-Estar da Mulher – 86% OFF"
+        },
+        "ru": {
+            "title": "Месяц женского благополучия – СКИДКА 86%"
+        },
+        "sv": {
+            "title": "Kvinnors hälsomånad – 86 % RABATT"
+        },
+        "zh_Hans": {
+            "title": "女性健康月 – 立减 86%"
+        },
+        "zh_Hant": {
+            "title": "女性健康月 – 立減 86%"
+        },
+        "ja": {
+            "title": "女性の健康月間 – 86% オフ"
+        },
+        "ko": {
+            "title": "여성 건강의 달 – 86% 할인"
+        },
+        "da": {
+            "title": "Kvinders Sundhedsmåned – 86% RABAT"
+        },
+        "es": {
+            "title": "Mes del Bienestar de la Mujer – 86% OFF"
+        },
+        "nl": {
+            "title": "Vrouwen Welzijnsmaand – 86% KORTING"
+        },
+        "fi": {
+            "title": "Naisten hyvinvoinnin kuukausi – 86% ALENNUS"
+        },
+        "ro": {
+            "title": "Luna Sănătății Femeii – 86% REDUCERE"
+        },
+        "uk": {
+            "title": "Місяць жіночого добробуту – ЗНИЖКА 86%"
+        }
+    }
+}
