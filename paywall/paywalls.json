@@ -21,10 +21,10 @@
                 "priceID": 10
             },
             {
-                "name": "#1 Cycle Syncing App",
+                "name": "Be Prepared",
                 "origin:": "git",
                 "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/cycle-syncing-app.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/be-prepared.json",
                 "priceID": 10
             }
         ]
