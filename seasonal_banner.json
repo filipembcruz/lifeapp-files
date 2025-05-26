@@ -1,0 +1,48 @@
+{
+          "title": "50% off For a #PeriodFriendlyWorld",
+          "subtitle": "50% off For a #PeriodFriendlyWorld",
+          "title_text_color": "#FFFFFF",
+          "subtitle_text_color": "#FFFFFF",
+          "countdown": true,
+          "deadline": "2025-05-31",
+          "background": {
+            "start_color": "#763982",
+            "end_color": "#BB31B8",
+            "direction": "left-to-right"
+          },
+          "title_font_size": "18",
+          "subtitle_font_size": "14",
+          "animation": {
+            "type":
+                "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/emoji.json",
+            "width": "80",
+            "height": "80",
+            "right_padding": "16"
+          },
+          "translations": {
+            "de": {"title": "86% Rabatt für eine #PeriodenfreundlicheWelt"},
+            "fr": {"title": "-86% #MondeAmicalAvecLesRègles"},
+            "it": {"title": "86% di sconto per un #MondoAmicoDelCiclo"},
+            "nb": {"title": "86 % rabatt for en #MensvennligVerden"},
+            "pt_BR": {"title": "86% OFF #MundoAmigoDaMenstruação"},
+            "pt_PT": {"title": "86% OFF #MundoAmigoDaMenstruação"},
+            "ru": {"title": "Скидка 86% за #МирДружелюбныйКМенструации"},
+            "sv": {"title": "86 % rabatt för en #MensvänligVärld"},
+            "zh_Hans": {"title": "86% 折扣，为了一个#经期友好世界"},
+            "zh_Hant": {"title": "86% 折扣，為了一個#月經友善世界"},
+            "ja": {"title": "86%オフ #生理に優しい世界のために"},
+            "ko": {"title": "#생리친화적세상 을 위한 86% 할인"},
+            "da": {"title": "86% rabat for en #MenstruationsvenligVerden"},
+            "es": {
+              "title": "86% de descuento por un #MundoAmigableConLaMenstruación"
+            },
+            "nl": {
+              "title": "86% korting voor een #MenstruatievriendelijkeWereld"
+            },
+            "fi": {
+              "title": "86 % alennus #KuukautisystävällinenMaailma varten"
+            },
+            "ro": {"title": "86% reducere pentru o #LumePrietenăCuMenstruația"},
+            "uk": {"title": "Знижка 86% за #СвітДружнійДоМенструації"}
+          }
+        }
