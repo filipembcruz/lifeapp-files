@@ -44,24 +44,24 @@
         "priceID": 7
     },
     {
-        "name": "Women's Wellness Month",
+        "name": "World Menstrual Hygiene Day",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Today is for you",
+                "name": "V2 (Purple)",
                 "origin:": "git",
                 "type": "seasonal",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/WomensWellnessTemplate2.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "Take care love",
+                "name": "v3 (White)",
                 "origin:": "git",
                 "type": "seasonal",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/WomensWellnessTemplate3.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
                 "priceID": 0
             }
         ]
