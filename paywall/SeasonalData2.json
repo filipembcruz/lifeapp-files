@@ -1,0 +1,306 @@
+{
+  "background_color": [
+    "#ffffff"
+  ],
+  "background_image": "https://i.ibb.co/rGdBH1wy/v3.png",
+  "badge_background_color": [
+    "#B93C8D"
+  ],
+  "badge_border_color": "#C83A69",
+  "badge_position": "right",
+  "badge_text": "Special day sale",
+  "badge_text_color": "#FFFFFF",
+  "close_btn_color": "#171515",
+  "close_btn_position": "left",
+  "close_btn_size": 40,
+  "discount_button_border_color": "#C53566",
+  "discount_button_color": "#C0397A",
+  "discount_button_text_color": "#FFFFFF",
+  "discount_button_text_size": 20,
+  "discount_margin_top": 30,
+  "discount_text": "{{}}% OFF",
+  "discount_text_color": [
+    "#B93C8D"
+  ],
+  "discount_text_description": "Because you deserve care &\nscience-backed insights.",
+  "discount_text_description_color": [
+    "#393939"
+  ],
+  "discount_text_description_size": 24,
+  "discount_text_size": 40,
+  "divider_height": 0,
+  "divider_shape": "",
+  "foreground_color": "#FFFFFF",
+  "last_chance_cancel_color": "#000000",
+  "last_chance_cancel_size": 18,
+  "last_chance_cancel_text": "I don’t want it",
+  "last_chance_image_negative_margin": -165,
+  "last_chance_image_url": "https://i.ibb.co/6cjcpTyv/icon-v2.png",
+  "last_chance_image_width": 0.61,
+  "last_chance_price_text_color": "#000000",
+  "last_chance_price_text_size": 16,
+  "last_chance_purchase_button_text": "Continue",
+  "last_chance_subtitle": "The offer won’t last long. Claim your lifetime discout now before it’s gone",
+  "last_chance_subtitle_color": "#606365",
+  "last_chance_subtitle_size": 16,
+  "last_chance_title": "Are you sure you don’t want a discount?",
+  "last_chance_title_color": "#000000",
+  "last_chance_title_size": 20,
+  "link_horizontal_space": 16,
+  "link_text_color": "#43292E",
+  "link_text_size": 13,
+  "pricing_area_margin_bottom": 120,
+  "purchase_button_color": [
+    "#B93C8D",
+    "#C53566"
+  ],
+  "purchase_button_text": "Continue",
+  "purchase_button_text_color": "#ffffff",
+  "subscription_option_background_color": "#FFFFFF",
+  "subscription_option_background_color_opacity": 0.01,
+  "subscription_option_border_color": [
+    "#D3D3D3"
+  ],
+  "subscription_option_text_color": "#000000",
+  "subscription_selected_option_background_color": [
+    "#C53466"
+  ],
+  "subscription_selected_option_border_color": [
+    "#FF9D9D",
+    "#C53466"
+  ],
+  "subscription_selected_option_text_color": "#FFFFFF",
+  "subtitle": "For a #PeriodFriendlyWorld",
+  "subtitle_color": [
+    "#D76D80"
+  ],
+  "subtitle_position": "left",
+  "subtitle_size": 24,
+  "template": 3,
+  "title": "Life’s mega offer",
+  "title_color": [
+    "#E39493",
+    "#C43063"
+  ],
+  "title_margin_top": 40,
+  "title_position": "center",
+  "title_size": 40,
+  "translations": {
+    "da": {
+      "badge_text": "Dagens særlige tilbud",
+      "discount_text": "{{}}% RABAT",
+      "discount_text_description": "Fordi du fortjener omsorg og\nvidenskabeligt baseret indsigt.",
+      "last_chance_cancel_text": "Jeg vil ikke have det",
+      "last_chance_purchase_button_text": "Fortsæt",
+      "last_chance_subtitle": "Tilbuddet varer ikke længe. Få din livstidsrabat nu, før det er for sent",
+      "last_chance_title": "Er du sikker på, at du ikke vil have rabat?",
+      "purchase_button_text": "Fortsæt",
+      "subtitle": "For en #MenstruationsvenligVerden",
+      "title": "Lifes mega-tilbud"
+    },
+    "de": {
+      "badge_text": "Sonderaktion heute",
+      "discount_text": "{{}}% RABATT",
+      "discount_text_description": "Weil du Fürsorge &\nwissenschaftlich fundierte Einblicke verdienst.",
+      "last_chance_cancel_text": "Ich möchte das nicht",
+      "last_chance_purchase_button_text": "Weiter",
+      "last_chance_subtitle": "Das Angebot ist nur kurz verfügbar. Jetzt lebenslangen Rabatt sichern, bevor er weg ist",
+      "last_chance_title": "Bist du sicher, dass du keinen Rabatt möchtest?",
+      "purchase_button_text": "Weiter",
+      "subtitle": "Für eine #PeriodenfreundlicheWelt",
+      "title": "Life’s Mega-Angebot"
+    },
+    "es": {
+      "badge_text": "Oferta especial del día",
+      "discount_text": "{{}}% DE DESCUENTO",
+      "discount_text_description": "Porque mereces cuidado y\nconocimientos respaldados por la ciencia.",
+      "last_chance_cancel_text": "No lo quiero",
+      "last_chance_purchase_button_text": "Continuar",
+      "last_chance_subtitle": "La oferta no durará. Reclama tu descuento de por vida antes de que desaparezca",
+      "last_chance_title": "¿Estás segura de que no quieres un descuento?",
+      "purchase_button_text": "Continuar",
+      "subtitle": "Por un #MundoAmigableConLaMenstruación",
+      "title": "Mega oferta de Life"
+    },
+    "fi": {
+      "badge_text": "Päivän erikoistarjous",
+      "discount_text": "{{}}% ALENNUS",
+      "discount_text_description": "Koska ansaitset huolenpitoa ja\ntieteeseen perustuvaa tietoa.",
+      "last_chance_cancel_text": "En halua sitä",
+      "last_chance_purchase_button_text": "Jatka",
+      "last_chance_subtitle": "Tarjous ei kestä kauan. Hanki elinikäinen alennus nyt ennen kuin se katoaa",
+      "last_chance_title": "Oletko varma ettet halua alennusta?",
+      "purchase_button_text": "Jatka",
+      "subtitle": "#KuukautisystävällinenMaailma",
+      "title": "Lifen megatarjous"
+    },
+    "fr": {
+      "badge_text": "Offre spéciale du jour",
+      "discount_text": "{{}}% DE RÉDUCTION",
+      "discount_text_description": "Parce que tu mérites des soins et\ndes conseils fondés sur la science.",
+      "last_chance_cancel_text": "Je n’en veux pas",
+      "last_chance_purchase_button_text": "Continuer",
+      "last_chance_subtitle": "L’offre ne durera pas. Obtiens ton accès à vie maintenant",
+      "last_chance_title": "Es-tu sûre de ne pas vouloir de réduction ?",
+      "purchase_button_text": "Continuer",
+      "subtitle": "Pour un #MondeAmicalAvecLesRègles",
+      "title": "Offre exceptionnelle de Life"
+    },
+    "it": {
+      "badge_text": "Offerta speciale di oggi",
+      "discount_text": "{{}}% DI SCONTO",
+      "discount_text_description": "Perché meriti cura e\nconsigli basati sulla scienza.",
+      "last_chance_cancel_text": "Non lo voglio",
+      "last_chance_purchase_button_text": "Continua",
+      "last_chance_subtitle": "L’offerta è a tempo limitato. Approfitta ora dello sconto a vita",
+      "last_chance_title": "Sei sicura di non voler lo sconto?",
+      "purchase_button_text": "Continua",
+      "subtitle": "Per un #MondoAmicoDelCiclo",
+      "title": "Mega offerta di Life"
+    },
+    "ja": {
+      "badge_text": "本日の特別セール",
+      "discount_text": "{{}}% オフ",
+      "discount_text_description": "あなたにはケアと\n科学的なインサイトが必要です。",
+      "last_chance_cancel_text": "いりません",
+      "last_chance_purchase_button_text": "続ける",
+      "last_chance_subtitle": "このオファーは期間限定です。今すぐ生涯割引を手に入れてください",
+      "last_chance_title": "本当に割引を受けないのですか？",
+      "purchase_button_text": "続ける",
+      "subtitle": "#生理に優しい世界を目指して",
+      "title": "Lifeのメガオファー"
+    },
+    "ko": {
+      "badge_text": "오늘의 특별 할인",
+      "discount_text": "{{}}% 할인",
+      "discount_text_description": "당신은 돌봄과\n과학에 기반한 인사이트를 받을 자격이 있어요.",
+      "last_chance_cancel_text": "원하지 않아요",
+      "last_chance_purchase_button_text": "계속",
+      "last_chance_subtitle": "이 혜택은 곧 종료됩니다. 평생 할인을 지금 바로 받아보세요",
+      "last_chance_title": "정말로 할인을 원하지 않으세요?",
+      "purchase_button_text": "계속",
+      "subtitle": "#생리친화적세상을위해",
+      "title": "Life의 메가 혜택"
+    },
+    "nb": {
+      "badge_text": "Dagens spesialtilbud",
+      "discount_text": "{{}}% RABATT",
+      "discount_text_description": "Fordi du fortjener omsorg og\nkunnskapsbasert innsikt.",
+      "last_chance_cancel_text": "Jeg vil ikke ha det",
+      "last_chance_purchase_button_text": "Fortsett",
+      "last_chance_subtitle": "Tilbudet varer ikke lenge. Sikre deg livstidsrabatt nå før det er borte",
+      "last_chance_title": "Er du sikker på at du ikke vil ha rabatt?",
+      "purchase_button_text": "Fortsett",
+      "subtitle": "For en #MensvennligVerden",
+      "title": "Lifes mega-tilbud"
+    },
+    "nl": {
+      "badge_text": "Speciale dagaanbieding",
+      "discount_text": "{{}}% KORTING",
+      "discount_text_description": "Omdat jij zorg verdient en\ninzichten gebaseerd op wetenschap.",
+      "last_chance_cancel_text": "Ik wil het niet",
+      "last_chance_purchase_button_text": "Doorgaan",
+      "last_chance_subtitle": "De aanbieding is tijdelijk. Claim nu je levenslange korting",
+      "last_chance_title": "Weet je zeker dat je geen korting wilt?",
+      "purchase_button_text": "Doorgaan",
+      "subtitle": "Voor een #MenstruatievriendelijkeWereld",
+      "title": "Life's megadeal"
+    },
+    "pt_BR": {
+      "badge_text": "Oferta especial do dia",
+      "discount_text": "{{}}% DE DESCONTO",
+      "discount_text_description": "Porque você merece cuidado e\ninsights com base científica.",
+      "last_chance_cancel_text": "Não quero",
+      "last_chance_purchase_button_text": "Continuar",
+      "last_chance_subtitle": "A oferta é por tempo limitado. Garanta seu desconto vitalício antes que acabe",
+      "last_chance_title": "Tem certeza de que não quer um desconto?",
+      "purchase_button_text": "Continuar",
+      "subtitle": "Por um #MundoAmigoDaMenstruação",
+      "title": "Mega oferta da Life"
+    },
+    "pt_PT": {
+      "badge_text": "Promoção especial do dia",
+      "discount_text": "{{}}% DE DESCONTO",
+      "discount_text_description": "Porque mereces cuidado e\ninformações baseadas na ciência.",
+      "last_chance_cancel_text": "Não quero",
+      "last_chance_purchase_button_text": "Continuar",
+      "last_chance_subtitle": "A oferta não vai durar. Garante já o teu desconto vitalício antes que desapareça",
+      "last_chance_title": "Tens a certeza que não queres um desconto?",
+      "purchase_button_text": "Continuar",
+      "subtitle": "Por um #MundoAmigoDaMenstruação",
+      "title": "Mega oferta da Life"
+    },
+    "ro": {
+      "badge_text": "Reducere specială azi",
+      "discount_text": "{{}}% REDUCERE",
+      "discount_text_description": "Pentru că meriți grijă și\ninformații bazate pe știință.",
+      "last_chance_cancel_text": "Nu o vreau",
+      "last_chance_purchase_button_text": "Continuă",
+      "last_chance_subtitle": "Oferta nu va dura mult. Profită acum de reducerea pe viață",
+      "last_chance_title": "Ești sigură că nu vrei reducerea?",
+      "purchase_button_text": "Continuă",
+      "subtitle": "Pentru o #LumePrietenăCuMenstruația",
+      "title": "Mega ofertă Life"
+    },
+    "ru": {
+      "badge_text": "Сегодняшняя специальная акция",
+      "discount_text": "Скидка {{}}%",
+      "discount_text_description": "Потому что ты заслуживаешь заботу и\nнаучно обоснованные рекомендации.",
+      "last_chance_cancel_text": "Мне это не нужно",
+      "last_chance_purchase_button_text": "Продолжить",
+      "last_chance_subtitle": "Предложение скоро закончится. Получи пожизненную скидку, пока не поздно",
+      "last_chance_title": "Ты уверена, что не хочешь скидку?",
+      "purchase_button_text": "Продолжить",
+      "subtitle": "За #МирДружелюбныйКМенструации",
+      "title": "Мега-акция от Life"
+    },
+    "sv": {
+      "badge_text": "Dagens specialerbjudande",
+      "discount_text": "{{}}% RABATT",
+      "discount_text_description": "För att du förtjänar omsorg och\nvetenskapligt baserad insikt.",
+      "last_chance_cancel_text": "Jag vill inte ha det",
+      "last_chance_purchase_button_text": "Fortsätt",
+      "last_chance_subtitle": "Erbjudandet gäller inte länge. Få livstidsrabatt innan det är för sent",
+      "last_chance_title": "Är du säker på att du inte vill ha rabatt?",
+      "purchase_button_text": "Fortsätt",
+      "subtitle": "För en #MensvänligVärld",
+      "title": "Lifes megadeal"
+    },
+    "uk": {
+      "badge_text": "Сьогоднішній спеціальний розпродаж",
+      "discount_text": "{{}}% ЗНИЖКА",
+      "discount_text_description": "Ти заслуговуєш на турботу та\nнауково обґрунтовані знання.",
+      "last_chance_cancel_text": "Мені це не потрібно",
+      "last_chance_purchase_button_text": "Продовжити",
+      "last_chance_subtitle": "Пропозиція діє недовго. Отримай довічну знижку вже зараз",
+      "last_chance_title": "Ти впевнена, що не хочеш знижку?",
+      "purchase_button_text": "Продовжити",
+      "subtitle": "За #СвітДружнійДоМенструації",
+      "title": "Мега-пропозиція від Life"
+    },
+    "zh_Hans": {
+      "badge_text": "今日特卖",
+      "discount_text": "立减{{}}%",
+      "discount_text_description": "因为你值得被关爱，\n值得拥有科学支持的见解。",
+      "last_chance_cancel_text": "我不需要",
+      "last_chance_purchase_button_text": "继续",
+      "last_chance_subtitle": "优惠即将结束。立即领取终身折扣，别错过",
+      "last_chance_title": "你确定不想要折扣吗？",
+      "purchase_button_text": "继续",
+      "subtitle": "为一个#经期友好世界",
+      "title": "Life 超值特惠"
+    },
+    "zh_Hant": {
+      "badge_text": "今日特賣",
+      "discount_text": "立減{{}}%",
+      "discount_text_description": "妳值得被關愛，\n也值得科學支撐的洞察。",
+      "last_chance_cancel_text": "我不需要",
+      "last_chance_purchase_button_text": "繼續",
+      "last_chance_subtitle": "優惠即將結束。立即領取終身折扣，別錯過",
+      "last_chance_title": "妳確定不想要折扣嗎？",
+      "purchase_button_text": "繼續",
+      "subtitle": "為#月經友善世界",
+      "title": "Life 的超值優惠"
+    }
+  }
+}
