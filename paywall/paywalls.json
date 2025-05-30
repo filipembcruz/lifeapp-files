@@ -34,14 +34,46 @@
         "origin:": "qonversion",
         "type": "subscription",
         "variable": "subscription_template_8",
-        "priceID": 8
+        "priceID": 8,
+        "experiment": [
+            {
+                "name": "Bear",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-A.json",
+                "priceID": 8
+            },
+            {
+                "name": "Cat",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-B.json",
+                "priceID": 8
+            }
+        ]
     },
     {
         "name": "Current price 7",
         "origin:": "qonversion",
         "type": "subscription",
         "variable": "subscription_template_7",
-        "priceID": 7
+        "priceID": 7,
+        "experiment": [
+            {
+                "name": "White",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-A.json",
+                "priceID": 7
+            },
+            {
+                "name": "Orange",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-B.json",
+                "priceID": 7
+            }
+        ]
     },
     {
         "name": "World Menstrual Hygiene Day",
