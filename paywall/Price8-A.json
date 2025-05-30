@@ -1,22 +1,22 @@
 {
     "background_color": [
-        "#AF485E"
+        "#B02653"
     ],
     "background_height": 0.39,
     "background_icon": "",
     "background_icon_position": "right",
-    "background_image": "https://i.ibb.co/p8sLbWt/63688600-1.png",
+    "background_image": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/bg-p8-v2.png",
     "badge_background_color": [
         "#D1416B"
     ],
+    "badge_border_color": "#D1416B",
     "badge_position": "center",
     "badge_text": "Most popular",
     "badge_text_color": "#FFFFFF",
-    "badge_border_color": "#D1416B",
     "cancel_text": "Cancel anytime",
     "cancel_text_color": "#5CE06C",
     "cancel_text_size": 20,
-    "close_btn_color": "#000000",
+    "close_btn_color": "#FFFFFF",
     "close_btn_position": "left",
     "close_btn_size": 32,
     "divider_height": 20,
@@ -27,6 +27,7 @@
     "link_horizontal_space": 16,
     "link_text_color": "#000000",
     "link_text_size": 13,
+    "purchase_area_margin_top": 90,
     "purchase_button_color": [
         "#D1416B"
     ],
@@ -35,14 +36,14 @@
     "restore_text": "Restore purchase",
     "restore_text_color": "#B02653",
     "restore_text_size": 16,
-    "subscription_option_border_color": [
-        "#EFEFEF"
-    ],
-    "subscription_option_text_color": "#000000",
     "subscription_option_background_color": [
         "#EFEFEF"
     ],
     "subscription_option_background_color_opacity": 0.59,
+    "subscription_option_border_color": [
+        "#EFEFEF"
+    ],
+    "subscription_option_text_color": "#000000",
     "subscription_selected_option_background_color": [
         "#FFEAEE"
     ],
@@ -61,11 +62,18 @@
     "title_color": [
         "#B02653"
     ],
-    "title_position": "left",
     "title_margin_top": 40,
+    "title_position": "left",
     "title_size": 32,
-    "purchase_area_margin_top": 90,
     "translations": {
+        "da": {
+            "badge_text": "Mest populære",
+            "cancel_text": "Annuller når som helst",
+            "purchase_button_text": "Fortsæt",
+            "restore_text": "Gendan køb",
+            "subtitle": "Et eksklusivt tilbud – kun til dig",
+            "title": "Prisfaldsvarsel 🚨"
+        },
         "de": {
             "badge_text": "Am beliebtesten",
             "cancel_text": "Jederzeit kündbar",
@@ -73,6 +81,22 @@
             "restore_text": "Kauf wiederherstellen",
             "subtitle": "Ein exklusives Angebot – nur für dich",
             "title": "Preisreduzierungsalarm 🚨"
+        },
+        "es": {
+            "badge_text": "Más popular",
+            "cancel_text": "Cancela en cualquier momento",
+            "purchase_button_text": "Continuar",
+            "restore_text": "Restaurar compra",
+            "subtitle": "Una oferta exclusiva, solo para ti",
+            "title": "Alerta de bajada de precio 🚨"
+        },
+        "fi": {
+            "badge_text": "Suosituin",
+            "cancel_text": "Peruuta milloin tahansa",
+            "purchase_button_text": "Jatka",
+            "restore_text": "Palauta osto",
+            "subtitle": "Yksinoikeudellinen tarjous – juuri sinulle",
+            "title": "Hintapudotusilmoitus 🚨"
         },
         "fr": {
             "badge_text": "Le plus populaire",
@@ -90,6 +114,22 @@
             "subtitle": "Un'offerta esclusiva, solo per te",
             "title": "Avviso di calo prezzo 🚨"
         },
+        "ja": {
+            "badge_text": "最も人気のある",
+            "cancel_text": "いつでもキャンセル可能",
+            "purchase_button_text": "続ける",
+            "restore_text": "購入を復元",
+            "subtitle": "あなただけの特別オファーです",
+            "title": "価格下落アラート 🚨"
+        },
+        "ko": {
+            "badge_text": "가장 인기 있는",
+            "cancel_text": "언제든지 취소 가능",
+            "purchase_button_text": "계속",
+            "restore_text": "구매 복원",
+            "subtitle": "오직 당신을 위한 특별한 제안",
+            "title": "가격 하락 알림 🚨"
+        },
         "nb": {
             "badge_text": "Mest populær",
             "cancel_text": "Avbryt når som helst",
@@ -97,6 +137,14 @@
             "restore_text": "Gjenopprett kjøp",
             "subtitle": "Et eksklusivt tilbud – bare for deg",
             "title": "Prisnedgangsvarsel 🚨"
+        },
+        "nl": {
+            "badge_text": "Meest populair",
+            "cancel_text": "Op elk moment annuleren",
+            "purchase_button_text": "Doorgaan",
+            "restore_text": "Aankoop herstellen",
+            "subtitle": "Een exclusief aanbod, speciaal voor jou",
+            "title": "Prijsdaling alarm 🚨"
         },
         "pt_BR": {
             "badge_text": "Mais popular",
@@ -114,6 +162,14 @@
             "subtitle": "Uma oferta exclusiva, só para ti",
             "title": "Alerta de descida de preço 🚨"
         },
+        "ro": {
+            "badge_text": "Cea mai populară",
+            "cancel_text": "Anulează oricând",
+            "purchase_button_text": "Continuă",
+            "restore_text": "Restabilește achiziția",
+            "subtitle": "O ofertă exclusivă, doar pentru tine",
+            "title": "Alertă de scădere a prețului 🚨"
+        },
         "ru": {
             "badge_text": "Самая популярная",
             "cancel_text": "Отменить в любое время",
@@ -130,6 +186,14 @@
             "subtitle": "Ett exklusivt erbjudande – bara för dig",
             "title": "Prisfallvarning 🚨"
         },
+        "uk": {
+            "badge_text": "Найпопулярніша",
+            "cancel_text": "Скасувати будь-коли",
+            "purchase_button_text": "Продовжити",
+            "restore_text": "Відновити покупку",
+            "subtitle": "Ексклюзивна пропозиція – лише для тебе",
+            "title": "Сповіщення про зниження ціни 🚨"
+        },
         "zh_Hans": {
             "badge_text": "最受欢迎",
             "cancel_text": "随时取消",
@@ -145,70 +209,6 @@
             "restore_text": "恢復購買",
             "subtitle": "專屬優惠，為妳準備",
             "title": "降價提醒 🚨"
-        },
-        "ja": {
-            "badge_text": "最も人気のある",
-            "cancel_text": "いつでもキャンセル可能",
-            "purchase_button_text": "続ける",
-            "restore_text": "購入を復元",
-            "subtitle": "あなただけの特別オファーです",
-            "title": "価格下落アラート 🚨"
-        },
-        "ko": {
-            "badge_text": "가장 인기 있는",
-            "cancel_text": "언제든지 취소 가능",
-            "purchase_button_text": "계속",
-            "restore_text": "구매 복원",
-            "subtitle": "오직 당신을 위한 특별한 제안",
-            "title": "가격 하락 알림 🚨"
-        },
-        "da": {
-            "badge_text": "Mest populære",
-            "cancel_text": "Annuller når som helst",
-            "purchase_button_text": "Fortsæt",
-            "restore_text": "Gendan køb",
-            "subtitle": "Et eksklusivt tilbud – kun til dig",
-            "title": "Prisfaldsvarsel 🚨"
-        },
-        "es": {
-            "badge_text": "Más popular",
-            "cancel_text": "Cancela en cualquier momento",
-            "purchase_button_text": "Continuar",
-            "restore_text": "Restaurar compra",
-            "subtitle": "Una oferta exclusiva, solo para ti",
-            "title": "Alerta de bajada de precio 🚨"
-        },
-        "nl": {
-            "badge_text": "Meest populair",
-            "cancel_text": "Op elk moment annuleren",
-            "purchase_button_text": "Doorgaan",
-            "restore_text": "Aankoop herstellen",
-            "subtitle": "Een exclusief aanbod, speciaal voor jou",
-            "title": "Prijsdaling alarm 🚨"
-        },
-        "fi": {
-            "badge_text": "Suosituin",
-            "cancel_text": "Peruuta milloin tahansa",
-            "purchase_button_text": "Jatka",
-            "restore_text": "Palauta osto",
-            "subtitle": "Yksinoikeudellinen tarjous – juuri sinulle",
-            "title": "Hintapudotusilmoitus 🚨"
-        },
-        "ro": {
-            "badge_text": "Cea mai populară",
-            "cancel_text": "Anulează oricând",
-            "purchase_button_text": "Continuă",
-            "restore_text": "Restabilește achiziția",
-            "subtitle": "O ofertă exclusivă, doar pentru tine",
-            "title": "Alertă de scădere a prețului 🚨"
-        },
-        "uk": {
-            "badge_text": "Найпопулярніша",
-            "cancel_text": "Скасувати будь-коли",
-            "purchase_button_text": "Продовжити",
-            "restore_text": "Відновити покупку",
-            "subtitle": "Ексклюзивна пропозиція – лише для тебе",
-            "title": "Сповіщення про зниження ціни 🚨"
         }
     }
 }
