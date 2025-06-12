@@ -76,21 +76,21 @@
         ]
     },
     {
-        "name": "World Menstrual Hygiene Day",
+        "name": "Summer Campaign I",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
         "priceID": 0,
         "experiment": [
             {
-                "name": "V2 (Purple)",
+                "name": "V2 (Cat)",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "v3 (White)",
+                "name": "V2 (Flower)",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",

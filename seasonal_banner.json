@@ -1,48 +1,95 @@
 {
-          "title": "86% off For a #PeriodFriendlyWorld",
-          "subtitle": "86% off For a #PeriodFriendlyWorld",
-          "title_text_color": "#FFFFFF",
-          "subtitle_text_color": "#FFFFFF",
-          "countdown": true,
-          "deadline": "2025-05-31",
-          "background": {
-            "start_color": "#763982",
-            "end_color": "#BB31B8",
-            "direction": "left-to-right"
-          },
-          "title_font_size": "18",
-          "subtitle_font_size": "14",
-          "animation": {
-            "type":
-                "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/emoji.json",
-            "width": "80",
-            "height": "80",
-            "right_padding": "16"
-          },
-          "translations": {
-            "de": {"title": "86% Rabatt für eine #PeriodenfreundlicheWelt"},
-            "fr": {"title": "-86% #MondeAmicalAvecLesRègles"},
-            "it": {"title": "86% di sconto per un #MondoAmicoDelCiclo"},
-            "nb": {"title": "86 % rabatt for en #MensvennligVerden"},
-            "pt_BR": {"title": "86% OFF #MundoAmigoDaMenstruação"},
-            "pt_PT": {"title": "86% OFF #MundoAmigoDaMenstruação"},
-            "ru": {"title": "Скидка 86% за #МирДружелюбныйКМенструации"},
-            "sv": {"title": "86 % rabatt för en #MensvänligVärld"},
-            "zh_Hans": {"title": "86% 折扣，为了一个#经期友好世界"},
-            "zh_Hant": {"title": "86% 折扣，為了一個#月經友善世界"},
-            "ja": {"title": "86%オフ #生理に優しい世界のために"},
-            "ko": {"title": "#생리친화적세상 을 위한 86% 할인"},
-            "da": {"title": "86% rabat for en #MenstruationsvenligVerden"},
-            "es": {
-              "title": "86% de descuento por un #MundoAmigableConLaMenstruación"
-            },
-            "nl": {
-              "title": "86% korting voor een #MenstruatievriendelijkeWereld"
-            },
-            "fi": {
-              "title": "86 % alennus #KuukautisystävällinenMaailma varten"
-            },
-            "ro": {"title": "86% reducere pentru o #LumePrietenăCuMenstruația"},
-            "uk": {"title": "Знижка 86% за #СвітДружнійДоМенструації"}
-          }
-        }
+  "title": "86% off, all for you",
+  "subtitle": "86% off, all for you",
+  "title_text_color": "#B02653",
+  "subtitle_text_color": "#799540",
+  "countdown": true,
+  "deadline": "2025-06-17",
+  "background": {
+    "start_color": "#FFECEE",
+    "end_color": "#FFECEE",
+    "direction": "left-to-right"
+  },
+  "title_font_size": "18",
+  "subtitle_font_size": "14",
+  "animation": {
+    "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
+    "width": "80",
+    "height": "80",
+    "right_padding": "16"
+  },
+  "translations": {
+    "de": {
+      "title": "86% RABATT – nur für dich",
+      "subtitle": "86% RABATT – nur für dich"
+    },
+    "fr": {
+      "title": "86 % de réduction, rien que pour toi",
+      "subtitle": "86 % de réduction, rien que pour toi"
+    },
+    "it": {
+      "title": "86% di sconto, tutto per te",
+      "subtitle": "86% di sconto, tutto per te"
+    },
+    "nb": {
+      "title": "86 % rabatt, bare for deg",
+      "subtitle": "86 % rabatt, bare for deg"
+    },
+    "pt_BR": {
+      "title": "86% OFF, só para você",
+      "subtitle": "86% OFF, só para você"
+    },
+    "pt_PT": {
+      "title": "86% OFF, só para ti",
+      "subtitle": "86% OFF, só para ti"
+    },
+    "ru": {
+      "title": "Скидка 86% — только для тебя",
+      "subtitle": "Скидка 86% — только для тебя"
+    },
+    "sv": {
+      "title": "86 % rabatt, bara för dig",
+      "subtitle": "86 % rabatt, bara för dig"
+    },
+    "zh_Hans": {
+      "title": "86% 折扣，只为你",
+      "subtitle": "86% 折扣，只为你"
+    },
+    "zh_Hant": {
+      "title": "86% 折扣，只為妳",
+      "subtitle": "86% 折扣，只為妳"
+    },
+    "ja": {
+      "title": "86%オフ、すべてあなたのために",
+      "subtitle": "86%オフ、すべてあなたのために"
+    },
+    "ko": {
+      "title": "86% 할인, 모두 당신을 위해",
+      "subtitle": "86% 할인, 모두 당신을 위해"
+    },
+    "da": {
+      "title": "86 % rabat – kun til dig",
+      "subtitle": "86 % rabat – kun til dig"
+    },
+    "es": {
+      "title": "86% de descuento, solo para ti",
+      "subtitle": "86% de descuento, solo para ti"
+    },
+    "nl": {
+      "title": "86% korting, speciaal voor jou",
+      "subtitle": "86% korting, speciaal voor jou"
+    },
+    "fi": {
+      "title": "86 % alennus – vain sinulle",
+      "subtitle": "86 % alennus – vain sinulle"
+    },
+    "ro": {
+      "title": "86% reducere, doar pentru tine",
+      "subtitle": "86% reducere, doar pentru tine"
+    },
+    "uk": {
+      "title": "Знижка 86% — лише для тебе",
+      "subtitle": "Знижка 86% — лише для тебе"
+    }
+  }
+}
