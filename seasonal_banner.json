@@ -1,13 +1,13 @@
 {
-  "title": "86% off, all for you",
-  "subtitle": "86% off, all for you",
-  "title_text_color": "#B02653",
-  "subtitle_text_color": "#799540",
+  "title": "86% off for well-being week",
+  "subtitle": "86% off for well-being week",
+  "title_text_color": "#3A2D2F",
+  "subtitle_text_color": "#524345",
   "countdown": true,
-  "deadline": "2025-06-23",
+  "deadline": "2025-06-30",
   "background": {
-    "start_color": "#FFECEE",
-    "end_color": "#FFECEE",
+    "start_color": "#FBCB01",
+    "end_color": "#FBCB01",
     "direction": "left-to-right"
   },
   "title_font_size": "18",
@@ -20,76 +20,76 @@
   },
   "translations": {
     "de": {
-      "title": "86% RABATT – nur für dich",
-      "subtitle": "86% RABATT – nur für dich"
+      "title": "86 % Rabatt zur Woche des Wohlbefindens",
+      "subtitle": "86 % Rabatt zur Woche des Wohlbefindens"
     },
     "fr": {
-      "title": "86 % de réduction, rien que pour toi",
-      "subtitle": "86 % de réduction, rien que pour toi"
+      "title": "-86 % pour la Semaine du Bien-Être",
+      "subtitle": "-86 % pour la Semaine du Bien-Être"
     },
     "it": {
-      "title": "86% di sconto, tutto per te",
-      "subtitle": "86% di sconto, tutto per te"
+      "title": "86% di sconto per la Settimana del Benessere",
+      "subtitle": "86% di sconto per la Settimana del Benessere"
     },
     "nb": {
-      "title": "86 % rabatt, bare for deg",
-      "subtitle": "86 % rabatt, bare for deg"
+      "title": "86 % rabatt under Velværeuken",
+      "subtitle": "86 % rabatt under Velværeuken"
     },
     "pt_BR": {
-      "title": "86% OFF, só para você",
-      "subtitle": "86% OFF, só para você"
+      "title": "86% OFF na Semana do Bem-Estar",
+      "subtitle": "86% OFF na Semana do Bem-Estar"
     },
     "pt_PT": {
-      "title": "86% OFF, só para ti",
-      "subtitle": "86% OFF, só para ti"
+      "title": "86% OFF na Semana do Bem-Estar",
+      "subtitle": "86% OFF na Semana do Bem-Estar"
     },
     "ru": {
-      "title": "Скидка 86% — только для тебя",
-      "subtitle": "Скидка 86% — только для тебя"
+      "title": "Скидка 86% на Неделе благополучия",
+      "subtitle": "Скидка 86% на Неделе благополучия"
     },
     "sv": {
-      "title": "86 % rabatt, bara för dig",
-      "subtitle": "86 % rabatt, bara för dig"
+      "title": "86 % rabatt under Välmåendets vecka",
+      "subtitle": "86 % rabatt under Välmåendets vecka"
     },
     "zh_Hans": {
-      "title": "86% 折扣，只为你",
-      "subtitle": "86% 折扣，只为你"
+      "title": "身心健康周立减 86%",
+      "subtitle": "身心健康周立减 86%"
     },
     "zh_Hant": {
-      "title": "86% 折扣，只為妳",
-      "subtitle": "86% 折扣，只為妳"
+      "title": "身心健康週 86% 折扣",
+      "subtitle": "身心健康週 86% 折扣"
     },
     "ja": {
-      "title": "86%オフ、すべてあなたのために",
-      "subtitle": "86%オフ、すべてあなたのために"
+      "title": "ウェルビーイング週間：86%オフ",
+      "subtitle": "ウェルビーイング週間：86%オフ"
     },
     "ko": {
-      "title": "86% 할인, 모두 당신을 위해",
-      "subtitle": "86% 할인, 모두 당신을 위해"
+      "title": "웰빙 주간 86% 할인",
+      "subtitle": "웰빙 주간 86% 할인"
     },
     "da": {
-      "title": "86 % rabat – kun til dig",
-      "subtitle": "86 % rabat – kun til dig"
+      "title": "86 % rabat under Velværeugen",
+      "subtitle": "86 % rabat under Velværeugen"
     },
     "es": {
-      "title": "86% de descuento, solo para ti",
-      "subtitle": "86% de descuento, solo para ti"
+      "title": "86% de descuento en la Semana del Bienestar",
+      "subtitle": "86% de descuento en la Semana del Bienestar"
     },
     "nl": {
-      "title": "86% korting, speciaal voor jou",
-      "subtitle": "86% korting, speciaal voor jou"
+      "title": "86% korting tijdens de Week van het Welzijn",
+      "subtitle": "86% korting tijdens de Week van het Welzijn"
     },
     "fi": {
-      "title": "86 % alennus – vain sinulle",
-      "subtitle": "86 % alennus – vain sinulle"
+      "title": "86 % alennus Hyvinvoinnin viikolla",
+      "subtitle": "86 % alennus Hyvinvoinnin viikolla"
     },
     "ro": {
-      "title": "86% reducere, doar pentru tine",
-      "subtitle": "86% reducere, doar pentru tine"
+      "title": "86% reducere pentru Săptămâna Bunăstării",
+      "subtitle": "86% reducere pentru Săptămâna Bunăstării"
     },
     "uk": {
-      "title": "Знижка 86% — лише для тебе",
-      "subtitle": "Знижка 86% — лише для тебе"
+      "title": "Знижка 86% на Тижні добробуту",
+      "subtitle": "Знижка 86% на Тижні добробуту"
     }
   }
 }
