@@ -1,50 +1,50 @@
 {
   "animation_height": 0,
   "background_color": [
-    "#B02653"
+    "#FFFFFF"
   ],
   "background_height": 0.45,
   "background_icon": "",
   "background_icon_position": "right",
-  "background_image": "https://i.ibb.co/k2NQZNxP/summer-flower.png",
+  "background_image": "https://life.appholdings.org/wp-content/uploads/2025/06/seasonal-jun-2-1.png",
   "badge_background_color": [
-    "#799540"
+    "#000000"
   ],
-  "badge_border_color": "#799540",
+  "badge_border_color": "#000000",
   "badge_position": "right",
-  "badge_text": "Special day sale",
+  "badge_text": "MOST POPULAR",
   "badge_text_color": "#FFFFFF",
-  "close_btn_color": "#FFFFFF",
+  "close_btn_color": "#000000",
   "close_btn_position": "left",
   "close_btn_size": 40,
-  "discount_button_border_color": "#FFE3D3",
-  "discount_button_color": "#E7B11F",
-  "discount_button_text_color": "#FFFFFF",
+  "discount_button_border_color": "#F3ECFC",
+  "discount_button_color": "#FBCB01",
+  "discount_button_text_color": "#000000",
   "discount_button_text_size": 20,
-  "discount_margin_top": 24,
+  "discount_margin_top": 20,
   "discount_text": "{{}}% OFF",
   "discount_text_color": [
-    "#D1416B"
+    "#151414"
   ],
-  "discount_text_description": "Glow this summer, just for you.",
+  "discount_text_description": "Gentle care for every phase",
   "discount_text_description_color": [
-    "#799540"
+    "#151414"
   ],
   "discount_text_description_size": 20,
   "discount_text_size": 32,
-  "divider_height": 24,
-  "divider_shape": "<svg width=\"390\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#B02653\" d=\"M0 0h43v24H0z\"/><path fill=\"#B02653\" d=\"M347 0h43v24h-43z\"/><path d=\"M0 24C0 10.745 10.745 0 24 0h342c13.255 0 24 10.745 24 24H0Z\" fill=\"#fff\"/></svg>",
+  "divider_height": 16,
+  "divider_shape": "",
   "foreground_color": "#FFFFFF",
   "last_chance_cancel_color": "#000000",
   "last_chance_cancel_size": 18,
   "last_chance_cancel_text": "I don’t want it",
-  "last_chance_image_negative_margin": -155,
-  "last_chance_image_url": "https://i.ibb.co/VYQ5M13C/last-chance.png",
-  "last_chance_image_width": 0.46,
+  "last_chance_image_url": "https://life.appholdings.org/wp-content/uploads/2025/06/sad_woman.png",
+  "last_chance_image_width": 0.65,
+  "last_chance_image_negative_margin": -160,
   "last_chance_price_text_color": "#000000",
   "last_chance_price_text_size": 16,
   "last_chance_purchase_button_text": "Continue",
-  "last_chance_subtitle": "The offer won’t last long. Claim your lifetime discount now before it’s gone",
+  "last_chance_subtitle": "The offer won’t last long. Claim your lifetime discout now before it’s gone",
   "last_chance_subtitle_color": "#606365",
   "last_chance_subtitle_size": 16,
   "last_chance_title": "Are you sure you don’t want a discount?",
@@ -53,12 +53,11 @@
   "link_horizontal_space": 16,
   "link_text_color": "#43292E",
   "link_text_size": 13,
-  "pricing_area_margin_bottom": 120,
   "purchase_button_color": [
-    "#CB2E62"
+    "#FBCB01"
   ],
   "purchase_button_text": "Continue",
-  "purchase_button_text_color": "#ffffff",
+  "purchase_button_text_color": "#000000",
   "subscription_option_background_color": "#FFFFFF",
   "subscription_option_background_color_opacity": 0.01,
   "subscription_option_border_color": [
@@ -66,224 +65,219 @@
   ],
   "subscription_option_text_color": "#000000",
   "subscription_selected_option_background_color": [
-    "#CA2E61"
+    "#E7E6E4"
   ],
   "subscription_selected_option_border_color": [
-    "#FFFFFF"
+    "#000000"
   ],
-  "subscription_selected_option_text_color": "#FFFFFF",
-  "subtitle": "Choose You!",
-  "subtitle_color": [
-    "#E1356E"
-  ],
-  "subtitle_position": "left",
-  "subtitle_size": 24,
+  "subscription_selected_option_text_color": "#000000",
   "template": 2,
-  "title": "Summer\nOffer\n\n",
+  "title": "Well-Being Week",
   "title_color": [
-    "#FFFFFF"
+    "#151414"
   ],
   "title_margin_top": 0,
   "title_position": "center",
   "title_size": 40,
+  "pricing_area_margin_bottom": 120,
   "translations": {
-    "da": {
-      "badge_text": "Dagens tilbud",
-      "discount_text": "{{}}% RABAT",
-      "discount_text_description": "Strål denne sommer – kun for dig.",
-      "last_chance_cancel_text": "Jeg vil ikke have det",
-      "last_chance_purchase_button_text": "Fortsæt",
-      "last_chance_subtitle": "Tilbuddet varer ikke længe. Få din livstidsrabat, før det er for sent",
-      "last_chance_title": "Er du sikker på, at du ikke vil have en rabat?",
-      "purchase_button_text": "Fortsæt",
-      "title": "Sommer\nTilbud\n\n"
-    },
     "de": {
-      "badge_text": "Sonderangebot des Tages",
+      "badge_text": "AM BELIEBTESTEN",
       "discount_text": "{{}}% RABATT",
-      "discount_text_description": "Strahle diesen Sommer – nur für dich.",
-      "last_chance_cancel_text": "Ich will es nicht",
+      "discount_text_description": "Sanfte Pflege für jede Phase",
+      "last_chance_cancel_text": "Ich möchte das nicht",
       "last_chance_purchase_button_text": "Weiter",
-      "last_chance_subtitle": "Dieses Angebot gilt nicht lange. Sichere dir jetzt deinen lebenslangen Rabatt, bevor er weg ist",
+      "last_chance_subtitle": "Dieses Angebot gilt nicht mehr lange. Sichere dir jetzt den lebenslangen Rabatt, bevor er weg ist",
       "last_chance_title": "Bist du sicher, dass du keinen Rabatt willst?",
       "purchase_button_text": "Weiter",
-      "title": "Sommer\nAngebot\n\n"
-    },
-    "es": {
-      "badge_text": "Oferta especial del día",
-      "discount_text": "{{}}% DE DESCUENTO",
-      "discount_text_description": "Brilla este verano, solo para ti.",
-      "last_chance_cancel_text": "No lo quiero",
-      "last_chance_purchase_button_text": "Continuar",
-      "last_chance_subtitle": "La oferta no durará. Reclama tu descuento de por vida antes de que desaparezca",
-      "last_chance_title": "¿Estás segura de que no quieres un descuento?",
-      "purchase_button_text": "Continuar",
-      "title": "Oferta\nde verano\n\n"
-    },
-    "fi": {
-      "badge_text": "Erikoistarjous tänään",
-      "discount_text": "{{}}% ALENNUS",
-      "discount_text_description": "Hehku tänä kesänä – vain sinulle.",
-      "last_chance_cancel_text": "En halua sitä",
-      "last_chance_purchase_button_text": "Jatka",
-      "last_chance_subtitle": "Tarjous ei kestä kauaa. Varmista elinikäinen alennuksesi ennen kuin se katoaa",
-      "last_chance_title": "Oletko varma, ettet halua alennusta?",
-      "purchase_button_text": "Jatka",
-      "title": "Kesän\nTarjous\n\n"
+      "title": "Woche des Wohlbefindens"
     },
     "fr": {
-      "badge_text": "Promotion du jour",
+      "badge_text": "LE PLUS POPULAIRE",
       "discount_text": "{{}}% DE RÉDUCTION",
-      "discount_text_description": "Brille cet été, rien que pour toi.",
+      "discount_text_description": "Un soin doux pour chaque phase",
       "last_chance_cancel_text": "Je n’en veux pas",
       "last_chance_purchase_button_text": "Continuer",
-      "last_chance_subtitle": "L’offre ne durera pas. Obtiens ta réduction à vie avant qu’elle disparaisse",
+      "last_chance_subtitle": "Cette offre ne durera pas. Profitez vite de la réduction à vie avant qu’elle ne disparaisse",
       "last_chance_title": "Tu es sûre de ne pas vouloir de réduction ?",
       "purchase_button_text": "Continuer",
-      "title": "Offre\nd’été\n\n"
+      "title": "Semaine du Bien-Être"
     },
     "it": {
-      "badge_text": "Offerta speciale del giorno",
+      "badge_text": "PIÙ POPOLARE",
       "discount_text": "{{}}% DI SCONTO",
-      "discount_text_description": "Risplendi quest’estate, solo per te.",
-      "last_chance_cancel_text": "Non la voglio",
+      "discount_text_description": "Cura delicata per ogni fase",
+      "last_chance_cancel_text": "Non lo voglio",
       "last_chance_purchase_button_text": "Continua",
-      "last_chance_subtitle": "L’offerta non durerà a lungo. Ottieni ora il tuo sconto a vita prima che scada",
-      "last_chance_title": "Sei sicura di non volere uno sconto?",
+      "last_chance_subtitle": "L’offerta non durerà a lungo. Approfitta ora dello sconto a vita prima che scada",
+      "last_chance_title": "Sei sicura di non voler uno sconto?",
       "purchase_button_text": "Continua",
-      "title": "Offerta\nd’estate\n\n"
-    },
-    "ja": {
-      "badge_text": "本日の特別セール",
-      "discount_text": "{{}}% OFF",
-      "discount_text_description": "この夏は、あなたのために輝いて。",
-      "last_chance_cancel_text": "いりません",
-      "last_chance_purchase_button_text": "続ける",
-      "last_chance_subtitle": "このオファーは長く続きません。今すぐ一生使える割引を手に入れて",
-      "last_chance_title": "本当に割引はいりませんか？",
-      "purchase_button_text": "続ける",
-      "title": "夏の\nオファー\n\n"
-    },
-    "ko": {
-      "badge_text": "오늘의 특별 세일",
-      "discount_text": "{{}}% 할인",
-      "discount_text_description": "올여름, 오직 당신만을 위한 빛남.",
-      "last_chance_cancel_text": "원하지 않아요",
-      "last_chance_purchase_button_text": "계속하기",
-      "last_chance_subtitle": "이 혜택은 곧 종료됩니다. 사라지기 전에 평생 할인을 받아보세요",
-      "last_chance_title": "정말로 할인받고 싶지 않으신가요?",
-      "purchase_button_text": "계속하기",
-      "title": "여름\n특가\n\n"
+      "title": "Settimana del Benessere"
     },
     "nb": {
-      "badge_text": "Dagens spesialtilbud",
+      "badge_text": "MEST POPULÆR",
       "discount_text": "{{}}% RABATT",
-      "discount_text_description": "Glød i sommer – bare for deg.",
+      "discount_text_description": "Skånsom pleie for hver fase",
       "last_chance_cancel_text": "Jeg vil ikke ha det",
       "last_chance_purchase_button_text": "Fortsett",
-      "last_chance_subtitle": "Tilbudet varer ikke lenge. Skaff deg livstidsrabatten før det er for sent",
+      "last_chance_subtitle": "Tilbudet varer ikke lenge. Sikre deg livstidsrabatten nå før det er for sent",
       "last_chance_title": "Er du sikker på at du ikke vil ha rabatt?",
       "purchase_button_text": "Fortsett",
-      "title": "Sommer\ntilbud\n\n"
-    },
-    "nl": {
-      "badge_text": "Speciale dagaanbieding",
-      "discount_text": "{{}}% KORTING",
-      "discount_text_description": "Straal deze zomer – speciaal voor jou.",
-      "last_chance_cancel_text": "Ik wil het niet",
-      "last_chance_purchase_button_text": "Doorgaan",
-      "last_chance_subtitle": "De aanbieding is tijdelijk. Claim nu je levenslange korting voordat deze verdwijnt",
-      "last_chance_title": "Weet je zeker dat je geen korting wilt?",
-      "purchase_button_text": "Doorgaan",
-      "title": "Zomer-\naanbieding\n\n"
+      "title": "Velværeuken"
     },
     "pt_BR": {
-      "badge_text": "Oferta especial do dia",
-      "discount_text": "{{}}% OFF",
-      "discount_text_description": "Brilhe neste verão, só para você.",
+      "badge_text": "MAIS POPULAR",
+      "discount_text": "{{}}% DE DESCONTO",
+      "discount_text_description": "Cuidado delicado para cada fase",
       "last_chance_cancel_text": "Não quero",
       "last_chance_purchase_button_text": "Continuar",
       "last_chance_subtitle": "A oferta não vai durar. Garanta seu desconto vitalício antes que acabe",
       "last_chance_title": "Tem certeza de que não quer um desconto?",
       "purchase_button_text": "Continuar",
-      "title": "Oferta\nde Verão\n\n"
+      "title": "Semana do Bem-Estar"
     },
     "pt_PT": {
-      "badge_text": "Oferta especial do dia",
-      "discount_text": "{{}}% OFF",
-      "discount_text_description": "Brilha este verão, só para ti.",
+      "badge_text": "MAIS POPULAR",
+      "discount_text": "{{}}% DE DESCONTO",
+      "discount_text_description": "Cuidado suave para cada fase",
       "last_chance_cancel_text": "Não quero",
       "last_chance_purchase_button_text": "Continuar",
-      "last_chance_subtitle": "A oferta não vai durar. Garante já o teu desconto vitalício antes que desapareça",
+      "last_chance_subtitle": "Esta oferta não vai durar. Garante já o teu desconto vitalício antes que desapareça",
       "last_chance_title": "Tens a certeza de que não queres um desconto?",
       "purchase_button_text": "Continuar",
-      "title": "Oferta\nde Verão\n\n"
-    },
-    "ro": {
-      "badge_text": "Ofertă specială azi",
-      "discount_text": "{{}}% REDUCERE",
-      "discount_text_description": "Strălucește vara asta, doar pentru tine.",
-      "last_chance_cancel_text": "Nu o vreau",
-      "last_chance_purchase_button_text": "Continuă",
-      "last_chance_subtitle": "Oferta nu va dura mult. Reivindică-ți reducerea pe viață până nu dispare",
-      "last_chance_title": "Ești sigură că nu vrei reducere?",
-      "purchase_button_text": "Continuă",
-      "title": "Ofertă\nde vară\n\n"
+      "title": "Semana do Bem-Estar"
     },
     "ru": {
-      "badge_text": "Специальная акция дня",
-      "discount_text": "{{}}% СКИДКА",
-      "discount_text_description": "Сияй этим летом — только для тебя.",
-      "last_chance_cancel_text": "Я не хочу это",
+      "badge_text": "САМОЕ ПОПУЛЯРНОЕ",
+      "discount_text": "Скидка {{}}%",
+      "discount_text_description": "Нежная забота на каждом этапе",
+      "last_chance_cancel_text": "Я не хочу",
       "last_chance_purchase_button_text": "Продолжить",
       "last_chance_subtitle": "Предложение скоро закончится. Получи пожизненную скидку, пока не поздно",
       "last_chance_title": "Ты уверена, что не хочешь скидку?",
       "purchase_button_text": "Продолжить",
-      "title": "Летнее\nпредложение\n\n"
+      "title": "Неделя благополучия"
     },
     "sv": {
-      "badge_text": "Dagens specialerbjudande",
+      "badge_text": "MEST POPULÄR",
       "discount_text": "{{}}% RABATT",
-      "discount_text_description": "Stråla i sommar – bara för dig.",
+      "discount_text_description": "Skonsam vård för varje fas",
       "last_chance_cancel_text": "Jag vill inte ha det",
       "last_chance_purchase_button_text": "Fortsätt",
-      "last_chance_subtitle": "Erbjudandet varar inte länge. Hämta din livstidsrabatt innan det är för sent",
-      "last_chance_title": "Är du säker på att du inte vill ha en rabatt?",
+      "last_chance_subtitle": "Erbjudandet gäller inte länge. Få din livstidsrabatt nu innan det är för sent",
+      "last_chance_title": "Är du säker på att du inte vill ha rabatt?",
       "purchase_button_text": "Fortsätt",
-      "title": "Sommar\nerbjudande\n\n"
-    },
-    "uk": {
-      "badge_text": "Спеціальна пропозиція дня",
-      "discount_text": "{{}}% ЗНИЖКА",
-      "discount_text_description": "Засяй цього літа – лише для тебе.",
-      "last_chance_cancel_text": "Я не хочу",
-      "last_chance_purchase_button_text": "Продовжити",
-      "last_chance_subtitle": "Пропозиція незабаром зникне. Отримай знижку на все життя, поки не пізно",
-      "last_chance_title": "Ти впевнена, що не хочеш знижку?",
-      "purchase_button_text": "Продовжити",
-      "title": "Літня\nПропозиція\n\n"
+      "title": "Välmåendets vecka"
     },
     "zh_Hans": {
-      "badge_text": "今日特惠",
-      "discount_text": "{{}}% 折扣",
-      "discount_text_description": "今夏闪耀，只为你。",
-      "last_chance_cancel_text": "我不想要",
+      "badge_text": "最受欢迎",
+      "discount_text": "立减 {{}}%",
+      "discount_text_description": "每个阶段都温柔呵护",
+      "last_chance_cancel_text": "我不需要",
       "last_chance_purchase_button_text": "继续",
-      "last_chance_subtitle": "优惠即将结束。立刻领取你的终身折扣，机会不再",
+      "last_chance_subtitle": "优惠即将结束。立即领取终身折扣，别错过",
       "last_chance_title": "你确定不想要折扣吗？",
       "purchase_button_text": "继续",
-      "title": "夏日\n特惠\n\n"
+      "title": "身心健康周"
     },
     "zh_Hant": {
-      "badge_text": "今日特惠",
+      "badge_text": "最受歡迎",
       "discount_text": "{{}}% 折扣",
-      "discount_text_description": "今夏閃耀，只為妳。",
+      "discount_text_description": "每個階段的溫柔呵護",
       "last_chance_cancel_text": "我不要",
       "last_chance_purchase_button_text": "繼續",
-      "last_chance_subtitle": "優惠即將結束。立即領取妳的終身折扣，錯過不再",
+      "last_chance_subtitle": "優惠即將結束。現在就領取妳的終身折扣，別錯過了",
       "last_chance_title": "妳確定不想要折扣嗎？",
       "purchase_button_text": "繼續",
-      "title": "夏季\n優惠\n\n"
+      "title": "身心健康週"
+    },
+    "ja": {
+      "badge_text": "最も人気",
+      "discount_text": "{{}}% オフ",
+      "discount_text_description": "すべてのフェーズにやさしいケアを",
+      "last_chance_cancel_text": "いりません",
+      "last_chance_purchase_button_text": "続ける",
+      "last_chance_subtitle": "このオファーはまもなく終了します。今すぐ生涯割引を手に入れよう",
+      "last_chance_title": "本当に割引は必要ないですか？",
+      "purchase_button_text": "続ける",
+      "title": "ウェルビーイング週間"
+    },
+    "ko": {
+      "badge_text": "가장 인기 있는",
+      "discount_text": "{{}}% 할인",
+      "discount_text_description": "모든 시기에 부드러운 케어",
+      "last_chance_cancel_text": "원하지 않아요",
+      "last_chance_purchase_button_text": "계속하기",
+      "last_chance_subtitle": "이 혜택은 곧 종료됩니다. 평생 할인을 지금 바로 받아보세요",
+      "last_chance_title": "정말 할인을 원하지 않으시나요?",
+      "purchase_button_text": "계속하기",
+      "title": "웰빙 주간"
+    },
+    "da": {
+      "badge_text": "MEST POPULÆR",
+      "discount_text": "{{}}% RABAT",
+      "discount_text_description": "Blid pleje til hver fase",
+      "last_chance_cancel_text": "Jeg vil ikke have det",
+      "last_chance_purchase_button_text": "Fortsæt",
+      "last_chance_subtitle": "Tilbuddet varer ikke længe. Få din livstidsrabat nu, før det er for sent",
+      "last_chance_title": "Er du sikker på, at du ikke vil have rabat?",
+      "purchase_button_text": "Fortsæt",
+      "title": "Velværeugen"
+    },
+    "es": {
+      "badge_text": "MÁS POPULAR",
+      "discount_text": "{{}}% DE DESCUENTO",
+      "discount_text_description": "Cuidado suave para cada etapa",
+      "last_chance_cancel_text": "No lo quiero",
+      "last_chance_purchase_button_text": "Continuar",
+      "last_chance_subtitle": "Esta oferta no durará mucho. Obtén tu descuento de por vida antes de que desaparezca",
+      "last_chance_title": "¿Estás segura de que no quieres un descuento?",
+      "purchase_button_text": "Continuar",
+      "title": "Semana del Bienestar"
+    },
+    "nl": {
+      "badge_text": "MEEST POPULAIR",
+      "discount_text": "{{}}% KORTING",
+      "discount_text_description": "Zachte zorg voor elke fase",
+      "last_chance_cancel_text": "Ik wil het niet",
+      "last_chance_purchase_button_text": "Doorgaan",
+      "last_chance_subtitle": "De aanbieding is tijdelijk. Claim nu je levenslange korting voordat deze verdwijnt",
+      "last_chance_title": "Weet je zeker dat je geen korting wilt?",
+      "purchase_button_text": "Doorgaan",
+      "title": "Week van het Welzijn"
+    },
+    "fi": {
+      "badge_text": "SUOSITUIN",
+      "discount_text": "{{}}% ALENNUS",
+      "discount_text_description": "Hellävaraista hoivaa jokaiseen vaiheeseen",
+      "last_chance_cancel_text": "En halua tätä",
+      "last_chance_purchase_button_text": "Jatka",
+      "last_chance_subtitle": "Tarjous ei kestä kauaa. Varmista elinikäinen alennus ennen kuin se katoaa",
+      "last_chance_title": "Oletko varma, ettet halua alennusta?",
+      "purchase_button_text": "Jatka",
+      "title": "Hyvinvoinnin viikko"
+    },
+    "ro": {
+      "badge_text": "CEL MAI POPULAR",
+      "discount_text": "{{}}% REDUCERE",
+      "discount_text_description": "Îngrijire delicată pentru fiecare fază",
+      "last_chance_cancel_text": "Nu o vreau",
+      "last_chance_purchase_button_text": "Continuă",
+      "last_chance_subtitle": "Oferta nu va dura mult. Obține reducerea pe viață acum, înainte să dispară",
+      "last_chance_title": "Ești sigură că nu vrei o reducere?",
+      "purchase_button_text": "Continuă",
+      "title": "Săptămâna Bunăstării"
+    },
+    "uk": {
+      "badge_text": "НАЙПОПУЛЯРНІШЕ",
+      "discount_text": "{{}}% ЗНИЖКА",
+      "discount_text_description": "Дбайливий догляд на кожному етапі",
+      "last_chance_cancel_text": "Я не хочу",
+      "last_chance_purchase_button_text": "Продовжити",
+      "last_chance_subtitle": "Пропозиція незабаром зникне. Отримай довічну знижку просто зараз",
+      "last_chance_title": "Ти впевнена, що не хочеш знижку?",
+      "purchase_button_text": "Продовжити",
+      "title": "Тиждень добробуту"
     }
   }
 }
