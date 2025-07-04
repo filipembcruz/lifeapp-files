@@ -21,10 +21,10 @@
                 "priceID": 10
             },
             {
-                "name": "Be Prepared",
+                "name": "Be Prepared (Monthly)",
                 "origin:": "git",
                 "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/be-prepared.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price10-B.json",
                 "priceID": 10
             },
             {
