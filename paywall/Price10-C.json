@@ -1,0 +1,407 @@
+{
+    "background_color": [
+        "#FFFFFF"
+    ],
+    "background_icon": "",
+    "background_icon_position": "right",
+    "badge_border_color": "#000000",
+    "badge_background_color": [
+        "#000000"
+    ],
+    "badge_position": "center",
+    "badge_text": "MOST POPULAR",
+    "badge_text_color": "#FFFFFF",
+    "cancel_text": "Cancel your plan any time",
+    "cancel_text_color": "#7E7576",
+    "cancel_text_size": 13,
+    "carousel_height": 240,
+    "carousel_icon_color": "#f3d500",
+    "carousel_icon_size": 32,
+    "carousel_interval": 5,
+    "carousel_text": [
+        "After months of trying, I finally got pregnant using Life to track my ovulation. It gave me the precision and confidence I needed. I finally got pregnant using Life to track my ovulation.",
+        "The insights from Life helped me better understand my mood swings and cycle. I feel more balanced and in tune with my body.",
+        "I used to ignore my symptoms, but Life made it easy to log and spot patterns. Now I feel more in control of my health every day."
+    ],
+    "carousel_names": [
+        "Emily Thompson",
+        "Jasmine Rivera",
+        "Sofia Bennett"
+    ],
+    "carousel_text_color": "#24191a",
+    "carousel_text_size": 16,
+    "show_trial": true,
+    "close_btn_color": "#655C5D",
+    "close_btn_position": "right",
+    "close_btn_size": 24,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#7E7576",
+    "link_text_size": 13,
+    "purchase_button_color": [
+        "#000000"
+    ],
+    "purchase_button_text": "Continue",
+    "purchase_button_text_color": "#ffffff",
+    "restore_text": "Restore purchases",
+    "restore_text_color": "#7E7576",
+    "restore_text_size": 13,
+    "subscription_option_background_color": [
+        "#FFFFFF"
+    ],
+    "subscription_option_border_color": [
+        "#EFEFEF"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#E8E5E2"
+    ],
+    "subscription_selected_option_border_color": [
+        "#000000"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "Track your best & toughest days",
+    "subtitle_color": [
+        "#000000"
+    ],
+    "subtitle_position": "center",
+    "subtitle_size": 20,
+    "template": 5,
+    "title": "Choose your plan",
+    "title_color": [
+        "#000000"
+    ],
+    "title_margin_top": 10,
+    "title_position": "center",
+    "title_size": 31,
+    "translations": {
+        "de": {
+            "badge_text": "Am beliebtesten",
+            "cancel_text": "Du kannst dein Abo jederzeit kündigen",
+            "purchase_button_text": "3 Tage kostenlos testen",
+            "restore_text": "Käufe wiederherstellen",
+            "subtitle": "Verfolge deine besten & schwierigsten Tage",
+            "title": "Wähle dein Abo",
+            "carousel_text": [
+                "Nach Monaten des Versuchens bin ich dank Life endlich schwanger geworden. Die App hat mir geholfen, meinen Eisprung genau zu verfolgen und mir das nötige Selbstvertrauen gegeben.",
+                "Dank Life verstehe ich meine Stimmungsschwankungen und meinen Zyklus viel besser. Ich fühle mich ausgeglichener und mehr im Einklang mit meinem Körper.",
+                "Früher habe ich meine Symptome ignoriert, aber mit Life kann ich sie einfach dokumentieren und Muster erkennen. Jetzt habe ich meine Gesundheit viel besser im Griff."
+            ],
+            "carousel_names": [
+                "Anna Müller",
+                "Sophie Schneider",
+                "Laura Fischer"
+            ]
+        },
+        "fr": {
+            "badge_text": "Le plus populaire",
+            "cancel_text": "Annulez votre abonnement à tout moment",
+            "purchase_button_text": "Essayez gratuitement pendant 3 jours",
+            "restore_text": "Restaurer les achats",
+            "subtitle": "Suivez vos meilleurs et pires jours",
+            "title": "Choisissez votre offre",
+            "carousel_text": [
+                "Après des mois d’essais, j’ai enfin pu tomber enceinte grâce à Life pour suivre mon ovulation. L’application m’a apporté la précision et la confiance dont j’avais besoin.",
+                "Les analyses de Life m’ont aidée à mieux comprendre mes sautes d’humeur et mon cycle. Je me sens plus équilibrée et à l’écoute de mon corps.",
+                "Avant, j’ignorais mes symptômes, mais Life m’a permis de les enregistrer facilement et de repérer des schémas. Je me sens désormais actrice de ma santé."
+            ],
+            "carousel_names": [
+                "Camille Dubois",
+                "Élise Martin",
+                "Sophie Bernard"
+            ]
+        },
+        "it": {
+            "badge_text": "Il più popolare",
+            "cancel_text": "Annulla il piano in qualsiasi momento",
+            "purchase_button_text": "Prova gratis per 3 giorni",
+            "restore_text": "Ripristina acquisti",
+            "subtitle": "Tieni traccia dei tuoi giorni migliori e peggiori",
+            "title": "Scegli il tuo piano",
+            "carousel_text": [
+                "Dopo mesi di tentativi, sono finalmente rimasta incinta usando Life per monitorare l’ovulazione. Mi ha dato precisione e sicurezza nei miei giorni fertili.",
+                "Le informazioni di Life mi hanno aiutata a capire meglio i miei sbalzi d’umore e il ciclo. Ora mi sento più in sintonia con il mio corpo.",
+                "Prima ignoravo i miei sintomi, ma con Life è facile registrarli e vedere i modelli. Ora ho più controllo sulla mia salute ogni giorno."
+            ],
+            "carousel_names": [
+                "Giulia Rossi",
+                "Martina Bianchi",
+                "Sara Romano"
+            ]
+        },
+        "nb": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Avslutt abonnementet når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dager",
+            "restore_text": "Gjenopprett kjøp",
+            "subtitle": "Følg dine beste og tøffeste dager",
+            "title": "Velg ditt abonnement",
+            "carousel_text": [
+                "Etter måneder med forsøk ble jeg endelig gravid ved å bruke Life til å spore eggløsningen min. Appen ga meg trygghet og oversikt jeg trengte.",
+                "Innsikten fra Life har hjulpet meg å forstå humørsvingningene og syklusen min bedre. Jeg føler meg mer balansert og i harmoni med kroppen.",
+                "Før ignorerte jeg symptomene mine, men Life gjør det enkelt å logge og se mønstre. Nå har jeg bedre kontroll over helsen min hver dag."
+            ],
+            "carousel_names": [
+                "Ingrid Hansen",
+                "Maria Johansen",
+                "Sofie Larsen"
+            ]
+        },
+        "pt_BR": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele seu plano a qualquer momento",
+            "purchase_button_text": "Experimente grátis por 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Acompanhe seus melhores e piores dias",
+            "title": "Escolha seu plano",
+            "carousel_text": [
+                "Depois de meses tentando, finalmente engravidei usando o Life para acompanhar minha ovulação. O app me deu a precisão e confiança que eu precisava.",
+                "Os insights do Life me ajudaram a entender melhor minhas oscilações de humor e meu ciclo. Me sinto mais equilibrada e conectada ao meu corpo.",
+                "Antes eu ignorava meus sintomas, mas o Life facilitou registrar e identificar padrões. Agora tenho mais controle sobre minha saúde todos os dias."
+            ],
+            "carousel_names": [
+                "Ana Souza",
+                "Camila Oliveira",
+                "Juliana Silva"
+            ]
+        },
+        "pt_PT": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele o seu plano a qualquer momento",
+            "purchase_button_text": "Experimente grátis durante 3 dias",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Acompanhe os seus melhores e piores dias",
+            "title": "Escolha o seu plano",
+            "carousel_text": [
+                "Após meses a tentar, finalmente engravidei usando o Life para acompanhar a minha ovulação. O app deu-me a precisão e confiança de que precisava.",
+                "Os insights do Life ajudaram-me a compreender melhor as minhas mudanças de humor e o ciclo. Sinto-me mais equilibrada e em sintonia com o meu corpo.",
+                "Antes ignorava os meus sintomas, mas o Life tornou fácil registar e identificar padrões. Agora controlo melhor a minha saúde todos os dias."
+            ],
+            "carousel_names": [
+                "Inês Costa",
+                "Marta Silva",
+                "Sofia Pereira"
+            ]
+        },
+        "ru": {
+            "badge_text": "Самый популярный",
+            "cancel_text": "Отменить подписку в любой момент",
+            "purchase_button_text": "Попробовать бесплатно 3 дня",
+            "restore_text": "Восстановить покупки",
+            "subtitle": "Следите за своими лучшими и сложными днями",
+            "title": "Выберите свой план",
+            "carousel_text": [
+                "После месяцев попыток я наконец забеременела, используя Life для отслеживания овуляции. Приложение дало мне уверенность и точность, которых мне не хватало.",
+                "Советы Life помогли мне лучше понять свои перепады настроения и цикл. Я чувствую себя более уравновешенной и в гармонии с телом.",
+                "Раньше я игнорировала свои симптомы, но с Life легко вести записи и замечать закономерности. Теперь я лучше контролирую своё здоровье каждый день."
+            ],
+            "carousel_names": [
+                "Анна Смирнова",
+                "Екатерина Иванова",
+                "Мария Кузнецова"
+            ]
+        },
+        "sv": {
+            "badge_text": "Mest populär",
+            "cancel_text": "Avsluta din plan när som helst",
+            "purchase_button_text": "Prova gratis i 3 dagar",
+            "restore_text": "Återställ köp",
+            "subtitle": "Följ dina bästa och tuffaste dagar",
+            "title": "Välj din plan",
+            "carousel_text": [
+                "Efter månader av försök blev jag äntligen gravid med hjälp av Life för att spåra min ägglossning. Appen gav mig den precision och trygghet jag behövde.",
+                "Insikterna från Life har hjälpt mig att förstå mina humörsvängningar och min cykel bättre. Jag känner mig mer balanserad och i samklang med min kropp.",
+                "Tidigare ignorerade jag mina symtom, men Life gör det enkelt att logga och se mönster. Nu har jag bättre kontroll över min hälsa varje dag."
+            ],
+            "carousel_names": [
+                "Emma Andersson",
+                "Sara Johansson",
+                "Linnea Karlsson"
+            ]
+        },
+        "zh_Hans": {
+            "badge_text": "最受欢迎",
+            "cancel_text": "随时取消你的计划",
+            "purchase_button_text": "免费试用3天",
+            "restore_text": "恢复购买",
+            "subtitle": "追踪你最棒和最艰难的日子",
+            "title": "选择你的方案",
+            "carousel_text": [
+                "尝试了几个月后，我终于通过Life追踪排卵成功怀孕。这个应用让我更有信心和把握，终于实现了我的梦想。",
+                "Life的见解帮助我更好地理解了情绪波动和周期。我感觉自己更平衡，更了解自己的身体。",
+                "以前我总是忽略症状，但Life让我轻松记录并发现规律。现在我每天都能更好地掌控健康。"
+            ],
+            "carousel_names": [
+                "王静",
+                "李芳",
+                "陈雪"
+            ]
+        },
+        "zh_Hant": {
+            "badge_text": "最受歡迎",
+            "cancel_text": "隨時取消你的方案",
+            "purchase_button_text": "免費試用3天",
+            "restore_text": "恢復購買",
+            "subtitle": "追蹤妳最棒與最艱難的日子",
+            "title": "選擇妳的方案",
+            "carousel_text": [
+                "嘗試了好幾個月後，我終於透過Life追蹤排卵而懷孕。這個App給了我信心與精準度，終於實現了我的夢想。",
+                "Life的見解幫助我更了解自己的情緒起伏和週期。現在我覺得更平衡、更懂自己的身體。",
+                "以前我總是忽略症狀，但Life讓我輕鬆記錄並發現規律。現在我每天都能更好地掌控健康。"
+            ],
+            "carousel_names": [
+                "陳怡君",
+                "林雅婷",
+                "張淑芬"
+            ]
+        },
+        "ja": {
+            "badge_text": "最も人気",
+            "cancel_text": "いつでもプランをキャンセルできます",
+            "purchase_button_text": "3日間無料で試す",
+            "restore_text": "購入を復元",
+            "subtitle": "最高の日と大変な日を記録",
+            "title": "プランを選択",
+            "carousel_text": [
+                "数ヶ月の努力の末、Lifeで排卵を記録してついに妊娠できました。アプリが自信と正確さを与えてくれました。",
+                "Lifeのインサイトで気分の変化やサイクルをより理解できるようになりました。自分の体とより調和しています。",
+                "以前は症状を無視していましたが、Lifeで簡単に記録しパターンを発見できるように。今は毎日健康をコントロールできています。"
+            ],
+            "carousel_names": [
+                "佐藤美咲",
+                "高橋彩",
+                "鈴木花"
+            ]
+        },
+        "ko": {
+            "badge_text": "가장 인기 있는",
+            "cancel_text": "언제든지 플랜을 취소하세요",
+            "purchase_button_text": "3일 무료 체험하기",
+            "restore_text": "구매 복원",
+            "subtitle": "가장 좋은 날과 힘든 날을 추적하세요",
+            "title": "플랜을 선택하세요",
+            "carousel_text": [
+                "몇 달간의 시도 끝에 Life로 배란을 추적해 드디어 임신에 성공했어요. 앱이 저에게 필요한 정확함과 자신감을 주었어요.",
+                "Life의 인사이트 덕분에 기분 변화와 주기를 더 잘 이해하게 되었어요. 몸과 더 조화롭게 느껴집니다.",
+                "예전엔 증상을 무시했지만, Life 덕분에 쉽게 기록하고 패턴을 볼 수 있어요. 이제 매일 건강을 더 잘 관리하고 있어요."
+            ],
+            "carousel_names": [
+                "김지은",
+                "박수진",
+                "이민정"
+            ]
+        },
+        "da": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Annuller din plan når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dage",
+            "restore_text": "Gendan køb",
+            "subtitle": "Følg dine bedste og sværeste dage",
+            "title": "Vælg din plan",
+            "carousel_text": [
+                "Efter flere måneders forsøg blev jeg endelig gravid ved at bruge Life til at spore min ægløsning. Appen gav mig præcision og selvtillid.",
+                "Indsigterne fra Life har hjulpet mig med at forstå mine humørsvingninger og min cyklus bedre. Jeg føler mig mere i balance og i kontakt med min krop.",
+                "Tidligere ignorerede jeg mine symptomer, men Life gør det nemt at registrere og se mønstre. Nu har jeg bedre kontrol over mit helbred hver dag."
+            ],
+            "carousel_names": [
+                "Emma Jensen",
+                "Sofie Nielsen",
+                "Ida Hansen"
+            ]
+        },
+        "es": {
+            "badge_text": "Más popular",
+            "cancel_text": "Cancela tu plan en cualquier momento",
+            "purchase_button_text": "Prueba gratis por 3 días",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Sigue tus mejores y peores días",
+            "title": "Elige tu plan",
+            "carousel_text": [
+                "Después de meses intentándolo, finalmente logré quedar embarazada usando Life para seguir mi ovulación. La app me dio la precisión y confianza que necesitaba.",
+                "Los análisis de Life me ayudaron a entender mejor mis cambios de humor y mi ciclo. Ahora me siento más equilibrada y conectada con mi cuerpo.",
+                "Antes ignoraba mis síntomas, pero Life me facilitó registrarlos y ver patrones. Ahora tengo más control sobre mi salud cada día."
+            ],
+            "carousel_names": [
+                "Lucía García",
+                "María Fernández",
+                "Sofía Martínez"
+            ]
+        },
+        "nl": {
+            "badge_text": "Meest populair",
+            "cancel_text": "Annuleer je abonnement op elk moment",
+            "purchase_button_text": "Probeer 3 dagen gratis",
+            "restore_text": "Aankopen herstellen",
+            "subtitle": "Volg je beste en zwaarste dagen",
+            "title": "Kies je abonnement",
+            "carousel_text": [
+                "Na maanden proberen ben ik eindelijk zwanger geworden door Life te gebruiken om mijn ovulatie te volgen. De app gaf me de precisie en het vertrouwen die ik nodig had.",
+                "De inzichten van Life hebben me geholpen mijn stemmingswisselingen en cyclus beter te begrijpen. Ik voel me meer in balans en in contact met mijn lichaam.",
+                "Eerst negeerde ik mijn symptomen, maar met Life kan ik ze makkelijk bijhouden en patronen herkennen. Nu heb ik elke dag meer grip op mijn gezondheid."
+            ],
+            "carousel_names": [
+                "Emma de Jong",
+                "Sophie Bakker",
+                "Julia Visser"
+            ]
+        },
+        "fi": {
+            "badge_text": "Suosituin",
+            "cancel_text": "Peruuta tilauksesi milloin tahansa",
+            "purchase_button_text": "Kokeile ilmaiseksi 3 päivää",
+            "restore_text": "Palauta ostot",
+            "subtitle": "Seuraa parhaita ja vaikeimpia päiviäsi",
+            "title": "Valitse suunnitelmasi",
+            "carousel_text": [
+                "Kuukausien yrittämisen jälkeen tulin vihdoin raskaaksi käyttämällä Life-sovellusta ovulaation seuraamiseen. Sain tarkkuutta ja varmuutta, joita tarvitsin.",
+                "Lifen oivallukset ovat auttaneet minua ymmärtämään paremmin mielialanvaihtelujani ja kiertoani. Tunnen olevani tasapainoisempi ja enemmän yhteydessä kehooni.",
+                "Ennen ohitin oireeni, mutta Life tekee niiden kirjaamisesta ja mallien löytämisestä helppoa. Nyt hallitsen terveyttäni paremmin joka päivä."
+            ],
+            "carousel_names": [
+                "Emilia Virtanen",
+                "Sofia Korhonen",
+                "Laura Nieminen"
+            ]
+        },
+        "ro": {
+            "badge_text": "Cel mai popular",
+            "cancel_text": "Anulează-ți planul oricând",
+            "purchase_button_text": "Încearcă gratuit timp de 3 zile",
+            "restore_text": "Restaurează achizițiile",
+            "subtitle": "Monitorizează-ți cele mai bune și dificile zile",
+            "title": "Alege-ți planul",
+            "carousel_text": [
+                "După luni de încercări, am reușit în sfârșit să rămân însărcinată folosind Life pentru a-mi urmări ovulația. Aplicația mi-a oferit precizia și încrederea de care aveam nevoie.",
+                "Informațiile din Life m-au ajutat să înțeleg mai bine schimbările de dispoziție și ciclul. Mă simt mai echilibrată și conectată cu corpul meu.",
+                "Înainte ignoram simptomele, dar Life m-a ajutat să le notez ușor și să observ tipare. Acum am mai mult control asupra sănătății mele zilnic."
+            ],
+            "carousel_names": [
+                "Andreea Popescu",
+                "Maria Ionescu",
+                "Elena Stan"
+            ]
+        },
+        "uk": {
+            "badge_text": "Найпопулярніший",
+            "cancel_text": "Скасуйте свій план у будь-який час",
+            "purchase_button_text": "Спробуйте безкоштовно 3 дні",
+            "restore_text": "Відновити покупки",
+            "subtitle": "Відстежуйте свої найкращі та найважчі дні",
+            "title": "Обирайте свій план",
+            "carousel_text": [
+                "Після місяців спроб я нарешті завагітніла, використовуючи Life для відстеження овуляції. Додаток дав мені впевненість і точність, яких мені бракувало.",
+                "Поради Life допомогли мені краще зрозуміти свої перепади настрою та цикл. Я відчуваю себе більш врівноваженою та в гармонії з тілом.",
+                "Раніше я ігнорувала свої симптоми, але з Life легко вести записи та помічати закономірності. Тепер я краще контролюю своє здоров’я щодня."
+            ],
+            "carousel_names": [
+                "Олена Шевченко",
+                "Марія Коваль",
+                "Ірина Бондар"
+            ]
+        }
+    }
+}

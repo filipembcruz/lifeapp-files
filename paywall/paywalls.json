@@ -26,6 +26,13 @@
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/be-prepared.json",
                 "priceID": 10
+            },
+            {
+                "name": "Template 5",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price10-C.json",
+                "priceID": 10
             }
         ]
     },
