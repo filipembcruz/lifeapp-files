@@ -79,7 +79,7 @@
     "highlight_text_color": "#FFFFFF",
     "highlight_text_size": 18,
     "price_text": "Start with Yearly for only {{}}/month",
-    "price_period": "year",
+    "price_period": "month",
     "price_discount": 50,
     "discount_text": "Save 50%",
     "discount_text_color": "#FFFFFF",
