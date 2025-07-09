@@ -95,64 +95,64 @@
       "cancel_text": "Annuller når som helst",
       "discount_text": "Spar {{}}%",
       "features_list": [
-        "Fertilitet- og PMS-forudsigelser",
-        "Tilpassede påmindelser og advarsler",
-        "Personlig AI-sundhedsassistent",
+        "Fertilitet & PMS-forudsigelser",
+        "Personlige påmindelser",
+        "AI-sundhedsassistent",
         "Lås op for alle funktioner"
       ],
-      "highlight_text": "Over 175000 kvinder bruger Life til at være\nforberedte",
-      "price_text": "Start med årligt abonnement for kun {{}}/måned",
+      "highlight_text": "175.000+ kvinder bruger Life\ntil at være forberedte",
+      "price_text": "Start årligt for kun {{}}/md",
       "purchase_button_text": "Fortsæt",
       "restore_text": "Gendan køb",
-      "subtitle": "Du ser ikke dette igen",
+      "subtitle": "Du får ikke chancen igen",
       "title": "Sidste tilbud"
     },
     "de": {
       "badge_text": "Spezialangebot für dich",
       "cancel_text": "Jederzeit kündbar",
-      "discount_text": "Spare {{}}%",
+      "discount_text": "{{}}% sparen",
       "features_list": [
-        "Fruchtbarkeits- & PMS-Vorhersagen",
-        "Benutzerdefinierte Erinnerungen & Hinweise",
-        "Persönliche KI-Gesundheitsassistentin",
+        "Fruchtbarkeit & PMS-Vorhersage",
+        "Individuelle Erinnerungen",
+        "Persönliche Gesundheits-AI",
         "Alle Funktionen freischalten"
       ],
-      "highlight_text": "Mehr als 175000 Frauen nutzen Life, um\nvorbereitet zu sein",
-      "price_text": "Starte mit dem Jahresabo für nur {{}}/Monat",
+      "highlight_text": "Über 175.000 Frauen nutzen Life\nzur Vorbereitung",
+      "price_text": "Starte mit dem Jahresplan für nur {{}}/Monat",
       "purchase_button_text": "Fortfahren",
       "restore_text": "Kauf wiederherstellen",
-      "subtitle": "Das wirst du nicht noch einmal sehen",
+      "subtitle": "Diese Chance kommt nicht zurück",
       "title": "Letztes Angebot"
     },
     "es": {
       "badge_text": "Oferta especial para ti",
       "cancel_text": "Cancela en cualquier momento",
-      "discount_text": "Ahorra un {{}}%",
+      "discount_text": "Ahorra {{}}%",
       "features_list": [
-        "Predicciones de fertilidad y síndrome premenstrual",
-        "Recordatorios y alertas personalizadas",
-        "Asistente de salud personal con IA",
+        "Predicciones de fertilidad y SPM",
+        "Alertas personalizadas",
+        "Asistente de salud con IA",
         "Desbloquea todas las funciones"
       ],
-      "highlight_text": "Más de 175000 mujeres usan Life para estar\npreparadas",
-      "price_text": "Empieza con el plan anual por solo {{}}/mes",
+      "highlight_text": "Más de 175.000 mujeres usan Life\npara estar preparadas",
+      "price_text": "Empieza con anual por solo {{}}/mes",
       "purchase_button_text": "Continuar",
       "restore_text": "Restaurar compra",
-      "subtitle": "No volverás a ver esto",
+      "subtitle": "No volverás a ver esta oferta",
       "title": "Última oferta"
     },
     "fi": {
       "badge_text": "Erikoistarjous sinulle",
-      "cancel_text": "Peru milloin tahansa",
+      "cancel_text": "Peruuta milloin vain",
       "discount_text": "Säästä {{}}%",
       "features_list": [
-        "Hedelmällisyys- ja PMS-ennusteet",
-        "Mukautetut muistutukset ja ilmoitukset",
-        "Henkilökohtainen terveysavustaja tekoälyllä",
+        "Hedelmällisyys- & PMS-arviot",
+        "Mukautetut muistutukset",
+        "Henkilökohtainen terveys-AI",
         "Avaa kaikki ominaisuudet"
       ],
-      "highlight_text": "Yli 175000 naista käyttää Lifea pysyäkseen\nvalmiina",
-      "price_text": "Aloita vuositilauksella vain {{}}/kuukausi",
+      "highlight_text": "Yli 175 000 naista käyttää Lifea\nvalmistautumiseen",
+      "price_text": "Aloita vuosipaketilla vain {{}}/kk",
       "purchase_button_text": "Jatka",
       "restore_text": "Palauta ostos",
       "subtitle": "Et näe tätä enää uudelleen",
@@ -160,122 +160,122 @@
     },
     "fr": {
       "badge_text": "Offre spéciale pour toi",
-      "cancel_text": "Annule à tout moment",
+      "cancel_text": "Annulable à tout moment",
       "discount_text": "Économise {{}}%",
       "features_list": [
-        "Prédictions de fertilité et de syndrome prémenstruel",
-        "Rappels et alertes personnalisés",
-        "Assistante santé IA personnelle",
-        "Déverrouille toutes les fonctionnalités"
+        "Prévisions fertilité & SPM",
+        "Alertes et rappels personnalisés",
+        "Assistante santé IA dédiée",
+        "Débloque toutes les fonctions"
       ],
-      "highlight_text": "Plus de 175000 femmes utilisent Life pour être\npréparées",
-      "price_text": "Commence avec l'abonnement annuel pour seulement {{}}/mois",
+      "highlight_text": "175 000+ femmes utilisent Life\npour mieux se préparer",
+      "price_text": "Commence l’abonnement annuel pour seulement {{}}/mois",
       "purchase_button_text": "Continuer",
       "restore_text": "Restaurer l'achat",
-      "subtitle": "Tu ne verras plus ça",
-      "title": "Dernière offre"
+      "subtitle": "Tu ne verras plus cette offre",
+      "title": "Dernière chance"
     },
     "it": {
       "badge_text": "Offerta speciale per te",
-      "cancel_text": "Annulla in qualsiasi momento",
-      "discount_text": "Risparmia il {{}}%",
+      "cancel_text": "Annulla quando vuoi",
+      "discount_text": "Risparmia {{}}%",
       "features_list": [
-        "Previsioni di fertilità e sindrome premestruale",
-        "Promemoria e avvisi personalizzati",
-        "Assistente sanitaria personale con IA",
-        "Sblocca tutte le funzionalità"
+        "Previsioni fertilità e sindrome premestruale",
+        "Promemoria personalizzati",
+        "Assistente salute con IA",
+        "Sblocca tutte le funzioni"
       ],
-      "highlight_text": "Oltre 175000 donne usano Life per restare\npreparate",
-      "price_text": "Inizia con l'annuale a solo {{}}/mese",
+      "highlight_text": "Oltre 175.000 donne usano Life\nper essere pronte",
+      "price_text": "Inizia con l’annuale da solo {{}}/mese",
       "purchase_button_text": "Continua",
-      "restore_text": "Ripristina l'acquisto",
-      "subtitle": "Non lo vedrai di nuovo",
-      "title": "Ultima offerta"
+      "restore_text": "Ripristina acquisto",
+      "subtitle": "Offerta irripetibile",
+      "title": "Ultima occasione"
     },
     "ja": {
       "badge_text": "あなたへの特別オファー",
-      "cancel_text": "いつでもキャンセル可能",
-      "discount_text": "{{}}%オフ",
+      "cancel_text": "いつでもキャンセル可",
+      "discount_text": "{{}}% お得に",
       "features_list": [
         "排卵・PMSの予測",
-        "カスタムリマインダーとアラート",
-        "パーソナルAI健康アシスタント",
-        "すべての機能をアンロック"
+        "カスタム通知",
+        "AI健康アシスタント",
+        "すべての機能を解放"
       ],
-      "highlight_text": "17万5千人以上の女性が Life を使って\n準備を整えています",
-      "price_text": "年間プランは月額わずか {{}} から",
+      "highlight_text": "17万5千人以上の女性がLifeで\n備えています",
+      "price_text": "年額プランは月額{{}}〜",
       "purchase_button_text": "続ける",
       "restore_text": "購入を復元",
-      "subtitle": "このオファーはもう見られません",
-      "title": "最後のオファー"
+      "subtitle": "このチャンスは一度きり",
+      "title": "最終オファー"
     },
     "ko": {
-      "badge_text": "당신을 위한 특별 혜택",
+      "badge_text": "당신만을 위한 혜택",
       "cancel_text": "언제든지 취소 가능",
       "discount_text": "{{}}% 할인",
       "features_list": [
-        "가임기 및 PMS 예측",
-        "맞춤형 알림 및 경고",
-        "개인 AI 건강 어시스턴트",
+        "배란 및 PMS 예측",
+        "맞춤형 알림",
+        "AI 건강 도우미",
         "모든 기능 잠금 해제"
       ],
-      "highlight_text": "175000명 이상의 여성이 Life로\n미리 준비해요",
-      "price_text": "연간 요금제로 시작 - 월 {{}}",
+      "highlight_text": "175,000명 이상의 여성이 Life로\n미리 준비합니다",
+      "price_text": "연간 요금제 {{}}/월부터 시작",
       "purchase_button_text": "계속하기",
       "restore_text": "구매 복원",
-      "subtitle": "이 혜택은 다시 보지 못할 거예요",
-      "title": "마지막 혜택"
+      "subtitle": "다시는 볼 수 없어요",
+      "title": "마지막 제안"
     },
     "nb": {
-      "badge_text": "Spesialtilbud for deg",
+      "badge_text": "Spesialtilbud til deg",
       "cancel_text": "Avslutt når som helst",
       "discount_text": "Spar {{}}%",
       "features_list": [
-        "Fruktbarhet- og PMS-forutsigelser",
-        "Egendefinerte påminnelser og varsler",
-        "Personlig helseassistent med KI",
-        "Lås opp alle funksjonene"
+        "Fruktbarhet & PMS-varsler",
+        "Tilpassede påminnelser",
+        "Personlig helseassistent (AI)",
+        "Lås opp alle funksjoner"
       ],
-      "highlight_text": "Over 175000 kvinner bruker Life for å være\nforberedt",
-      "price_text": "Start med årlig abonnement for bare {{}}/måned",
+      "highlight_text": "Over 175 000 kvinner bruker Life\nfor å være forberedt",
+      "price_text": "Start årlig for kun {{}}/mnd",
       "purchase_button_text": "Fortsett",
       "restore_text": "Gjenopprett kjøp",
-      "subtitle": "Du vil ikke se dette igjen",
-      "title": "Siste tilbud"
+      "subtitle": "Dette tilbudet kommer ikke igjen",
+      "title": "Siste sjanse"
     },
     "nl": {
       "badge_text": "Speciaal aanbod voor jou",
       "cancel_text": "Op elk moment annuleren",
       "discount_text": "Bespaar {{}}%",
       "features_list": [
-        "Vruchtbaarheids- & PMS-voorspellingen",
-        "Aangepaste herinneringen & meldingen",
+        "Vruchtbaarheid & PMS-voorspellingen",
+        "Aangepaste herinneringen",
         "Persoonlijke AI-gezondheidsassistent",
         "Ontgrendel alle functies"
       ],
-      "highlight_text": "Meer dan 175000 vrouwen gebruiken Life om\nvoorbereid te zijn",
-      "price_text": "Start met een jaarabonnement voor slechts {{}}/maand",
+      "highlight_text": "175.000+ vrouwen gebruiken Life\nvoor meer grip",
+      "price_text": "Start jaarplan vanaf slechts {{}}/maand",
       "purchase_button_text": "Doorgaan",
       "restore_text": "Aankoop herstellen",
-      "subtitle": "Je zult dit niet nog eens zien",
+      "subtitle": "Deze kans komt niet terug",
       "title": "Laatste aanbod"
     },
     "pt_BR": {
       "badge_text": "Oferta especial para você",
-      "cancel_text": "Cancele a qualquer momento",
+      "cancel_text": "Cancele quando quiser",
       "discount_text": "Economize {{}}%",
       "features_list": [
         "Previsões de fertilidade e TPM",
-        "Lembretes e alertas personalizados",
-        "Assistente de saúde com IA pessoal",
+        "Lembretes personalizados",
+        "Assistente de saúde com IA",
         "Desbloqueie todos os recursos"
       ],
-      "highlight_text": "Mais de 175000 mulheres usam o Life para se manterem\npreparadas",
-      "price_text": "Comece com o plano anual por apenas {{}}/mês",
+      "highlight_text": "Mais de 175.000 mulheres usam o Life\npara se preparar",
+      "price_text": "Comece com anual por apenas {{}}/mês",
       "purchase_button_text": "Continuar",
       "restore_text": "Restaurar compra",
-      "subtitle": "Você não verá isso novamente",
-      "title": "Última oferta"
+      "subtitle": "Essa oferta não volta",
+      "title": "Última chance"
     },
     "pt_PT": {
       "badge_text": "Oferta especial para ti",
@@ -283,117 +283,117 @@
       "discount_text": "Poupa {{}}%",
       "features_list": [
         "Previsões de fertilidade e TPM",
-        "Lembretes e alertas personalizados",
-        "Assistente de saúde pessoal com IA",
-        "Desbloqueia todas as funcionalidades"
+        "Lembretes personalizados",
+        "Assistente de saúde com IA",
+        "Desbloqueia todas as funções"
       ],
-      "highlight_text": "Mais de 175000 mulheres usam o Life para se manterem\npreparadas",
-      "price_text": "Começa com o plano anual por apenas {{}}/mês",
+      "highlight_text": "Mais de 175.000 mulheres usam o Life\npara estarem preparadas",
+      "price_text": "Começa com o anual por apenas {{}}/mês",
       "purchase_button_text": "Continuar",
       "restore_text": "Restaurar compra",
       "subtitle": "Não voltarás a ver isto",
-      "title": "Última oferta"
+      "title": "Última oportunidade"
     },
     "ro": {
       "badge_text": "Ofertă specială pentru tine",
       "cancel_text": "Anulează oricând",
       "discount_text": "Economisește {{}}%",
       "features_list": [
-        "Predicții pentru fertilitate și sindrom premenstrual",
-        "Mementouri și alerte personalizate",
-        "Asistentă de sănătate cu AI personală",
-        "Deblochează toate funcționalitățile"
+        "Predicții pentru fertilitate și PMS",
+        "Memento-uri personalizate",
+        "Asistentă AI pentru sănătate",
+        "Deblochează toate funcțiile"
       ],
-      "highlight_text": "Peste 175000 de femei folosesc Life pentru a fi\npregătite",
-      "price_text": "Începe cu abonamentul anual pentru doar {{}}/lună",
+      "highlight_text": "Peste 175.000 de femei folosesc Life\npentru a fi pregătite",
+      "price_text": "Începe cu planul anual de la doar {{}}/lună",
       "purchase_button_text": "Continuă",
       "restore_text": "Restaurează achiziția",
-      "subtitle": "Nu vei mai vedea această ofertă",
+      "subtitle": "Această ofertă nu revine",
       "title": "Ultima ofertă"
     },
     "ru": {
-      "badge_text": "Специальное предложение для тебя",
+      "badge_text": "Специальное предложение",
       "cancel_text": "Отменить в любое время",
       "discount_text": "Сэкономь {{}}%",
       "features_list": [
         "Прогнозы фертильности и ПМС",
-        "Пользовательские напоминания и уведомления",
-        "Персональная ИИ-помощница по здоровью",
+        "Личные напоминания",
+        "ИИ-помощница по здоровью",
         "Открой все функции"
       ],
-      "highlight_text": "Более 175000 женщин используют Life, чтобы быть\nподготовленными",
-      "price_text": "Начни с годового плана всего за {{}}/мес",
+      "highlight_text": "175 000+ женщин выбирают Life\nдля контроля над циклом",
+      "price_text": "Начни с годового за {{}} в месяц",
       "purchase_button_text": "Продолжить",
       "restore_text": "Восстановить покупку",
-      "subtitle": "Ты больше этого не увидишь",
+      "subtitle": "Такое больше не повторится",
       "title": "Последнее предложение"
     },
     "sv": {
-      "badge_text": "Specialerbjudande för dig",
-      "cancel_text": "Avsluta när som helst",
+      "badge_text": "Specialerbjudande till dig",
+      "cancel_text": "Avbryt när som helst",
       "discount_text": "Spara {{}}%",
       "features_list": [
-        "Prognoser för fertilitet och PMS",
-        "Anpassade påminnelser och aviseringar",
-        "Personlig AI-hälsoassistent",
+        "Fertilitet & PMS-prognoser",
+        "Personliga påminnelser",
+        "AI-hälsorådgivare",
         "Lås upp alla funktioner"
       ],
-      "highlight_text": "Över 175000 kvinnor använder Life för att vara\nförberedda",
+      "highlight_text": "175 000+ kvinnor använder Life\nför att vara förberedda",
       "price_text": "Börja med årsprenumeration för endast {{}}/månad",
       "purchase_button_text": "Fortsätt",
       "restore_text": "Återställ köp",
-      "subtitle": "Du kommer inte se detta igen",
+      "subtitle": "Du får inte en ny chans",
       "title": "Sista erbjudandet"
     },
     "uk": {
       "badge_text": "Спеціальна пропозиція для тебе",
       "cancel_text": "Скасувати будь-коли",
-      "discount_text": "Збережи {{}}%",
+      "discount_text": "Заощадь {{}}%",
       "features_list": [
         "Прогнози фертильності та ПМС",
-        "Індивідуальні нагадування та сповіщення",
-        "Персональна асистентка здоров’я з ШІ",
+        "Індивідуальні нагадування",
+        "Персональна помічниця зі здоров’я",
         "Відкрий усі функції"
       ],
-      "highlight_text": "Понад 175000 жінок використовують Life, щоб бути\nготовими",
-      "price_text": "Почни з річної підписки лише за {{}}/місяць",
+      "highlight_text": "175 000+ жінок використовують Life\nдля підготовки",
+      "price_text": "Почни з річного за {{}}/міс",
       "purchase_button_text": "Продовжити",
       "restore_text": "Відновити покупку",
-      "subtitle": "Цю пропозицію ти більше не побачиш",
+      "subtitle": "Більше не побачиш таку пропозицію",
       "title": "Остання пропозиція"
     },
     "zh_Hans": {
-      "badge_text": "专属优惠献给妳",
-      "cancel_text": "随时取消",
-      "discount_text": "立省 {{}}%",
+      "badge_text": "专属优惠为你而设",
+      "cancel_text": "随时可取消",
+      "discount_text": "节省{{}}%",
       "features_list": [
-        "生育期与经前综合征预测",
-        "自定义提醒与通知",
-        "个人AI健康助理",
-        "解锁所有功能"
+        "排卵和经前预测",
+        "个性化提醒",
+        "AI 健康助理",
+        "解锁全部功能"
       ],
-      "highlight_text": "超过175000位女性使用 Life 来保持\n准备状态",
-      "price_text": "年度订阅仅需 {{}}/月起",
+      "highlight_text": "超过 175,000 位女性使用 Life\n来提前准备",
+      "price_text": "年费方案仅需每月 {{}} 起",
       "purchase_button_text": "继续",
       "restore_text": "恢复购买",
-      "subtitle": "妳将不会再次看到此优惠",
-      "title": "最后的优惠"
+      "subtitle": "错过就没有了",
+      "title": "最后机会"
     },
     "zh_Hant": {
-      "badge_text": "專屬優惠獻給妳",
-      "cancel_text": "隨時取消",
-      "discount_text": "節省 {{}}%",
+      "badge_text": "專屬優惠給妳",
+      "cancel_text": "可隨時取消",
+      "discount_text": "省下 {{}}%",
       "features_list": [
-        "生育期與經前綜合症預測",
+        "排卵與經前預測",
         "自訂提醒與通知",
         "個人 AI 健康助理",
         "解鎖所有功能"
       ],
-      "highlight_text": "超過175000位女性使用 Life 保持\n充分準備",
-      "price_text": "年度訂閱僅需每月 {{}} 起",
+      "highlight_text": "超過 175,000 位女性使用 Life\n做好準備",
+      "price_text": "年費方案只要每月 {{}} 起",
       "purchase_button_text": "繼續",
       "restore_text": "恢復購買",
-      "subtitle": "妳將不再看到此優惠",
+      "subtitle": "這是唯一一次機會",
       "title": "最後優惠"
     }
   }

@@ -44,14 +44,14 @@
         "priceID": 8,
         "experiment": [
             {
-                "name": "Bear",
+                "name": "Continue",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-A.json",
                 "priceID": 8
             },
             {
-                "name": "Cat",
+                "name": "Free Trial",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-B.json",
@@ -67,14 +67,14 @@
         "priceID": 7,
         "experiment": [
             {
-                "name": "White",
+                "name": "Continue",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-A.json",
                 "priceID": 7
             },
             {
-                "name": "Orange",
+                "name": "Free Trial",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-B.json",
