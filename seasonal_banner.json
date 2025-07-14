@@ -1,13 +1,13 @@
 {
-  "title": "86% off for well-being week",
-  "subtitle": "86% off for well-being week",
+  "title": "86% off to unlock all the features",
+  "subtitle": "86% off to unlock all the features",
   "title_text_color": "#3A2D2F",
   "subtitle_text_color": "#524345",
   "countdown": true,
-  "deadline": "2025-06-30",
+  "deadline": "2025-07-19",
   "background": {
-    "start_color": "#FBCB01",
-    "end_color": "#FBCB01",
+    "start_color": "#FFB6CE",
+    "end_color": "#FFF2F6",
     "direction": "left-to-right"
   },
   "title_font_size": "18",
@@ -20,76 +20,76 @@
   },
   "translations": {
     "de": {
-      "title": "86 % Rabatt zur Woche des Wohlbefindens",
-      "subtitle": "86 % Rabatt zur Woche des Wohlbefindens"
+      "title": "86 % Rabatt auf alle Funktionen",
+      "subtitle": "86 % Rabatt auf alle Funktionen"
     },
     "fr": {
-      "title": "-86 % pour la Semaine du Bien-Être",
-      "subtitle": "-86 % pour la Semaine du Bien-Être"
+      "title": "-86 % pour débloquer toutes les fonctions",
+      "subtitle": "-86 % pour débloquer toutes les fonctions"
     },
     "it": {
-      "title": "86% di sconto per la Settimana del Benessere",
-      "subtitle": "86% di sconto per la Settimana del Benessere"
-    },
-    "nb": {
-      "title": "86 % rabatt under Velværeuken",
-      "subtitle": "86 % rabatt under Velværeuken"
+      "title": "86% di sconto su tutte le funzioni",
+      "subtitle": "86% di sconto su tutte le funzioni"
     },
     "pt_BR": {
-      "title": "86% OFF na Semana do Bem-Estar",
-      "subtitle": "86% OFF na Semana do Bem-Estar"
+      "title": "86% off para desbloquear tudo",
+      "subtitle": "86% off para desbloquear tudo"
     },
     "pt_PT": {
-      "title": "86% OFF na Semana do Bem-Estar",
-      "subtitle": "86% OFF na Semana do Bem-Estar"
-    },
-    "ru": {
-      "title": "Скидка 86% на Неделе благополучия",
-      "subtitle": "Скидка 86% на Неделе благополучия"
-    },
-    "sv": {
-      "title": "86 % rabatt under Välmåendets vecka",
-      "subtitle": "86 % rabatt under Välmåendets vecka"
-    },
-    "zh_Hans": {
-      "title": "身心健康周立减 86%",
-      "subtitle": "身心健康周立减 86%"
-    },
-    "zh_Hant": {
-      "title": "身心健康週 86% 折扣",
-      "subtitle": "身心健康週 86% 折扣"
-    },
-    "ja": {
-      "title": "ウェルビーイング週間：86%オフ",
-      "subtitle": "ウェルビーイング週間：86%オフ"
-    },
-    "ko": {
-      "title": "웰빙 주간 86% 할인",
-      "subtitle": "웰빙 주간 86% 할인"
-    },
-    "da": {
-      "title": "86 % rabat under Velværeugen",
-      "subtitle": "86 % rabat under Velværeugen"
+      "title": "86% desconto para desbloquear tudo",
+      "subtitle": "86% desconto para desbloquear tudo"
     },
     "es": {
-      "title": "86% de descuento en la Semana del Bienestar",
-      "subtitle": "86% de descuento en la Semana del Bienestar"
+      "title": "86% de descuento para desbloquear todo",
+      "subtitle": "86% de descuento para desbloquear todo"
+    },
+    "ru": {
+      "title": "Скидка 86% на все функции",
+      "subtitle": "Скидка 86% на все функции"
+    },
+    "zh_Hans": {
+      "title": "解锁所有功能立减86%",
+      "subtitle": "解锁所有功能立减86%"
+    },
+    "zh_Hant": {
+      "title": "解鎖所有功能享86%優惠",
+      "subtitle": "解鎖所有功能享86%優惠"
+    },
+    "ja": {
+      "title": "すべての機能が86%オフ",
+      "subtitle": "すべての機能が86%オフ"
+    },
+    "ko": {
+      "title": "모든 기능 86% 할인으로 잠금 해제",
+      "subtitle": "모든 기능 86% 할인으로 잠금 해제"
     },
     "nl": {
-      "title": "86% korting tijdens de Week van het Welzijn",
-      "subtitle": "86% korting tijdens de Week van het Welzijn"
+      "title": "86% korting op alle functies",
+      "subtitle": "86% korting op alle functies"
     },
     "fi": {
-      "title": "86 % alennus Hyvinvoinnin viikolla",
-      "subtitle": "86 % alennus Hyvinvoinnin viikolla"
+      "title": "86 % alennus kaikista toiminnoista",
+      "subtitle": "86 % alennus kaikista toiminnoista"
+    },
+    "sv": {
+      "title": "86 % rabatt på alla funktioner",
+      "subtitle": "86 % rabatt på alla funktioner"
     },
     "ro": {
-      "title": "86% reducere pentru Săptămâna Bunăstării",
-      "subtitle": "86% reducere pentru Săptămâna Bunăstării"
+      "title": "86% reducere pentru a debloca tot",
+      "subtitle": "86% reducere pentru a debloca tot"
     },
     "uk": {
-      "title": "Знижка 86% на Тижні добробуту",
-      "subtitle": "Знижка 86% на Тижні добробуту"
+      "title": "Знижка 86% для розблокування всіх функцій",
+      "subtitle": "Знижка 86% для розблокування всіх функцій"
+    },
+    "da": {
+      "title": "86% rabat for at låse alt op",
+      "subtitle": "86% rabat for at låse alt op"
+    },
+    "nb": {
+      "title": "86 % rabatt for å låse opp alt",
+      "subtitle": "86 % rabatt for å låse opp alt"
     }
   }
 }
