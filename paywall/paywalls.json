@@ -90,14 +90,14 @@
         "priceID": 0,
         "experiment": [
             {
-                "name": "Old Texts",
+                "name": "Original Text",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "New Texts",
+                "name": "GPT Text",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
