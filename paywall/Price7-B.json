@@ -49,13 +49,18 @@
   "link_text_color": "#171515",
   "link_text_size": 13,
   "price_discount": 50,
+  "price_list": [
+    "life.yearly_2999",
+    "life.monthly_499",
+    "life.weekly_149"
+  ],
   "price_period": "year",
   "price_text": "Start with Yearly for only {{}}/month",
   "purchase_button_color": [
     "#E33E88",
     "#FF8F1C"
   ],
-  "purchase_button_text": "Try free for 3 days",
+  "purchase_button_text": "Continue",
   "purchase_button_text_color": "#ffffff",
   "restore_text": "Restore purchase",
   "restore_text_color": "#171515",
@@ -101,11 +106,16 @@
         "Lås op for alle funktioner"
       ],
       "highlight_text": "175.000+ kvinder bruger Life\ntil at være forberedte",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Start årligt for kun {{}}/md",
-      "purchase_button_text": "3 dages gratis prøve",
+      "purchase_button_text": "Fortsæt",
       "restore_text": "Gendan køb",
       "subtitle": "Du får ikke chancen igen",
-      "title": "Sidste tilbud"
+      "title": "Sidst,e tilbud"
     },
     "de": {
       "badge_text": "Spezialangebot für dich",
@@ -118,11 +128,16 @@
         "Alle Funktionen freischalten"
       ],
       "highlight_text": "Über 175.000 Frauen nutzen Life\nzur Vorbereitung",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Starte mit dem Jahresplan für nur {{}}/Monat",
-      "purchase_button_text": "3 Tage gratis testen",
+      "purchase_button_text": "Weiter",
       "restore_text": "Kauf wiederherstellen",
       "subtitle": "Diese Chance kommt nicht zurück",
-      "title": "Letztes Angebot"
+      "title": "Letzt,es Angebot"
     },
     "fi": {
       "badge_text": "Erikoistarjous sinulle",
@@ -135,11 +150,16 @@
         "Avaa kaikki ominaisuudet"
       ],
       "highlight_text": "Yli 175 000 naista käyttää Lifea\nvalmistautumiseen",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Aloita vuosipaketilla vain {{}}/kk",
-      "purchase_button_text": "Kokeile 3 päivää ilmaiseksi",
+      "purchase_button_text": "Jatka",
       "restore_text": "Palauta ostos",
       "subtitle": "Et näe tätä enää uudelleen",
-      "title": "Viimeinen tarjous"
+      "title": "Viime,inen tarjous"
     },
     "fr": {
       "badge_text": "Offre spéciale pour toi",
@@ -152,11 +172,16 @@
         "Débloque toutes les fonctions"
       ],
       "highlight_text": "175 000+ femmes utilisent Life\npour mieux se préparer",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Commence l’abonnement annuel pour seulement {{}}/mois",
-      "purchase_button_text": "Essai gratuit 3 jours",
+      "purchase_button_text": "Continuer",
       "restore_text": "Restaurer l'achat",
       "subtitle": "Tu ne verras plus cette offre",
-      "title": "Dernière chance"
+      "title": "Derni,ère chance"
     },
     "it": {
       "badge_text": "Offerta speciale per te",
@@ -169,11 +194,16 @@
         "Sblocca tutte le funzioni"
       ],
       "highlight_text": "Oltre 175.000 donne usano Life\nper essere pronte",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Inizia con l’annuale da solo {{}}/mese",
-      "purchase_button_text": "Prova gratis 3 giorni",
+      "purchase_button_text": "Continua",
       "restore_text": "Ripristina acquisto",
       "subtitle": "Offerta irripetibile",
-      "title": "Ultima occasione"
+      "title": "Ultim,a occasione"
     },
     "ja": {
       "badge_text": "あなたへの特別オファー",
@@ -186,11 +216,16 @@
         "すべての機能を解放"
       ],
       "highlight_text": "17万5千人以上の女性がLifeで\n備えています",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "年額プランは月額{{}}〜",
-      "purchase_button_text": "3日間無料で試す",
+      "purchase_button_text": "続ける",
       "restore_text": "購入を復元",
       "subtitle": "このチャンスは一度きり",
-      "title": "最終オファー"
+      "title": "最終オファ,ー"
     },
     "ko": {
       "badge_text": "당신만을 위한 혜택",
@@ -203,11 +238,16 @@
         "모든 기능 잠금 해제"
       ],
       "highlight_text": "175,000명 이상의 여성이 Life로\n미리 준비합니다",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "연간 요금제 {{}}/월부터 시작",
-      "purchase_button_text": "3일 무료 체험",
+      "purchase_button_text": "계속하기",
       "restore_text": "구매 복원",
       "subtitle": "다시는 볼 수 없어요",
-      "title": "마지막 제안"
+      "title": "마지막 제,안"
     },
     "nb": {
       "badge_text": "Spesialtilbud til deg",
@@ -220,11 +260,16 @@
         "Lås opp alle funksjoner"
       ],
       "highlight_text": "Over 175 000 kvinner bruker Life\nfor å være forberedt",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Start årlig for kun {{}}/mnd",
-      "purchase_button_text": "Prøv gratis i 3 dager",
+      "purchase_button_text": "Fortsett",
       "restore_text": "Gjenopprett kjøp",
       "subtitle": "Dette tilbudet kommer ikke igjen",
-      "title": "Siste sjanse"
+      "title": "Siste, sjanse"
     },
     "nl": {
       "badge_text": "Speciaal aanbod voor jou",
@@ -237,11 +282,16 @@
         "Ontgrendel alle functies"
       ],
       "highlight_text": "175.000+ vrouwen gebruiken Life\nvoor meer grip",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Start jaarplan vanaf slechts {{}}/maand",
-      "purchase_button_text": "3 dagen gratis proberen",
+      "purchase_button_text": "Doorgaan",
       "restore_text": "Aankoop herstellen",
       "subtitle": "Deze kans komt niet terug",
-      "title": "Laatste aanbod"
+      "title": "Laats,te aanbod"
     },
     "pt_BR": {
       "badge_text": "Oferta especial para você",
@@ -254,11 +304,16 @@
         "Desbloqueie todos os recursos"
       ],
       "highlight_text": "Mais de 175.000 mulheres usam o Life\npara se preparar",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Comece com anual por apenas {{}}/mês",
-      "purchase_button_text": "Teste grátis por 3 dias",
+      "purchase_button_text": "Continuar",
       "restore_text": "Restaurar compra",
       "subtitle": "Essa oferta não volta",
-      "title": "Última chance"
+      "title": "Últim,a chance"
     },
     "pt_PT": {
       "badge_text": "Oferta especial para ti",
@@ -271,11 +326,16 @@
         "Desbloqueia todas as funções"
       ],
       "highlight_text": "Mais de 175.000 mulheres usam o Life\npara estarem preparadas",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Começa com o anual por apenas {{}}/mês",
-      "purchase_button_text": "Experimenta 3 dias grátis",
+      "purchase_button_text": "Continuar",
       "restore_text": "Restaurar compra",
       "subtitle": "Não voltarás a ver isto",
-      "title": "Última oportunidade"
+      "title": "Últim,a oportunidade"
     },
     "ro": {
       "badge_text": "Ofertă specială pentru tine",
@@ -288,11 +348,16 @@
         "Deblochează toate funcțiile"
       ],
       "highlight_text": "Peste 175.000 de femei folosesc Life\npentru a fi pregătite",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Începe cu planul anual de la doar {{}}/lună",
-      "purchase_button_text": "3 zile gratuit de probă",
+      "purchase_button_text": "Continuă",
       "restore_text": "Restaurează achiziția",
       "subtitle": "Această ofertă nu revine",
-      "title": "Ultima ofertă"
+      "title": "Ultim,a ofertă"
     },
     "ru": {
       "badge_text": "Специальное предложение",
@@ -305,11 +370,16 @@
         "Открой все функции"
       ],
       "highlight_text": "175 000+ женщин выбирают Life\nдля контроля над циклом",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Начни с годового за {{}} в месяц",
-      "purchase_button_text": "3 дня бесплатно",
+      "purchase_button_text": "Продолжить",
       "restore_text": "Восстановить покупку",
       "subtitle": "Такое больше не повторится",
-      "title": "Последнее предложение"
+      "title": "После,днее предложение"
     },
     "sv": {
       "badge_text": "Specialerbjudande till dig",
@@ -322,11 +392,16 @@
         "Lås upp alla funktioner"
       ],
       "highlight_text": "175 000+ kvinnor använder Life\nför att vara förberedda",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Börja med årsplanen för {{}}/månad",
-      "purchase_button_text": "3 dagar gratis test",
+      "purchase_button_text": "Fortsätt",
       "restore_text": "Återställ köp",
       "subtitle": "Du får inte en ny chans",
-      "title": "Sista erbjudandet"
+      "title": "Sista, erbjudandet"
     },
     "uk": {
       "badge_text": "Спеціальна пропозиція для тебе",
@@ -339,11 +414,16 @@
         "Відкрий усі функції"
       ],
       "highlight_text": "175 000+ жінок використовують Life\nдля підготовки",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "Почни з річного за {{}}/міс",
-      "purchase_button_text": "3 дні безкоштовно",
+      "purchase_button_text": "Продовжити",
       "restore_text": "Відновити покупку",
       "subtitle": "Більше не побачиш таку пропозицію",
-      "title": "Остання пропозиція"
+      "title": "Остан,ня пропозиція"
     },
     "zh_Hans": {
       "badge_text": "专属优惠为你而设",
@@ -356,8 +436,13 @@
         "解锁全部功能"
       ],
       "highlight_text": "超过 175,000 位女性使用 Life\n来提前准备",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "年费方案仅需每月 {{}} 起",
-      "purchase_button_text": "免费试用3天",
+      "purchase_button_text": "继续",
       "restore_text": "恢复购买",
       "subtitle": "错过就没有了",
       "title": "最后机会"
@@ -373,8 +458,13 @@
         "解鎖所有功能"
       ],
       "highlight_text": "超過 175,000 位女性使用 Life\n做好準備",
+      "price_list": [
+        "life.yearly_2999",
+        "life.monthly_499",
+        "life.weekly_149"
+      ],
       "price_text": "年費方案只要每月 {{}} 起",
-      "purchase_button_text": "免費試用 3 天",
+      "purchase_button_text": "繼續",
       "restore_text": "恢復購買",
       "subtitle": "這是唯一一次機會",
       "title": "最後優惠"

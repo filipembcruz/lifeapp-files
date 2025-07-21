@@ -27,11 +27,16 @@
     "link_horizontal_space": 16,
     "link_text_color": "#000000",
     "link_text_size": 13,
+    "price_list": [
+        "life.yearly_free_3_3499",
+        "life.monthly_free_3_599",
+        "life.weekly_free_3_199"
+    ],
     "purchase_area_margin_top": 90,
     "purchase_button_color": [
         "#D1416B"
     ],
-    "purchase_button_text": "Continue",
+    "purchase_button_text": "Try free for 3 days",
     "purchase_button_text_color": "#ffffff",
     "restore_text": "Restore purchase",
     "restore_text_color": "#B02653",
@@ -69,7 +74,12 @@
         "da": {
             "badge_text": "Mest populære",
             "cancel_text": "Annuller når som helst",
-            "purchase_button_text": "Fortsæt",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 dages gratis prøve",
             "restore_text": "Gendan køb",
             "subtitle": "Et eksklusivt tilbud, kun til dig",
             "title": "Prisfaldsvarsel 🚨"
@@ -77,7 +87,12 @@
         "de": {
             "badge_text": "Am beliebtesten",
             "cancel_text": "Jederzeit kündbar",
-            "purchase_button_text": "Fortfahren",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 Tage gratis testen",
             "restore_text": "Kauf wiederherstellen",
             "subtitle": "Ein exklusives Angebot, nur für dich",
             "title": "Preisalarm 🚨"
@@ -85,7 +100,12 @@
         "es": {
             "badge_text": "La más popular",
             "cancel_text": "Cancela en cualquier momento",
-            "purchase_button_text": "Continuar",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 días gratis",
             "restore_text": "Restaurar compra",
             "subtitle": "Una oferta exclusiva, solo para ti",
             "title": "Alerta de bajada de precio 🚨"
@@ -93,7 +113,12 @@
         "fi": {
             "badge_text": "Suosituin",
             "cancel_text": "Peruuta milloin tahansa",
-            "purchase_button_text": "Jatka",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 pv ilmainen kokeilu",
             "restore_text": "Palauta osto",
             "subtitle": "Yksinoikeustarjous vain sinulle",
             "title": "Hintahälytys 🚨"
@@ -101,7 +126,12 @@
         "fr": {
             "badge_text": "Le plus populaire",
             "cancel_text": "Annulable à tout moment",
-            "purchase_button_text": "Continuer",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "Essai 3 jours gratuit",
             "restore_text": "Restaurer l'achat",
             "subtitle": "Une offre exclusive, rien que pour toi",
             "title": "Alerte baisse de prix 🚨"
@@ -109,7 +139,12 @@
         "it": {
             "badge_text": "La più popolare",
             "cancel_text": "Annulla in qualsiasi momento",
-            "purchase_button_text": "Continua",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "Prova gratis 3 giorni",
             "restore_text": "Ripristina acquisto",
             "subtitle": "Un'offerta esclusiva solo per te",
             "title": "Allerta calo di prezzo 🚨"
@@ -117,7 +152,12 @@
         "ja": {
             "badge_text": "一番人気",
             "cancel_text": "いつでもキャンセル可能",
-            "purchase_button_text": "続ける",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3日間無料で試す",
             "restore_text": "購入を復元",
             "subtitle": "あなただけの特別オファー",
             "title": "値下げアラート 🚨"
@@ -125,7 +165,12 @@
         "ko": {
             "badge_text": "가장 인기 있음",
             "cancel_text": "언제든지 취소 가능",
-            "purchase_button_text": "계속",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3일 무료 체험",
             "restore_text": "구매 복원",
             "subtitle": "당신만을 위한 특별한 제안",
             "title": "가격 하락 알림 🚨"
@@ -133,7 +178,12 @@
         "nb": {
             "badge_text": "Mest populær",
             "cancel_text": "Avslutt når som helst",
-            "purchase_button_text": "Fortsett",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "Prøv gratis i 3 dager",
             "restore_text": "Gjenopprett kjøp",
             "subtitle": "Et eksklusivt tilbud, kun for deg",
             "title": "Prisvarsel 🚨"
@@ -141,7 +191,12 @@
         "nl": {
             "badge_text": "Meest populair",
             "cancel_text": "Op elk moment annuleren",
-            "purchase_button_text": "Doorgaan",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 dagen gratis proberen",
             "restore_text": "Aankoop herstellen",
             "subtitle": "Een exclusief aanbod, speciaal voor jou",
             "title": "Prijsdaling melding 🚨"
@@ -149,7 +204,12 @@
         "pt_BR": {
             "badge_text": "Mais popular",
             "cancel_text": "Cancele quando quiser",
-            "purchase_button_text": "Continuar",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "Teste grátis por 3 dias",
             "restore_text": "Restaurar compra",
             "subtitle": "Uma oferta exclusiva, só para você",
             "title": "Alerta de queda de preço 🚨"
@@ -157,7 +217,12 @@
         "pt_PT": {
             "badge_text": "Mais popular",
             "cancel_text": "Cancele a qualquer momento",
-            "purchase_button_text": "Continuar",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 dias grátis para testar",
             "restore_text": "Restaurar compra",
             "subtitle": "Uma oferta exclusiva, só para ti",
             "title": "Alerta de descida de preço 🚨"
@@ -165,7 +230,12 @@
         "ro": {
             "badge_text": "Cea mai populară",
             "cancel_text": "Anulează oricând",
-            "purchase_button_text": "Continuă",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "Testează 3 zile gratuit",
             "restore_text": "Restaurează achiziția",
             "subtitle": "O ofertă exclusivă, doar pentru tine",
             "title": "Alertă de reducere a prețului 🚨"
@@ -173,7 +243,12 @@
         "ru": {
             "badge_text": "Самая популярная",
             "cancel_text": "Отменить в любое время",
-            "purchase_button_text": "Продолжить",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 дня бесплатно",
             "restore_text": "Восстановить покупку",
             "subtitle": "Эксклюзивное предложение только для тебя",
             "title": "Уведомление о снижении цены 🚨"
@@ -181,7 +256,12 @@
         "sv": {
             "badge_text": "Mest populära",
             "cancel_text": "Avbryt när du vill",
-            "purchase_button_text": "Fortsätt",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 dagar gratis test",
             "restore_text": "Återställ köp",
             "subtitle": "Ett exklusivt erbjudande, bara för dig",
             "title": "Prissänkning 🚨"
@@ -189,7 +269,12 @@
         "uk": {
             "badge_text": "Найпопулярніша",
             "cancel_text": "Скасувати будь-коли",
-            "purchase_button_text": "Продовжити",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "3 дні безкоштовно",
             "restore_text": "Відновити покупку",
             "subtitle": "Ексклюзивна пропозиція лише для тебе",
             "title": "Сповіщення про зниження ціни 🚨"
@@ -197,7 +282,12 @@
         "zh_Hans": {
             "badge_text": "最受欢迎",
             "cancel_text": "随时可取消",
-            "purchase_button_text": "继续",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "免费试用3天",
             "restore_text": "恢复购买",
             "subtitle": "专属优惠，仅为你准备",
             "title": "降价提醒 🚨"
@@ -205,7 +295,12 @@
         "zh_Hant": {
             "badge_text": "最受歡迎",
             "cancel_text": "隨時可取消",
-            "purchase_button_text": "繼續",
+            "price_list": [
+                "life.yearly_free_3_3499",
+                "life.monthly_free_3_599",
+                "life.weekly_free_3_199"
+            ],
+            "purchase_button_text": "免費試用3天",
             "restore_text": "恢復購買",
             "subtitle": "專屬優惠，只為妳準備",
             "title": "降價通知 🚨"

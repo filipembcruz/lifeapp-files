@@ -36,9 +36,9 @@
     "link_text_color": "#43292E",
     "link_text_size": 13,
     "price_list": [
-        "life.yearly_4999",
-        "life.monthly_799",
-        "life.weekly_249"
+        "life.yearly_free_3_4999",
+        "life.monthly_free_3_799",
+        "life.weekly_free_3_249"
     ],
     "purchase_area_margin_top": 90,
     "purchase_button_color": [
@@ -46,7 +46,7 @@
         "#B02653",
         "#8F043C"
     ],
-    "purchase_button_text": "Continue",
+    "purchase_button_text": "Try free for 3 days",
     "purchase_button_text_color": "#ffffff",
     "restore_text": "Restore purchases",
     "restore_text_color": "#000000",
@@ -85,11 +85,11 @@
             "badge_text": "Mest populær",
             "cancel_text": "Annuller når som helst",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Fortsæt",
+            "purchase_button_text": "Prøv gratis i 3 dage",
             "restore_text": "Gendan køb",
             "subtitle": "Øg dine chancer for at blive gravid",
             "title": "Prøv Premium"
@@ -98,11 +98,11 @@
             "badge_text": "Am beliebtesten",
             "cancel_text": "Jederzeit kündigen",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Weiter",
+            "purchase_button_text": "Kostenlos für 3 Tage testen",
             "restore_text": "Käufe wiederherstellen",
             "subtitle": "Steigern Sie Ihre Chancen auf eine Schwangerschaft",
             "title": "Premium testen"
@@ -111,11 +111,11 @@
             "badge_text": "Más popular",
             "cancel_text": "Cancela en cualquier momento",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continuar",
+            "purchase_button_text": "Prueba gratis por 3 días",
             "restore_text": "Restaurar compras",
             "subtitle": "Aumenta tus posibilidades de quedar embarazada",
             "title": "Prueba Premium"
@@ -124,11 +124,11 @@
             "badge_text": "Suosituin",
             "cancel_text": "Peruuta milloin tahansa",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Jatka",
+            "purchase_button_text": "Kokeile ilmaiseksi 3 päivää",
             "restore_text": "Palauta ostot",
             "subtitle": "Lisää mahdollisuuksiasi tulla raskaaksi",
             "title": "Kokeile Premiumia"
@@ -137,11 +137,11 @@
             "badge_text": "Le plus populaire",
             "cancel_text": "Annulez à tout moment",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continuer",
+            "purchase_button_text": "Essayez gratuitement pendant 3 jours",
             "restore_text": "Restaurer les achats",
             "subtitle": "Augmentez vos chances de tomber enceinte",
             "title": "Essayer Premium"
@@ -150,11 +150,11 @@
             "badge_text": "Il più popolare",
             "cancel_text": "Annulla in qualsiasi momento",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continua",
+            "purchase_button_text": "Prova gratis per 3 giorni",
             "restore_text": "Ripristina acquisti",
             "subtitle": "Aumenta le tue possibilità di rimanere incinta",
             "title": "Prova Premium"
@@ -163,11 +163,11 @@
             "badge_text": "最も人気",
             "cancel_text": "いつでもキャンセル可能",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "続ける",
+            "purchase_button_text": "3日間無料で試す",
             "restore_text": "購入を復元",
             "subtitle": "妊娠の確率を高めましょう",
             "title": "プレミアムを試す"
@@ -176,11 +176,11 @@
             "badge_text": "가장 인기 있는",
             "cancel_text": "언제든지 취소 가능",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "계속하기",
+            "purchase_button_text": "3일 동안 무료로 체험하기",
             "restore_text": "구매 복원",
             "subtitle": "임신 가능성을 높이세요",
             "title": "프리미엄 체험하기"
@@ -189,11 +189,11 @@
             "badge_text": "Mest populær",
             "cancel_text": "Avbryt når som helst",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Fortsett",
+            "purchase_button_text": "Prøv gratis i 3 dager",
             "restore_text": "Gjenopprett kjøp",
             "subtitle": "Øk sjansene dine for å bli gravid",
             "title": "Prøv Premium"
@@ -202,11 +202,11 @@
             "badge_text": "Meest populair",
             "cancel_text": "Annuleer op elk moment",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Doorgaan",
+            "purchase_button_text": "Probeer 3 dagen gratis",
             "restore_text": "Aankopen herstellen",
             "subtitle": "Verhoog je kansen om zwanger te worden",
             "title": "Probeer Premium"
@@ -215,11 +215,11 @@
             "badge_text": "Mais popular",
             "cancel_text": "Cancele a qualquer momento",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continuar",
+            "purchase_button_text": "Experimente grátis por 3 dias",
             "restore_text": "Restaurar compras",
             "subtitle": "Aumente suas chances de engravidar",
             "title": "Experimente Premium"
@@ -228,11 +228,11 @@
             "badge_text": "Mais popular",
             "cancel_text": "Cancele a qualquer momento",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continuar",
+            "purchase_button_text": "Experimente grátis durante 3 dias",
             "restore_text": "Restaurar compras",
             "subtitle": "Aumente as suas hipóteses de engravidar",
             "title": "Experimente Premium"
@@ -241,11 +241,11 @@
             "badge_text": "Cel mai popular",
             "cancel_text": "Anulează oricând",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Continuă",
+            "purchase_button_text": "Încearcă gratuit timp de 3 zile",
             "restore_text": "Restaurează achizițiile",
             "subtitle": "Crește-ți șansele de a rămâne însărcinată",
             "title": "Încearcă Premium"
@@ -254,11 +254,11 @@
             "badge_text": "Самый популярный",
             "cancel_text": "Отменить в любое время",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Продолжить",
+            "purchase_button_text": "Попробуйте бесплатно на 3 дня",
             "restore_text": "Восстановить покупки",
             "subtitle": "Увеличьте шансы забеременеть",
             "title": "Попробуйте Премиум"
@@ -267,11 +267,11 @@
             "badge_text": "Mest populär",
             "cancel_text": "Avbryt när som helst",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Fortsätt",
+            "purchase_button_text": "Prova gratis i 3 dagar",
             "restore_text": "Återställ köp",
             "subtitle": "Öka dina chanser att bli gravid",
             "title": "Prova Premium"
@@ -280,11 +280,11 @@
             "badge_text": "Найпопулярніший",
             "cancel_text": "Скасувати будь-коли",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "Продовжити",
+            "purchase_button_text": "Спробуйте безкоштовно протягом 3 днів",
             "restore_text": "Відновити покупки",
             "subtitle": "Підвищіть шанси завагітніти",
             "title": "Спробуйте Преміум"
@@ -293,11 +293,11 @@
             "badge_text": "最受欢迎",
             "cancel_text": "随时取消",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "继续",
+            "purchase_button_text": "免费试用3天",
             "restore_text": "恢复购买",
             "subtitle": "提高怀孕机会",
             "title": "试用高级版"
@@ -306,11 +306,11 @@
             "badge_text": "最受歡迎",
             "cancel_text": "隨時取消",
             "price_list": [
-                "life.yearly_4999",
-                "life.monthly_799",
-                "life.weekly_249"
+                "life.yearly_free_3_4999",
+                "life.monthly_free_3_799",
+                "life.weekly_free_3_249"
             ],
-            "purchase_button_text": "繼續",
+            "purchase_button_text": "免費試用3天",
             "restore_text": "恢復購買",
             "subtitle": "提高懷孕機會",
             "title": "試用高級版"
