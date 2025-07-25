@@ -83,24 +83,31 @@
         ]
     },
     {
-        "name": "July I campaign",
+        "name": "July II campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Original Text",
+                "name": "1",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "GPT Text",
+                "name": "2",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
+                "priceID": 0
+            },
+            {
+                "name": "3",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData3.json",
                 "priceID": 0
             }
         ]
