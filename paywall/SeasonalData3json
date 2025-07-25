@@ -1,0 +1,464 @@
+{
+  "background_color": [
+    "#FF548C",
+    "#FFB9D0"
+  ],
+  "background_height": 0.45,
+  "background_icon": "",
+  "background_icon_position": "right",
+  "background_image": "https://i.ibb.co/dyxbxkg/IMAGE-1.jpg",
+  "badge_background_color": [
+    "#81A739",
+    "#C4DD56"
+  ],
+  "badge_border_color": "#C3DD54",
+  "badge_position": "center",
+  "badge_text": "One time payment",
+  "badge_text_color": "#FFFFFF",
+  "close_btn_color": "#FFFFFF",
+  "close_btn_position": "left",
+  "close_btn_size": 40,
+  "divider_height": 0,
+  "divider_shape": "",
+  "foreground_color": "#FFFFFF",
+  "link_horizontal_space": 16,
+  "link_text_color": "#FFFFFF",
+  "link_text_size": 13,
+  "purchase_button_color": [
+    "#7EA437",
+    "#C5DE56"
+  ],
+  "purchase_button_text": "Unlock Insights",
+  "purchase_button_text_color": "#ffffff",
+  "restore_text": "Restore purchase",
+  "restore_text_color": "#FFFFFF",
+  "restore_text_size": 16,
+  "subscription_option_border_color": [
+    "#FFFFFF"
+  ],
+  "subscription_option_text_color": "#000000",
+  "subscription_option_background_color": "#FFFFFF",
+  "subscription_option_background_color_opacity": 1,
+  "subscription_selected_option_background_color": [
+    "#FFFFFF"
+  ],
+  "subscription_selected_option_border_color": [
+    "#FFFFFF"
+  ],
+  "subscription_selected_option_text_color": "#000000",
+  "subtitle": "Ready to supercharge your results?",
+  "subtitle_color": [
+    "#FFFFFF"
+  ],
+  "subtitle_position": "center",
+  "subtitle_size": 20,
+  "template": 4,
+  "title": "Summer sale",
+  "title_color": [
+    "#FFFFFF"
+  ],
+  "title_position": "center",
+  "title_margin_top": 0,
+  "title_size": 51.36,
+  "features_list": [
+    "Emotional Forecast",
+    "Real-time custom alerts",
+    "Period graphs & analytics",
+    "One-click export to PDF & Excel"
+  ],
+  "features_icon_color": "#FFFFFF",
+  "features_icon_size": 25,
+  "features_text_color": "#FFFFFF",
+  "features_text_size": 20,
+  "highlight_text": "Trusted by 10,000+ professionals\n",
+  "highlight_text_color": "#FFFFFF",
+  "highlight_text_size": 18,
+  "price_text": "Start with Yearly for only {{}}/month",
+  "price_period": "year",
+  "price_discount": 50,
+  "discount_text": "Save 50%",
+  "discount_text_description_color": "#000000",
+  "discount_button_border_color": "#000000",
+  "discount_text_color": [
+    "#000000"
+  ],
+  "discount_badge_color": "#8FB53E",
+  "discount_badge_size": 16,
+  "last_chance_cancel_color": "#000000",
+  "last_chance_cancel_size": 18,
+  "last_chance_cancel_text": "No, I really don't want this",
+  "last_chance_image_url": "https://i.ibb.co/0pG5qXF3/img-1.png",
+  "last_chance_image_width": 0.85,
+  "last_chance_image_negative_margin": -210,
+  "last_chance_price_text_color": "#000000",
+  "last_chance_price_text_size": 16,
+  "last_chance_purchase_button_text": "Yes, Upgrade & save 50%",
+  "last_chance_subtitle": "“Love the period graph, it gives me clarity”\nLilllly, 28",
+  "last_chance_subtitle_color": "#606365",
+  "last_chance_subtitle_size": 20,
+  "last_chance_title": "Don't miss out! Unlock your emotional forecast",
+  "last_chance_title_color": "#000000",
+  "last_chance_title_size": 20,
+  "translations": {
+    "de": {
+      "badge_text": "Einmalige Zahlung",
+      "purchase_button_text": "Einblicke freischalten",
+      "restore_text": "Kauf wiederherstellen",
+      "subtitle": "Bereit, deine Ergebnisse zu maximieren?",
+      "title": "Sommer-Angebote",
+      "features_list": [
+        "Emotionale Vorhersage",
+        "Benutzerdefinierte Echtzeit-Warnungen",
+        "Zyklusgrafiken & Analysen",
+        "Ein-Klick-Export als PDF & Excel"
+      ],
+      "highlight_text": "Mehr als 10.000 Fachleute vertrauen uns\n",
+      "price_text": "Starte mit dem Jahresabo für nur {{}}/Monat",
+      "discount_text": "50 % sparen",
+      "last_chance_cancel_text": "Nein, ich möchte das wirklich nicht",
+      "last_chance_purchase_button_text": "Ja, upgraden & 50 % sparen",
+      "last_chance_subtitle": "„Ich liebe die Zyklusgrafik, sie gibt mir Klarheit“\nLena, 28",
+      "last_chance_title": "Nicht verpassen! Schalte deine emotionale Vorhersage frei"
+    },
+    "fr": {
+      "badge_text": "Paiement unique",
+      "purchase_button_text": "Débloquer les aperçus",
+      "restore_text": "Restaurer l'achat",
+      "subtitle": "Prête à décupler vos résultats ?",
+      "title": "Soldes d'été",
+      "features_list": [
+        "Prévisions émotionnelles",
+        "Alertes personnalisées en temps réel",
+        "Graphiques et analyses des règles",
+        "Exportation en un clic vers PDF et Excel"
+      ],
+      "highlight_text": "Approuvé par plus de 10 000 professionnelles\n",
+      "price_text": "Commencez avec l'abonnement annuel pour seulement {{}}/mois",
+      "discount_text": "Économisez 50 %",
+      "last_chance_cancel_text": "Non, je n'en veux vraiment pas",
+      "last_chance_purchase_button_text": "Oui, je mets à niveau et j'économise 50 %",
+      "last_chance_subtitle": "« J'adore le graphique des règles, il m'apporte de la clarté »\nChloé, 28",
+      "last_chance_title": "Ne manquez pas ça ! Débloquez vos prévisions émotionnelles"
+    },
+    "it": {
+      "badge_text": "Pagamento una tantum",
+      "purchase_button_text": "Sblocca gli approfondimenti",
+      "restore_text": "Ripristina acquisto",
+      "subtitle": "Pronta a potenziare i tuoi risultati?",
+      "title": "Saldi estivi",
+      "features_list": [
+        "Previsioni emotive",
+        "Avvisi personalizzati in tempo reale",
+        "Grafici e analisi del ciclo",
+        "Esporta in un clic in PDF ed Excel"
+      ],
+      "highlight_text": "Scelto da più di 10.000 professioniste\n",
+      "price_text": "Inizia con l'abbonamento annuale a soli {{}}/mese",
+      "discount_text": "Risparmia il 50%",
+      "last_chance_cancel_text": "No, non lo voglio davvero",
+      "last_chance_purchase_button_text": "Sì, aggiorno e risparmio il 50%",
+      "last_chance_subtitle": "“Adoro il grafico del ciclo, mi dà chiarezza”\nSofia, 28",
+      "last_chance_title": "Non perdertelo! Sblocca le tue previsioni emotive"
+    },
+    "nb": {
+      "badge_text": "Engangsbetaling",
+      "purchase_button_text": "Lås opp innsikt",
+      "restore_text": "Gjenopprett kjøp",
+      "subtitle": "Klar til å maksimere resultatene dine?",
+      "title": "Sommersalg",
+      "features_list": [
+        "Følelsesmessig prognose",
+        "Egendefinerte varsler i sanntid",
+        "Mensengrafer og analyser",
+        "Ett-klikks eksport til PDF og Excel"
+      ],
+      "highlight_text": "Brukt av over 10 000 fagpersoner\n",
+      "price_text": "Start med årsabonnement for kun {{}}/måned",
+      "discount_text": "Spar 50 %",
+      "last_chance_cancel_text": "Nei, jeg vil virkelig ikke ha dette",
+      "last_chance_purchase_button_text": "Ja, oppgrader og spar 50 %",
+      "last_chance_subtitle": "«Elsker mensengrafen, den gir meg klarhet»\nIngrid, 28",
+      "last_chance_title": "Ikke gå glipp av det! Lås opp din følelsesmessige prognose"
+    },
+    "pt_BR": {
+      "badge_text": "Pagamento único",
+      "purchase_button_text": "Desbloquear Insights",
+      "restore_text": "Restaurar compra",
+      "subtitle": "Pronta para turbinar seus resultados?",
+      "title": "Promoção de Verão",
+      "features_list": [
+        "Previsão Emocional",
+        "Alertas personalizados em tempo real",
+        "Gráficos e análises do ciclo",
+        "Exportação para PDF e Excel com um clique"
+      ],
+      "highlight_text": "Aprovado por mais de 10.000 profissionais\n",
+      "price_text": "Comece com o plano Anual por apenas {{}}/mês",
+      "discount_text": "Economize 50%",
+      "last_chance_cancel_text": "Não, eu realmente não quero isso",
+      "last_chance_purchase_button_text": "Sim, atualizar e economizar 50%",
+      "last_chance_subtitle": "“Amo o gráfico do ciclo, me dá clareza”\nJúlia, 28",
+      "last_chance_title": "Não perca! Desbloqueie sua previsão emocional"
+    },
+    "pt_PT": {
+      "badge_text": "Pagamento único",
+      "purchase_button_text": "Desbloquear Análises",
+      "restore_text": "Restaurar compra",
+      "subtitle": "Pronta para potenciar os seus resultados?",
+      "title": "Saldos de Verão",
+      "features_list": [
+        "Previsão Emocional",
+        "Alertas personalizados em tempo real",
+        "Gráficos e análises do período",
+        "Exportação para PDF e Excel com um clique"
+      ],
+      "highlight_text": "Recomendado por mais de 10.000 profissionais\n",
+      "price_text": "Comece com o plano Anual por apenas {{}}/mês",
+      "discount_text": "Poupe 50%",
+      "last_chance_cancel_text": "Não, eu não quero mesmo isto",
+      "last_chance_purchase_button_text": "Sim, atualizar e poupar 50%",
+      "last_chance_subtitle": "“Adoro o gráfico do período, dá-me clareza”\nSofia, 28",
+      "last_chance_title": "Não perca! Desbloqueie a sua previsão emocional"
+    },
+    "ru": {
+      "badge_text": "Единоразовый платеж",
+      "purchase_button_text": "Разблокировать статистику",
+      "restore_text": "Восстановить покупку",
+      "subtitle": "Готовы улучшить свои результаты?",
+      "title": "Летняя распродажа",
+      "features_list": [
+        "Эмоциональный прогноз",
+        "Настраиваемые оповещения в реальном времени",
+        "Графики и аналитика цикла",
+        "Экспорт в PDF и Excel в один клик"
+      ],
+      "highlight_text": "Нам доверяют более 10 000 профессионалов\n",
+      "price_text": "Начните с годовой подписки всего за {{}} в месяц",
+      "discount_text": "Экономия 50%",
+      "last_chance_cancel_text": "Нет, я правда этого не хочу",
+      "last_chance_purchase_button_text": "Да, обновить и сэкономить 50%",
+      "last_chance_subtitle": "«Обожаю график цикла, он дает мне ясность»\nАнна, 28",
+      "last_chance_title": "Не упустите! Разблокируйте свой эмоциональный прогноз"
+    },
+    "sv": {
+      "badge_text": "Engångsbetalning",
+      "purchase_button_text": "Lås upp insikter",
+      "restore_text": "Återställ köp",
+      "subtitle": "Redo att maxa dina resultat?",
+      "title": "Sommarrea",
+      "features_list": [
+        "Känslomässig prognos",
+        "Anpassade aviseringar i realtid",
+        "Mensgrafer och analyser",
+        "Exportera till PDF och Excel med ett klick"
+      ],
+      "highlight_text": "Används av över 10 000 experter\n",
+      "price_text": "Börja med årsplanen för endast {{}}/månad",
+      "discount_text": "Spara 50 %",
+      "last_chance_cancel_text": "Nej, jag vill verkligen inte ha det här",
+      "last_chance_purchase_button_text": "Ja, uppgradera och spara 50 %",
+      "last_chance_subtitle": "”Älskar mensgrafen, den ger mig klarhet”\nMaja, 28",
+      "last_chance_title": "Missa inte! Lås upp din känslomässiga prognos"
+    },
+    "zh_Hans": {
+      "badge_text": "一次性付款",
+      "purchase_button_text": "解锁分析",
+      "restore_text": "恢复购买",
+      "subtitle": "准备好让效果倍增了吗？",
+      "title": "夏季特卖",
+      "features_list": [
+        "情绪预测",
+        "实时自定义提醒",
+        "经期图表与分析",
+        "一键导出为PDF和Excel"
+      ],
+      "highlight_text": "深受10,000多名专业人士信赖\n",
+      "price_text": "开始年度订阅，仅需{{}}/月",
+      "discount_text": "节省50%",
+      "last_chance_cancel_text": "不，我真的不想要",
+      "last_chance_purchase_button_text": "是的，升级并节省50%",
+      "last_chance_subtitle": "“我喜欢经期图表，它让我一目了然”\n小丽，28",
+      "last_chance_title": "别错过！解锁你的情绪预测"
+    },
+    "zh_Hant": {
+      "badge_text": "一次性付款",
+      "purchase_button_text": "解鎖洞察報告",
+      "restore_text": "恢復購買",
+      "subtitle": "準備好讓效果倍增了嗎？",
+      "title": "夏季特賣",
+      "features_list": [
+        "情緒預測",
+        "即時自訂提醒",
+        "經期圖表與分析",
+        "一鍵匯出為PDF和Excel"
+      ],
+      "highlight_text": "深受10,000多名專業人士信賴\n",
+      "price_text": "開始年度訂閱，僅需{{}}/月",
+      "discount_text": "節省50%",
+      "last_chance_cancel_text": "不，我真的不想要",
+      "last_chance_purchase_button_text": "是的，升級並節省50%",
+      "last_chance_subtitle": "「我喜歡經期圖表，它讓我一目了然」\n欣怡，28",
+      "last_chance_title": "別錯過！解鎖妳的情緒預測"
+    },
+    "ja": {
+      "badge_text": "一回限りの支払い",
+      "purchase_button_text": "インサイトをアンロック",
+      "restore_text": "購入を復元",
+      "subtitle": "あなたの結果を最大化する準備はできましたか？",
+      "title": "サマーセール",
+      "features_list": [
+        "感情予報",
+        "リアルタイムのカスタム通知",
+        "生理周期グラフと分析",
+        "ワンクリックでPDFとExcelにエクスポート"
+      ],
+      "highlight_text": "10,000人以上の専門家から信頼されています\n",
+      "price_text": "年間プランなら月々わずか{{}}で開始",
+      "discount_text": "50%お得",
+      "last_chance_cancel_text": "いいえ、本当に必要ありません",
+      "last_chance_purchase_button_text": "はい、アップグレードして50%お得に",
+      "last_chance_subtitle": "「生理周期のグラフが大好きです。分かりやすいから」\n莉子、28歳",
+      "last_chance_title": "お見逃しなく！あなたの感情予報をアンロック"
+    },
+    "ko": {
+      "badge_text": "1회 결제",
+      "purchase_button_text": "인사이트 잠금 해제",
+      "restore_text": "구매 복원",
+      "subtitle": "결과를 극대화할 준비가 되셨나요?",
+      "title": "여름 세일",
+      "features_list": [
+        "감정 예측",
+        "실시간 맞춤 알림",
+        "주기 그래프 및 분석",
+        "원클릭으로 PDF 및 Excel로 내보내기"
+      ],
+      "highlight_text": "10,000명 이상의 전문가가 신뢰합니다\n",
+      "price_text": "연간 플랜으로 시작하세요, 월 {{}}",
+      "discount_text": "50% 절약",
+      "last_chance_cancel_text": "아니요, 정말 원하지 않아요",
+      "last_chance_purchase_button_text": "네, 업그레이드하고 50% 할인받기",
+      "last_chance_subtitle": "“주기 그래프가 정말 마음에 들어요. 한눈에 파악할 수 있거든요.”\n지혜, 28세",
+      "last_chance_title": "놓치지 마세요! 감정 예측을 잠금 해제하세요"
+    },
+    "da": {
+      "badge_text": "Engangsbetaling",
+      "purchase_button_text": "Lås op for Indsigt",
+      "restore_text": "Gendan køb",
+      "subtitle": "Klar til at booste dine resultater?",
+      "title": "Sommerudsalg",
+      "features_list": [
+        "Følelsesmæssig prognose",
+        "Brugerdefinerede alarmer i realtid",
+        "Menstruationsgrafer og -analyser",
+        "Et-kliks eksport til PDF og Excel"
+      ],
+      "highlight_text": "Betroet af 10.000+ fagfolk\n",
+      "price_text": "Start med årsplan for kun {{}}/måned",
+      "discount_text": "Spar 50%",
+      "last_chance_cancel_text": "Nej, det ønsker jeg virkelig ikke",
+      "last_chance_purchase_button_text": "Ja, opgrader og spar 50 %",
+      "last_chance_subtitle": "“Jeg elsker menstruationsgrafen, den giver mig klarhed”\nFreja, 28",
+      "last_chance_title": "Gå ikke glip af det! Lås op for din følelsesmæssige prognose"
+    },
+    "es": {
+      "badge_text": "Pago único",
+      "purchase_button_text": "Desbloquear Información",
+      "restore_text": "Restaurar compra",
+      "subtitle": "¿Lista para potenciar tus resultados?",
+      "title": "Rebajas de verano",
+      "features_list": [
+        "Pronóstico emocional",
+        "Alertas personalizadas en tiempo real",
+        "Gráficos y análisis del periodo",
+        "Exportación a PDF y Excel con un clic"
+      ],
+      "highlight_text": "Con la confianza de más de 10.000 profesionales\n",
+      "price_text": "Empieza con el plan anual por solo {{}}/mes",
+      "discount_text": "Ahorra un 50%",
+      "last_chance_cancel_text": "No, realmente no lo quiero",
+      "last_chance_purchase_button_text": "Sí, actualizar y ahorrar un 50 %",
+      "last_chance_subtitle": "«Me encanta el gráfico del periodo, me da claridad»\nSofía, 28",
+      "last_chance_title": "¡No te lo pierdas! Desbloquea tu pronóstico emocional"
+    },
+    "nl": {
+      "badge_text": "Eenmalige betaling",
+      "purchase_button_text": "Inzichten ontgrendelen",
+      "restore_text": "Aankoop herstellen",
+      "subtitle": "Klaar om je resultaten een boost te geven?",
+      "title": "Zomeruitverkoop",
+      "features_list": [
+        "Emotionele voorspelling",
+        "Real-time gepersonaliseerde meldingen",
+        "Cyclusgrafieken en -analyses",
+        "Exporteren naar PDF en Excel met één klik"
+      ],
+      "highlight_text": "Vertrouwd door meer dan 10.000 professionals\n",
+      "price_text": "Start met het jaarabonnement voor slechts {{}}/maand",
+      "discount_text": "Bespaar 50%",
+      "last_chance_cancel_text": "Nee, ik wil dit echt niet",
+      "last_chance_purchase_button_text": "Ja, upgrade & bespaar 50%",
+      "last_chance_subtitle": "“Ik ben dol op de cyclusgrafiek, die geeft me duidelijkheid”\nSophie, 28",
+      "last_chance_title": "Mis het niet! Ontgrendel je emotionele voorspelling"
+    },
+    "fi": {
+      "badge_text": "Kertamaksu",
+      "purchase_button_text": "Avaa oivallukset",
+      "restore_text": "Palauta ostos",
+      "subtitle": "Oletko valmis tehostamaan tuloksiasi?",
+      "title": "Kesäale",
+      "features_list": [
+        "Emotionaalinen ennuste",
+        "Reaaliaikaiset mukautetut hälytykset",
+        "Kuukautiskiertokaaviot ja -analyysit",
+        "Vienti PDF- ja Excel-muotoon yhdellä napsautuksella"
+      ],
+      "highlight_text": "Yli 10 000 ammattilaisen luottama\n",
+      "price_text": "Aloita vuosijäsenyydellä vain {{}}/kk",
+      "discount_text": "Säästä 50 %",
+      "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
+      "last_chance_purchase_button_text": "Kyllä, päivitä ja säästä 50 %",
+      "last_chance_subtitle": "”Rakastan kuukautiskiertokaaviota, se tuo selkeyttä”\nEmilia, 28",
+      "last_chance_title": "Älä jää paitsi! Avaa emotionaalinen ennusteesi"
+    },
+    "ro": {
+      "badge_text": "Plată unică",
+      "purchase_button_text": "Deblochează perspective",
+      "restore_text": "Restaurează achiziția",
+      "subtitle": "Ești gata să-ți sporești rezultatele?",
+      "title": "Reduceri de vară",
+      "features_list": [
+        "Prognoză emoțională",
+        "Alerte personalizate în timp real",
+        "Grafice și analize ale ciclului",
+        "Export cu un singur clic în PDF și Excel"
+      ],
+      "highlight_text": "Aprobat de peste 10.000 de profesioniste\n",
+      "price_text": "Începe cu abonamentul anual pentru doar {{}}/lună",
+      "discount_text": "Economisește 50%",
+      "last_chance_cancel_text": "Nu, chiar nu vreau asta",
+      "last_chance_purchase_button_text": "Da, fac upgrade și economisesc 50%",
+      "last_chance_subtitle": "„Ador graficul ciclului, îmi oferă claritate”\nElena, 28",
+      "last_chance_title": "Nu rata! Deblochează-ți prognoza emoțională"
+    },
+    "uk": {
+      "badge_text": "Одноразовий платіж",
+      "purchase_button_text": "Розблокувати статистику",
+      "restore_text": "Відновити покупку",
+      "subtitle": "Готові покращити свої результати?",
+      "title": "Літній розпродаж",
+      "features_list": [
+        "Емоційний прогноз",
+        "Спеціальні сповіщення в реальному часі",
+        "Графіки та аналітика циклу",
+        "Експорт в PDF та Excel в один клік"
+      ],
+      "highlight_text": "Нам довіряють понад 10 000 професіоналів\n",
+      "price_text": "Почніть із річної підписки лише за {{}} на місяць",
+      "discount_text": "Заощаджуйте 50%",
+      "last_chance_cancel_text": "Ні, я справді цього не хочу",
+      "last_chance_purchase_button_text": "Так, оновити та заощадити 50%",
+      "last_chance_subtitle": "«Обожнюю графік циклу, він дає мені ясність»\nАнна, 28",
+      "last_chance_title": "Не пропустіть! Розблокуйте свій емоційний прогноз"
+    }
+  }
+}
