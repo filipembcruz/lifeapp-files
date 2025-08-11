@@ -60,7 +60,7 @@
     "#386117",
     "#82AC25"
   ],
-  "purchase_button_text": "Continue",
+  "purchase_button_text": "Unlock Insights",
   "purchase_button_text_color": "#ffffff",
   "subscription_option_background_color": "#FFFFFF",
   "subscription_option_background_color_opacity": 0.01,
@@ -83,7 +83,7 @@
   "subtitle_position": "left",
   "subtitle_size": 25,
   "template": 3,
-  "title": "Ritual of Cares",
+  "title": "Ritual of Care",
   "title_color": [
     "#9D623A"
   ],
@@ -98,12 +98,12 @@
       "discount_text": "{{}}% RABATT",
       "discount_text_description": "um Life in Sekunden freizuschalten\n",
       "last_chance_cancel_text": "Nein, ich will das wirklich nicht",
-      "last_chance_purchase_button_text": "Ja, Upgrade & spare",
+      "last_chance_purchase_button_text": "Ja, Upgrade & sparen",
       "last_chance_subtitle": "„Liebe den Zyklus-Graphen, er gibt mir Klarheit“\nAnna, 32",
       "last_chance_title": "Nicht verpassen! Entdecke deine emotionale Prognose",
-      "purchase_button_text": "Weiter",
+      "purchase_button_text": "Insights freischalten",
       "subtitle": "Limitierte Edition",
-      "title": "Ritual der Fürsorge"
+      "title": "Pflege-Ritual"
     },
     "fr": {
       "badge_text": "Offre limitée",
@@ -113,8 +113,8 @@
       "last_chance_cancel_text": "Non, je ne veux vraiment pas",
       "last_chance_purchase_button_text": "Oui, Upgrade & économiser",
       "last_chance_subtitle": "« J'adore le graphique, il m'apporte de la clarté »\nCamille, 32",
-      "last_chance_title": "Ne manquez pas ! Découvrez votre humeur à venir",
-      "purchase_button_text": "Continuer",
+      "last_chance_title": "Ne manquez pas ! Découvrez votre prévision émotionnelle",
+      "purchase_button_text": "Débloquer Insights",
       "subtitle": "Édition limitée",
       "title": "Rituel de soins"
     },
@@ -127,7 +127,7 @@
       "last_chance_purchase_button_text": "Sì, Upgrade & risparmio",
       "last_chance_subtitle": "«Adoro il grafico, mi dà chiarezza»\nGiulia, 32",
       "last_chance_title": "Non perdere! Scopri la tua previsione emotiva",
-      "purchase_button_text": "Continua",
+      "purchase_button_text": "Sblocca Insights",
       "subtitle": "Edizione limitata",
       "title": "Rituale di cura"
     },
@@ -140,7 +140,7 @@
       "last_chance_purchase_button_text": "Ja, Oppgrader & spar",
       "last_chance_subtitle": "«Elsker grafen – gir oversikt»\nNora, 32",
       "last_chance_title": "Ikke gå glipp av! Se din følelsesprognose",
-      "purchase_button_text": "Fortsett",
+      "purchase_button_text": "Lås opp Insights",
       "subtitle": "Begrenset utgave",
       "title": "Omsorgsritual"
     },
@@ -153,7 +153,7 @@
       "last_chance_purchase_button_text": "Sim, Upgrade & economizar",
       "last_chance_subtitle": "“Amo o gráfico do ciclo, me dá clareza”\nLuana, 32",
       "last_chance_title": "Não perca! Veja sua previsão emocional",
-      "purchase_button_text": "Continuar",
+      "purchase_button_text": "Desbloquear Insights",
       "subtitle": "Edição limitada",
       "title": "Ritual de Cuidados"
     },
@@ -166,7 +166,7 @@
       "last_chance_purchase_button_text": "Sim, Upgrade & poupar",
       "last_chance_subtitle": "“Adoro o gráfico do ciclo, dá-me clareza”\nInês, 32",
       "last_chance_title": "Não perca! Veja a sua previsão emocional",
-      "purchase_button_text": "Continuar",
+      "purchase_button_text": "Desbloquear Insights",
       "subtitle": "Edição limitada",
       "title": "Ritual de Cuidados"
     },
@@ -179,7 +179,7 @@
       "last_chance_purchase_button_text": "Да, Upgrade и сэкономить",
       "last_chance_subtitle": "«Люблю график цикла, всё понятно»\nАнна, 32",
       "last_chance_title": "Не упусти! Открой свой эмоциональный прогноз",
-      "purchase_button_text": "Продолжить",
+      "purchase_button_text": "Открыть Insights",
       "subtitle": "Ограниченная серия",
       "title": "Ритуал заботы"
     },
@@ -192,7 +192,7 @@
       "last_chance_purchase_button_text": "Ja, Uppgradera & spara",
       "last_chance_subtitle": "”Älskar grafen – ger klarhet”\nElsa, 32",
       "last_chance_title": "Missa inte! Lås upp känslo-prognosen",
-      "purchase_button_text": "Fortsätt",
+      "purchase_button_text": "Lås upp Insights",
       "subtitle": "Begränsad upplaga",
       "title": "Vårdrutin"
     },
@@ -205,7 +205,7 @@
       "last_chance_purchase_button_text": "是的，升级并省钱",
       "last_chance_subtitle": "“喜欢周期图，清晰明了”\n小婷, 32",
       "last_chance_title": "别错过！解锁情绪预测",
-      "purchase_button_text": "继续",
+      "purchase_button_text": "解锁 Insights",
       "subtitle": "限量版",
       "title": "关怀仪式"
     },
@@ -218,7 +218,7 @@
       "last_chance_purchase_button_text": "是的，升級並省錢",
       "last_chance_subtitle": "「喜歡週期圖，清楚明瞭」\n小婷, 32",
       "last_chance_title": "別錯過！解鎖情緒預測",
-      "purchase_button_text": "繼續",
+      "purchase_button_text": "解鎖 Insights",
       "subtitle": "限量版",
       "title": "關懷儀式"
     },
@@ -231,7 +231,7 @@
       "last_chance_purchase_button_text": "はい、アップグレードで節約",
       "last_chance_subtitle": "「周期グラフが大好き、分かりやすい」\nさくら, 32",
       "last_chance_title": "お見逃しなく！感情予測を解放",
-      "purchase_button_text": "続ける",
+      "purchase_button_text": "Insightsを解除",
       "subtitle": "限定版",
       "title": "ケアの儀式"
     },
@@ -244,9 +244,35 @@
       "last_chance_purchase_button_text": "예, 업그레이드 & 절약",
       "last_chance_subtitle": "“생리 그래프가 명확해 좋아요”\n지은, 32",
       "last_chance_title": "놓치지 마세요! 감정 예보 해제",
-      "purchase_button_text": "계속",
+      "purchase_button_text": "인사이트 해제",
       "subtitle": "한정판",
       "title": "케어 의식"
+    },
+    "da": {
+      "badge_text": "Begrænset tilbud",
+      "discount_button_text": "{{}}/år for livet",
+      "discount_text": "{{}}% RABAT",
+      "discount_text_description": "for at låse Life op på sekunder\n",
+      "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have det",
+      "last_chance_purchase_button_text": "Ja, Opgrader & spar",
+      "last_chance_subtitle": "“Elsker cyklusgrafen, giver klarhed”\nEmma, 32",
+      "last_chance_title": "Gå ikke glip af! Lås op for din følelsesprognose",
+      "purchase_button_text": "Lås op Insights",
+      "subtitle": "Begrænset udgave",
+      "title": "Plejeritual"
+    },
+    "es": {
+      "badge_text": "Oferta por tiempo limitado",
+      "discount_button_text": "{{}}/año de por vida",
+      "discount_text": "{{}}% DESCUENTO",
+      "discount_text_description": "para desbloquear Life en segundos\n",
+      "last_chance_cancel_text": "No, realmente no quiero esto",
+      "last_chance_purchase_button_text": "Sí, Upgrade y ahorrar",
+      "last_chance_subtitle": "“Me encanta el gráfico, me da claridad”\nLaura, 32",
+      "last_chance_title": "¡No te lo pierdas! Desbloquea tu previsión emocional",
+      "purchase_button_text": "Desbloquear Insights",
+      "subtitle": "Edición limitada",
+      "title": "Ritual de cuidado"
     },
     "nl": {
       "badge_text": "Aanbieding voor beperkte tijd",
@@ -257,7 +283,7 @@
       "last_chance_purchase_button_text": "Ja, Upgrade & bespaar",
       "last_chance_subtitle": "“Hou van de cyclusgrafiek, geeft duidelijkheid”\nSophie, 32",
       "last_chance_title": "Mis het niet! Ontgrendel je emotievoorspelling",
-      "purchase_button_text": "Doorgaan",
+      "purchase_button_text": "Insights ontgrendelen",
       "subtitle": "Gelimiteerde editie",
       "title": "Zorg Ritueel"
     },
@@ -270,7 +296,7 @@
       "last_chance_purchase_button_text": "Kyllä, Päivitä & säästä",
       "last_chance_subtitle": "“Rakastan sykli-kaaviota, selkeyttää”\nEmma, 32",
       "last_chance_title": "Älä missaa! Avaa tunteiden ennuste",
-      "purchase_button_text": "Jatka",
+      "purchase_button_text": "Avaa Insights",
       "subtitle": "Rajoitettu erä",
       "title": "Hoitorituaali"
     },
@@ -283,7 +309,7 @@
       "last_chance_purchase_button_text": "Da, Upgrade & economisește",
       "last_chance_subtitle": "„Îmi place graficul ciclului, clarifică”\nAndreea, 32",
       "last_chance_title": "Nu rata! Deblochează prognoza emoțională",
-      "purchase_button_text": "Continuă",
+      "purchase_button_text": "Deblochează Insights",
       "subtitle": "Ediție limitată",
       "title": "Ritual de îngrijire"
     },
@@ -296,22 +322,9 @@
       "last_chance_purchase_button_text": "Так, Upgrade та заощадити",
       "last_chance_subtitle": "«Люблю графік циклу, все зрозуміло»\nОлена, 32",
       "last_chance_title": "Не пропусти! Відкрий свій емоційний прогноз",
-      "purchase_button_text": "Продовжити",
+      "purchase_button_text": "Відкрити Insights",
       "subtitle": "Обмежений випуск",
       "title": "Ритуал догляду"
-    },
-    "da": {
-      "badge_text": "Begrænset tilbud",
-      "discount_button_text": "{{}}/år for livet",
-      "discount_text": "{{}}% RABAT",
-      "discount_text_description": "for at låse Life op på sekunder\n",
-      "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have det",
-      "last_chance_purchase_button_text": "Ja, Opgrader & spar",
-      "last_chance_subtitle": "“Elsker cyklusgrafen, giver klarhed”\nEmma, 32",
-      "last_chance_title": "Gå ikke glip af! Lås op for din følelsesprognose",
-      "purchase_button_text": "Fortsæt",
-      "subtitle": "Begrænset udgave",
-      "title": "Plejeritual"
     }
   }
 }
