@@ -1,13 +1,13 @@
 {
   "title": "86% off to unlock all the features",
   "subtitle": "86% off to unlock all the features",
-  "title_text_color": "#24191A",
-  "subtitle_text_color": "#24191A",
+  "title_text_color": "#FFFFFF",
+  "subtitle_text_color": "#FFFFFF",
   "countdown": true,
-  "deadline": "2025-08-01",
+  "deadline": "2025-08-19",
   "background": {
-    "start_color": "#FED233",
-    "end_color": "#FED233",
+    "start_color": "#47770B",
+    "end_color": "#ADD567",
     "direction": "left-to-right"
   },
   "title_font_size": "18",
