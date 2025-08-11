@@ -92,8 +92,8 @@
   "title_size": 42,
   "pricing_area_margin_bottom": 0,
   "price_list": [
-    "life.yearly_free_3_2999",
-    "life.yearly_free_3_2499"
+    "life.yearly_2999",
+    "life.monthly_free_3_1499"
   ],
   "translations": {
     "de": {
