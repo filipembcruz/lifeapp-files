@@ -7,80 +7,18 @@
         "priceID": 12
     },
     {
-        "name": "Current price 10 (Default)",
+        "name": "Subscription Paywall",
         "origin:": "qonversion",
         "type": "subscription",
-        "variable": "subscription_template",
-        "priceID": 10,
-        "experiment": [
-            {
-                "name": "Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price10-A.json",
-                "priceID": 10
-            },
-            {
-                "name": "No Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price10-B.json",
-                "priceID": 10
-            },
-            {
-                "name": "Template 5",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price10-C.json",
-                "priceID": 10
-            }
-        ]
+        "variable": "paywall_default",
+        "priceID": 12
     },
     {
-        "name": "Current price 8",
+        "name": "Subscription Paywall with Discount",
         "origin:": "qonversion",
         "type": "subscription",
-        "variable": "subscription_template_8",
-        "priceID": 8,
-        "experiment": [
-            {
-                "name": "Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-A.json",
-                "priceID": 8
-            },
-            {
-                "name": "No Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price8-B.json",
-                "priceID": 8
-            }
-        ]
-    },
-    {
-        "name": "Current price 7",
-        "origin:": "qonversion",
-        "type": "subscription",
-        "variable": "subscription_template_7",
-        "priceID": 7,
-        "experiment": [
-            {
-                "name": "Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-A.json",
-                "priceID": 7
-            },
-            {
-                "name": "No Free Trial",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price7-B.json",
-                "priceID": 7
-            }
-        ]
+        "variable": "paywall_promo",
+        "priceID": 8
     },
     {
         "name": "[AUG1] Campaign",
