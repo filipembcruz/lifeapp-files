@@ -14,7 +14,7 @@
                 "priceID": 0
             },
             {
-                "name": "Price 12 - Weekly vs Monthly",
+                "name": "Price 12 - Without Weekly",
                 "origin:": "git",
                 "type": "subscription",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price12-B.json",
