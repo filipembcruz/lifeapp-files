@@ -1,10 +1,26 @@
 [
     {
-        "name": "Current price 12",
+        "name": "Price 12",
         "origin:": "qonversion",
         "type": "subscription",
         "variable": "subscription_template_12",
-        "priceID": 12
+        "priceID": 0,
+        "experiment": [
+            {
+                "name": "Price 12 - Default",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price12-A.json",
+                "priceID": 0
+            },
+            {
+                "name": "Price 12 - Weekly vs Monthly",
+                "origin:": "git",
+                "type": "subscription",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price12-B.json",
+                "priceID": 0
+            }
+        ]
     },
     {
         "name": "Subscription Paywall",

@@ -1,0 +1,229 @@
+{
+    "background_color": [
+        "#F9DAE9",
+        "#EEC3D4"
+    ],
+    "background_height": 0.3,
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/template-12-flower-background.png",
+    "badge_background_color": [
+        "#D1416B"
+    ],
+    "badge_border_color": "#D1416B",
+    "badge_position": "center",
+    "badge_text": "Most popular",
+    "badge_text_color": "#FFFFFF",
+    "cancel_text": "Cancel anytime",
+    "cancel_text_color": "#5CE06C",
+    "cancel_text_size": 20,
+    "close_btn_color": "#000000",
+    "close_btn_position": "left",
+    "close_btn_size": 32,
+    "divider_height": 20,
+    "divider_shape": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"396\" height=\"20\" fill=\"none\"><path fill=\"url(#a)\" d=\"M0 0h396v20H0z\"/><path fill=\"#fff\" d=\"M0 20C0 8.954 8.954 0 20 0h356c11.046 0 20 8.954 20 20H0Z\"/><defs><linearGradient id=\"a\" x1=\"0\" x2=\"396\" y1=\"10\" y2=\"10\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F6D5E0\"/><stop offset=\"1\" stop-color=\"#E4AFC3\"/></linearGradient></defs></svg>",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#000000",
+    "link_text_size": 13,
+    "purchase_area_margin_top": 90,
+    "purchase_button_color": [
+        "#D1416B"
+    ],
+    "purchase_button_text": "Try free for 3 days",
+    "purchase_button_text_color": "#ffffff",
+    "restore_text": "Restore purchase",
+    "restore_text_color": "#B02653",
+    "restore_text_size": 16,
+    "subscription_option_background_color": [
+        "#EFEFEF"
+    ],
+    "subscription_option_background_color_opacity": 0.59,
+    "subscription_option_border_color": [
+        "#EFEFEF"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#FFEAEE"
+    ],
+    "subscription_selected_option_border_color": [
+        "#D1416B"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "subtitle": "A little thank-you for joining us",
+    "subtitle_color": [
+        "#443424"
+    ],
+    "subtitle_position": "left",
+    "subtitle_size": 20,
+    "template": 3,
+    "title": "Welcome offer",
+    "title_color": [
+        "#B02653"
+    ],
+    "title_margin_top": 40,
+    "title_position": "left",
+    "title_size": 32,
+    "price_list": [
+        "life.weekly_free_3_249",
+        "life.monthly_free_3_899",
+        "life.weekly_249",
+        "life.monthly_899"
+    ],
+    "translations": {
+        "ar": {
+            "badge_text": "الأكثر شيوعًا",
+            "cancel_text": "إلغاء في أي وقت",
+            "purchase_button_text": "تجربة مجانية لمدة ٣ أيام",
+            "restore_text": "استعادة المشتريات",
+            "subtitle": "شكراً صغيراً لانضمامك إلينا",
+            "title": "عرض ترحيبي"
+        },
+        "da": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Annuller når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dage",
+            "restore_text": "Gendan køb",
+            "subtitle": "En lille tak, fordi du er med",
+            "title": "Velkomsttilbud"
+        },
+        "de": {
+            "badge_text": "Am beliebtesten",
+            "cancel_text": "Jederzeit kündbar",
+            "purchase_button_text": "3 Tage kostenlos testen",
+            "restore_text": "Kauf wiederherstellen",
+            "subtitle": "Ein kleines Dankeschön, dass du dabei bist",
+            "title": "Willkommensangebot"
+        },
+        "es": {
+            "badge_text": "Más popular",
+            "cancel_text": "Cancela cuando quieras",
+            "purchase_button_text": "Pruébalo gratis 3 días",
+            "restore_text": "Restaurar compra",
+            "subtitle": "Un pequeño agradecimiento por unirte a nosotras",
+            "title": "Oferta de bienvenida"
+        },
+        "fi": {
+            "badge_text": "Suosituin",
+            "cancel_text": "Peruuta milloin tahansa",
+            "purchase_button_text": "Kokeile ilmaiseksi 3 päivää",
+            "restore_text": "Palauta ostos",
+            "subtitle": "Pieni kiitos, että liityit joukkoomme",
+            "title": "Tervetuliaistarjous"
+        },
+        "fr": {
+            "badge_text": "Le plus populaire",
+            "cancel_text": "Annuler à tout moment",
+            "purchase_button_text": "Essai gratuit de 3 jours",
+            "restore_text": "Restaurer l'achat",
+            "subtitle": "Un petit merci de nous avoir rejoint",
+            "title": "Offre de bienvenue"
+        },
+        "it": {
+            "badge_text": "Più popolare",
+            "cancel_text": "Annulla in qualsiasi momento",
+            "purchase_button_text": "Prova gratis per 3 giorni",
+            "restore_text": "Ripristina acquisto",
+            "subtitle": "Un piccolo ringraziamento per esserti unita a noi",
+            "title": "Offerta di benvenuto"
+        },
+        "ja": {
+            "badge_text": "最も人気",
+            "cancel_text": "いつでもキャンセル可能",
+            "purchase_button_text": "3日間無料でお試し",
+            "restore_text": "購入を復元",
+            "subtitle": "ご参加いただいた感謝を込めて",
+            "title": "ウェルカム特典"
+        },
+        "ko": {
+            "badge_text": "가장 인기",
+            "cancel_text": "언제든지 취소",
+            "purchase_button_text": "3일 무료 체험하기",
+            "restore_text": "구매 복원",
+            "subtitle": "저희와 함께해주셔서 감사합니다",
+            "title": "환영 혜택"
+        },
+        "nb": {
+            "badge_text": "Mest populær",
+            "cancel_text": "Avbryt når som helst",
+            "purchase_button_text": "Prøv gratis i 3 dager",
+            "restore_text": "Gjenopprett kjøp",
+            "subtitle": "En liten takk for at du ble med oss",
+            "title": "Velkomsttilbud"
+        },
+        "nl": {
+            "badge_text": "Meest populair",
+            "cancel_text": "Annuleer op elk moment",
+            "purchase_button_text": "Probeer 3 dagen gratis",
+            "restore_text": "Herstel aankoop",
+            "subtitle": "Een klein bedankje voor je aanmelding",
+            "title": "Welkomstaanbieding"
+        },
+        "pt_BR": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Teste grátis por 3 dias",
+            "restore_text": "Restaurar compra",
+            "subtitle": "Um pequeno agradecimento por se juntar a nós",
+            "title": "Oferta de boas-vindas"
+        },
+        "pt_PT": {
+            "badge_text": "Mais popular",
+            "cancel_text": "Cancele a qualquer momento",
+            "purchase_button_text": "Teste grátis por 3 dias",
+            "restore_text": "Restaurar compra",
+            "subtitle": "Um pequeno agradecimento por se juntar a nós",
+            "title": "Oferta de boas-vindas"
+        },
+        "ro": {
+            "badge_text": "Cel mai popular",
+            "cancel_text": "Anulează oricând",
+            "purchase_button_text": "Încearcă gratuit timp de 3 zile",
+            "restore_text": "Restaurare achiziție",
+            "subtitle": "Un mic mulțumesc pentru că te-ai alăturat nouă",
+            "title": "Ofertă de bun venit"
+        },
+        "ru": {
+            "badge_text": "Самый популярный",
+            "cancel_text": "Отменить в любое время",
+            "purchase_button_text": "Попробовать бесплатно 3 дня",
+            "restore_text": "Восстановить покупку",
+            "subtitle": "Небольшая благодарность за то, что вы с нами",
+            "title": "Приветственное предложение"
+        },
+        "sv": {
+            "badge_text": "Mest populär",
+            "cancel_text": "Avbryt när som helst",
+            "purchase_button_text": "Prova gratis i 3 dagar",
+            "restore_text": "Återställ köp",
+            "subtitle": "Ett litet tack för att du ansluter dig till oss",
+            "title": "Välkomsterbjudande"
+        },
+        "uk": {
+            "badge_text": "Найпопулярніший",
+            "cancel_text": "Скасувати в будь-який час",
+            "purchase_button_text": "Спробуй безкоштовно 3 дні",
+            "restore_text": "Відновити покупку",
+            "subtitle": "Невелика подяка за те, що ти з нами",
+            "title": "Привітальна пропозиція"
+        },
+        "zh_Hans": {
+            "badge_text": "最受欢迎",
+            "cancel_text": "随时取消",
+            "purchase_button_text": "免费试用3天",
+            "restore_text": "恢复购买",
+            "subtitle": "感谢您的加入",
+            "title": "欢迎优惠"
+        },
+        "zh_Hant": {
+            "badge_text": "最受歡迎",
+            "cancel_text": "隨時取消",
+            "purchase_button_text": "免費試用3天",
+            "restore_text": "恢復購買",
+            "subtitle": "感謝您的加入",
+            "title": "歡迎優惠"
+        }
+    }
+}
