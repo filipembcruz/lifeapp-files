@@ -68,9 +68,7 @@
     "title_size": 32,
     "price_list": [
         "life.weekly_free_3_249",
-        "life.monthly_free_3_899",
-        "life.weekly_249",
-        "life.monthly_899"
+        "life.monthly_free_3_899"
     ],
     "translations": {
         "ar": {
