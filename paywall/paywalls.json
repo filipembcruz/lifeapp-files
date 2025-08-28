@@ -37,21 +37,21 @@
         "priceID": 8
     },
     {
-        "name": "[AUG1] Campaign",
+        "name": "[AUG II] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Price 2",
+                "name": "Default",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "Price 7",
+                "name": "One-time",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
