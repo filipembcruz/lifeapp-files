@@ -97,7 +97,6 @@
   "translations": {
     "ar": {
       "badge_text": "عرض محدود",
-      "discount_button_text": "{{}} / سنة",
       "discount_text": "خصم {{}}٪",
       "discount_text_description": "لفتح Life في ثوانٍ\n",
       "last_chance_cancel_text": "لا، لا أريد هذا حقًا",
@@ -110,7 +109,6 @@
     },
     "de": {
       "badge_text": "Begrenztes Angebot",
-      "discount_button_text": "{{}} / Jahr Einmalzahlung",
       "discount_text": "{{}}% Rabatt",
       "discount_text_description": "um Life in Sekunden freizuschalten\n",
       "last_chance_cancel_text": "Nein, das möchte ich wirklich nicht",
@@ -123,7 +121,6 @@
     },
     "fr": {
       "badge_text": "Offre limitée",
-      "discount_button_text": "{{}} / an Paiement unique",
       "discount_text": "{{}} % DE RÉDUCTION",
       "discount_text_description": "pour débloquer Life en quelques secondes\n",
       "last_chance_cancel_text": "Non, je ne le veux vraiment pas",
@@ -136,7 +133,6 @@
     },
     "it": {
       "badge_text": "Offerta limitata",
-      "discount_button_text": "{{}} / anno Pagamento unico",
       "discount_text": "Sconto del {{}}%",
       "discount_text_description": "per sbloccare Life in pochi secondi\n",
       "last_chance_cancel_text": "No, non lo voglio davvero",
@@ -149,7 +145,6 @@
     },
     "nb": {
       "badge_text": "Begrenset tilbud",
-      "discount_button_text": "{{}} / år Engangsbetaling",
       "discount_text": "{{}} % RABATT",
       "discount_text_description": "for å låse opp Life på sekunder\n",
       "last_chance_cancel_text": "Nei, jeg vil virkelig ikke ha dette",
@@ -162,7 +157,6 @@
     },
     "pt_BR": {
       "badge_text": "Oferta limitada",
-      "discount_button_text": "{{}} / ano Pagamento único",
       "discount_text": "{{}}% DE DESCONTO",
       "discount_text_description": "para desbloquear o Life em segundos\n",
       "last_chance_cancel_text": "Não, eu realmente não quero isso",
@@ -175,7 +169,6 @@
     },
     "pt_PT": {
       "badge_text": "Oferta limitada",
-      "discount_button_text": "{{}} / ano Pagamento único",
       "discount_text": "{{}}% DE DESCONTO",
       "discount_text_description": "para desbloquear o Life em segundos\n",
       "last_chance_cancel_text": "Não, eu realmente não quero isto",
@@ -188,7 +181,6 @@
     },
     "ru": {
       "badge_text": "Ограниченное предложение",
-      "discount_button_text": "{{}} / год Единовременный платеж",
       "discount_text": "СКИДКА {{}}%",
       "discount_text_description": "чтобы разблокировать Life за считанные секунды\n",
       "last_chance_cancel_text": "Нет, я действительно этого не хочу",
@@ -201,7 +193,6 @@
     },
     "sv": {
       "badge_text": "Begränsat erbjudande",
-      "discount_button_text": "{{}} / år Engångsbetalning",
       "discount_text": "{{}} % RABATT",
       "discount_text_description": "för att låsa upp Life på några sekunder\n",
       "last_chance_cancel_text": "Nej, jag vill verkligen inte ha detta",
@@ -214,7 +205,6 @@
     },
     "zh_Hans": {
       "badge_text": "限时优惠",
-      "discount_button_text": "{{}} / 年 一次性付款",
       "discount_text": "立省{{}}%",
       "discount_text_description": "即刻解锁 Life\n",
       "last_chance_cancel_text": "不，我真的不想要",
@@ -227,7 +217,6 @@
     },
     "zh_Hant": {
       "badge_text": "限時優惠",
-      "discount_button_text": "{{}} / 年 一次性付款",
       "discount_text": "立省{{}}%",
       "discount_text_description": "即刻解鎖 Life\n",
       "last_chance_cancel_text": "不，我真的不想要",
@@ -240,7 +229,6 @@
     },
     "ja": {
       "badge_text": "期間限定",
-      "discount_button_text": "{{}} / 年 一括払い",
       "discount_text": "{{}}%オフ",
       "discount_text_description": "でLifeをすぐにアンロック\n",
       "last_chance_cancel_text": "いいえ、本当に必要ありません",
@@ -253,7 +241,6 @@
     },
     "ko": {
       "badge_text": "기간 한정 혜택",
-      "discount_button_text": "{{}} / 년 일시불",
       "discount_text": "{{}}% 할인",
       "discount_text_description": "로 Life를 바로 잠금 해제하세요\n",
       "last_chance_cancel_text": "아니요, 정말 원하지 않습니다",
@@ -266,7 +253,6 @@
     },
     "da": {
       "badge_text": "Begrænset tilbud",
-      "discount_button_text": "{{}} / år Engangsbetaling",
       "discount_text": "{{}}% RABAT",
       "discount_text_description": "for at låse Life op på få sekunder\n",
       "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have dette",
@@ -279,7 +265,6 @@
     },
     "es": {
       "badge_text": "Oferta limitada",
-      "discount_button_text": "{{}} / año Pago único",
       "discount_text": "{{}}% DE DESCUENTO",
       "discount_text_description": "para desbloquear Life en segundos\n",
       "last_chance_cancel_text": "No, en realidad no quiero esto",
@@ -292,7 +277,6 @@
     },
     "nl": {
       "badge_text": "Beperkte aanbieding",
-      "discount_button_text": "{{}} / jaar Eenmalige betaling",
       "discount_text": "{{}}% KORTING",
       "discount_text_description": "om Life in enkele seconden te ontgrendelen\n",
       "last_chance_cancel_text": "Nee, ik wil dit echt niet",
@@ -305,7 +289,6 @@
     },
     "fi": {
       "badge_text": "Rajoitettu tarjous",
-      "discount_button_text": "{{}} / vuosi Kertamaksu",
       "discount_text": "{{}}% ALENNUS",
       "discount_text_description": "avataksesi Life-sovelluksen sekunneissa\n",
       "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
@@ -318,7 +301,6 @@
     },
     "ro": {
       "badge_text": "Ofertă limitată",
-      "discount_button_text": "{{}} / an Plată unică",
       "discount_text": "REDUCERE {{}}%",
       "discount_text_description": "pentru a debloca Life în câteva secunde\n",
       "last_chance_cancel_text": "Nu, chiar nu vreau asta",
@@ -331,7 +313,6 @@
     },
     "uk": {
       "badge_text": "Обмежена пропозиція",
-      "discount_button_text": "{{}} / рік Одноразовий платіж",
       "discount_text": "ЗНИЖКА {{}}%",
       "discount_text_description": "щоб розблокувати Life за лічені секунди\n",
       "last_chance_cancel_text": "Ні, я справді цього не хочу",
