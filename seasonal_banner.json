@@ -1,13 +1,13 @@
 {
-  "title": "86% off to unlock all the features",
-  "subtitle": "86% off to unlock all the features",
-  "title_text_color": "#FFFFFF",
-  "subtitle_text_color": "#FFFFFF",
+  "title": "Everything Unlocked – For Less",
+  "subtitle": "Everything Unlocked – For Less",
+  "title_text_color": "#B02653",
+  "subtitle_text_color": "#24191A",
   "countdown": true,
-  "deadline": "2025-08-19",
+  "deadline": "2025-09-03",
   "background": {
-    "start_color": "#47770B",
-    "end_color": "#ADD567",
+    "start_color": "#FFD9DF",
+    "end_color": "#FFD9DF",
     "direction": "left-to-right"
   },
   "title_font_size": "18",
@@ -19,77 +19,81 @@
     "right_padding": "16"
   },
   "translations": {
+    "ar": {
+      "title": "كل شيء متاح – بسعر أقل",
+      "subtitle": "كل شيء متاح – بسعر أقل"
+    },
     "de": {
-      "title": "86 % Rabatt auf alle Funktionen",
-      "subtitle": "86 % Rabatt auf alle Funktionen"
+      "title": "Alles freigeschaltet – für weniger",
+      "subtitle": "Alles freigeschaltet – für weniger"
     },
     "fr": {
-      "title": "-86 % pour débloquer toutes les fonctions",
-      "subtitle": "-86 % pour débloquer toutes les fonctions"
+      "title": "Tout débloqué – à moindre coût",
+      "subtitle": "Tout débloqué – à moindre coût"
     },
     "it": {
-      "title": "86% di sconto su tutte le funzioni",
-      "subtitle": "86% di sconto su tutte le funzioni"
-    },
-    "pt_BR": {
-      "title": "86% off para desbloquear tudo",
-      "subtitle": "86% off para desbloquear tudo"
-    },
-    "pt_PT": {
-      "title": "86% desconto para desbloquear tudo",
-      "subtitle": "86% desconto para desbloquear tudo"
-    },
-    "es": {
-      "title": "86% de descuento para desbloquear todo",
-      "subtitle": "86% de descuento para desbloquear todo"
-    },
-    "ru": {
-      "title": "Скидка 86% на все функции",
-      "subtitle": "Скидка 86% на все функции"
-    },
-    "zh_Hans": {
-      "title": "解锁所有功能立减86%",
-      "subtitle": "解锁所有功能立减86%"
-    },
-    "zh_Hant": {
-      "title": "解鎖所有功能享86%優惠",
-      "subtitle": "解鎖所有功能享86%優惠"
-    },
-    "ja": {
-      "title": "すべての機能が86%オフ",
-      "subtitle": "すべての機能が86%オフ"
-    },
-    "ko": {
-      "title": "모든 기능 86% 할인으로 잠금 해제",
-      "subtitle": "모든 기능 86% 할인으로 잠금 해제"
-    },
-    "nl": {
-      "title": "86% korting op alle functies",
-      "subtitle": "86% korting op alle functies"
-    },
-    "fi": {
-      "title": "86 % alennus kaikista toiminnoista",
-      "subtitle": "86 % alennus kaikista toiminnoista"
-    },
-    "sv": {
-      "title": "86 % rabatt på alla funktioner",
-      "subtitle": "86 % rabatt på alla funktioner"
-    },
-    "ro": {
-      "title": "86% reducere pentru a debloca tot",
-      "subtitle": "86% reducere pentru a debloca tot"
-    },
-    "uk": {
-      "title": "Знижка 86% для розблокування всіх функцій",
-      "subtitle": "Знижка 86% для розблокування всіх функцій"
-    },
-    "da": {
-      "title": "86% rabat for at låse alt op",
-      "subtitle": "86% rabat for at låse alt op"
+      "title": "Tutto sbloccato – a meno",
+      "subtitle": "Tutto sbloccato – a meno"
     },
     "nb": {
-      "title": "86 % rabatt for å låse opp alt",
-      "subtitle": "86 % rabatt for å låse opp alt"
+      "title": "Alt ulåst – til en lavere pris",
+      "subtitle": "Alt ulåst – til en lavere pris"
+    },
+    "pt_BR": {
+      "title": "Tudo Liberado – por Menos",
+      "subtitle": "Tudo Liberado – por Menos"
+    },
+    "pt_PT": {
+      "title": "Tudo Desbloqueado – por Menos",
+      "subtitle": "Tudo Desbloqueado – por Menos"
+    },
+    "ru": {
+      "title": "Все разблокировано – дешевле",
+      "subtitle": "Все разблокировано – дешевле"
+    },
+    "sv": {
+      "title": "Allt upplåst – för mindre",
+      "subtitle": "Allt upplåst – för mindre"
+    },
+    "zh_Hans": {
+      "title": "解锁所有功能——更低价格",
+      "subtitle": "解锁所有功能——更低价格"
+    },
+    "zh_Hant": {
+      "title": "解鎖所有功能——更低價格",
+      "subtitle": "解鎖所有功能——更低價格"
+    },
+    "ja": {
+      "title": "すべてがアンロック – お得に",
+      "subtitle": "すべてがアンロック – お得に"
+    },
+    "ko": {
+      "title": "모든 기능 잠금 해제 – 더 저렴하게",
+      "subtitle": "모든 기능 잠금 해제 – 더 저렴하게"
+    },
+    "da": {
+      "title": "Alt låst op – til mindre pris",
+      "subtitle": "Alt låst op – til mindre pris"
+    },
+    "es": {
+      "title": "Todo Desbloqueado – Por Menos",
+      "subtitle": "Todo Desbloqueado – Por Menos"
+    },
+    "nl": {
+      "title": "Alles Ontgrendeld – Voor Minder",
+      "subtitle": "Alles Ontgrendeld – Voor Minder"
+    },
+    "fi": {
+      "title": "Kaikki avattu – edullisemmin",
+      "subtitle": "Kaikki avattu – edullisemmin"
+    },
+    "ro": {
+      "title": "Totul deblocat – pentru mai puțin",
+      "subtitle": "Totul deblocat – pentru mai puțin"
+    },
+    "uk": {
+      "title": "Все розблоковано – за меншу ціну",
+      "subtitle": "Все розблоковано – за меншу ціну"
     }
   }
 }
