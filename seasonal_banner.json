@@ -1,13 +1,14 @@
 {
   "title": "Everything Unlocked – For Less",
   "subtitle": "Everything Unlocked – For Less",
-  "title_text_color": "#B02653",
+  "title_text_color": "#24191A",
   "subtitle_text_color": "#24191A",
   "countdown": true,
-  "deadline": "2025-09-03",
+  "right_padding": "38",
+  "deadline": "2025-09-23",
   "background": {
-    "start_color": "#FFD9DF",
-    "end_color": "#FFD9DF",
+    "start_color": "#FFD19D",
+    "end_color": "#FFF2F6",
     "direction": "left-to-right"
   },
   "title_font_size": "18",
