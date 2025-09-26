@@ -11,13 +11,13 @@
     "end_color": "#F1680A",
     "direction": "left-to-right"
   },
-  "title_font_size": "18",
+  "title_font_size": "16",
   "subtitle_font_size": "14",
   "animation": {
     "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
-    "width": "80",
-    "height": "80",
-    "right_padding": "50"
+    "width": "55",
+    "height": "45",
+    "right_padding": "16"
   },
   "translations": {
     "ar": {
