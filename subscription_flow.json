@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "frequence_by_day": 3,
+    "frequence_by_day": 1,
     "seasonal_banner": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner.json",
     "seasonal_template_interval_in_days": 24,
     "seconds_to_show": 5,
