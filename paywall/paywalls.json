@@ -37,7 +37,7 @@
         "priceID": 8
     },
     {
-        "name": "[SEP I] Campaign",
+        "name": "[SEP II] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "seasonal_template",
