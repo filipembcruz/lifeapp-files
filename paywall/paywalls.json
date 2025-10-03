@@ -3,24 +3,8 @@
         "name": "Price 12",
         "origin:": "qonversion",
         "type": "subscription",
-        "variable": "subscription_template_12",
-        "priceID": 12,
-        "experiment": [
-            {
-                "name": "Price 12 - Default",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price12-A.json",
-                "priceID": 0
-            },
-            {
-                "name": "Price 12 - Without Weekly",
-                "origin:": "git",
-                "type": "subscription",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/Price12-B.json",
-                "priceID": 0
-            }
-        ]
+        "variable": "paywall_onboarding",
+        "priceID": 12
     },
     {
         "name": "Subscription Paywall",
@@ -40,7 +24,7 @@
         "name": "[SEP II] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
-        "variable": "seasonal_template",
+        "variable": "paywall_seasonal",
         "priceID": 0,
         "experiment": [
             {
