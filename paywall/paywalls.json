@@ -56,6 +56,34 @@
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_1.json",
                 "priceID": 0
+            },
+            {
+                "name": "Template 2",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_2.json",
+                "priceID": 0
+            },
+            {
+                "name": "Template 3",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_3.json",
+                "priceID": 0
+            },
+            {
+                "name": "Template 4",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_4.json",
+                "priceID": 0
+            },
+            {
+                "name": "Template 5",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_4.json",
+                "priceID": 0
             }
         ]
     }

@@ -1,0 +1,227 @@
+{
+    "background_color": [
+        "#000000"
+    ],
+    "background_icon": "",
+    "background_image": "https://images.pexels.com/photos/13911191/pexels-photo-13911191.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "background_image_fit": "cover",
+    "background_image_alignment": "bottom",
+    "background_height": 0.50,
+    "background_icon_position": "right",
+    "badge_background_color": [
+        "#E5FF5E"
+    ],
+    "badge_border_color": "#E5FF5E",
+    "badge_position": "center",
+    "badge_text": "BEST PRICE",
+    "badge_text_color": "#000000",
+    "cancel_text": "Cancel anytime, no questions asked",
+    "cancel_text_color": "#7E7576",
+    "cancel_text_size": 15,
+    "close_btn_color": "#000000",
+    "close_btn_position": "left",
+    "close_btn_size": 24,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#000000"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#7E7576",
+    "link_text_size": 13,
+    "price_list": [
+        "life.yearly_free_3_5499",
+        "life.monthly_899"
+    ],
+    "purchase_button_color": [
+        "#E5FF5E"
+    ],
+    "purchase_button_text": "Subscribe Today",
+    "purchase_button_text_color": "#000000",
+    "restore_text": "Restore purchases",
+    "restore_text_color": "#7E7576",
+    "restore_text_size": 13,
+    "show_trial": true,
+    "subscription_option_background_color": [
+        "#000000"
+    ],
+    "subscription_option_border_color": [
+        "#818081"
+    ],
+    "subscription_option_text_color": "#FFFFFF",
+    "subscription_selected_option_background_color": [
+        "#242801"
+    ],
+    "subscription_selected_option_border_color": [
+        "#E5FF5E"
+    ],
+    "subscription_selected_option_text_color": "#FFFFFF",
+    "subtitle": "Choose a plan",
+    "subtitle_color": [
+        "#FFFFFF"
+    ],
+    "subtitle_position": "center",
+    "subtitle_size": 18,
+    "template": 4,
+    "title": "Get Unlimited Content",
+    "title_color": [
+        "#FFFFFF"
+    ],
+    "title_margin_top": 0,
+    "title_position": "center",
+    "title_size": 32,
+    "translations": {
+        "ar": {
+            "badge_text": "أفضل سعر",
+            "cancel_text": "إلغاء في أي وقت، دون طرح أسئلة",
+            "purchase_button_text": "اشترك اليوم",
+            "restore_text": "استعادة المشتريات",
+            "subtitle": "اختر خطة",
+            "title": "احصل على محتوى غير محدود"
+        },
+        "de": {
+            "badge_text": "BESTER PREIS",
+            "cancel_text": "Jederzeit kündbar, ohne Fragen",
+            "purchase_button_text": "Jetzt abonnieren",
+            "restore_text": "Käufe wiederherstellen",
+            "subtitle": "Wähle einen Plan",
+            "title": "Erhalte unbegrenzten Inhalt"
+        },
+        "fr": {
+            "badge_text": "MEILLEUR PRIX",
+            "cancel_text": "Annulez à tout moment, sans poser de questions",
+            "purchase_button_text": "S'abonner aujourd'hui",
+            "restore_text": "Restaurer les achats",
+            "subtitle": "Choisissez un plan",
+            "title": "Obtenez un contenu illimité"
+        },
+        "it": {
+            "badge_text": "MIGLIOR PREZZO",
+            "cancel_text": "Annulla in qualsiasi momento, senza domande",
+            "purchase_button_text": "Abbonati oggi",
+            "restore_text": "Ripristina acquisti",
+            "subtitle": "Scegli un piano",
+            "title": "Ottieni contenuti illimitati"
+        },
+        "nb": {
+            "badge_text": "BESTE PRIS",
+            "cancel_text": "Avbryt når som helst, uten spørsmål",
+            "purchase_button_text": "Abonner i dag",
+            "restore_text": "Gjenopprett kjøp",
+            "subtitle": "Velg en plan",
+            "title": "Få ubegrenset innhold"
+        },
+        "pt_BR": {
+            "badge_text": "MELHOR PREÇO",
+            "cancel_text": "Cancele a qualquer momento, sem perguntas",
+            "purchase_button_text": "Assinar Hoje",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Escolha um plano",
+            "title": "Obtenha Conteúdo Ilimitado"
+        },
+        "pt_PT": {
+            "badge_text": "MELHOR PREÇO",
+            "cancel_text": "Cancele a qualquer momento, sem perguntas",
+            "purchase_button_text": "Subscrever Hoje",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Escolhe um plano",
+            "title": "Obtém Conteúdo Ilimitado"
+        },
+        "ru": {
+            "badge_text": "ЛУЧШАЯ ЦЕНА",
+            "cancel_text": "Отменить в любое время, без вопросов",
+            "purchase_button_text": "Подписаться сегодня",
+            "restore_text": "Восстановить покупки",
+            "subtitle": "Выбери план",
+            "title": "Получи неограниченный доступ"
+        },
+        "sv": {
+            "badge_text": "BÄSTA PRIS",
+            "cancel_text": "Avbryt när som helst, inga frågor ställs",
+            "purchase_button_text": "Prenumerera idag",
+            "restore_text": "Återställ köp",
+            "subtitle": "Välj ett abonnemang",
+            "title": "Få obegränsat innehåll"
+        },
+        "zh_Hans": {
+            "badge_text": "最优惠价格",
+            "cancel_text": "随时取消，无需提问",
+            "purchase_button_text": "立即订阅",
+            "restore_text": "恢复购买",
+            "subtitle": "选择一个方案",
+            "title": "获取无限内容"
+        },
+        "zh_Hant": {
+            "badge_text": "最優惠價格",
+            "cancel_text": "隨時取消，無需提問",
+            "purchase_button_text": "立即訂閱",
+            "restore_text": "恢復購買",
+            "subtitle": "選擇一個方案",
+            "title": "獲取無限內容"
+        },
+        "ja": {
+            "badge_text": "ベストプライス",
+            "cancel_text": "いつでもキャンセル可能、理由を尋ねません",
+            "purchase_button_text": "今すぐ購読",
+            "restore_text": "購入を復元",
+            "subtitle": "プランを選択",
+            "title": "無制限のコンテンツを入手"
+        },
+        "ko": {
+            "badge_text": "최고의 가격",
+            "cancel_text": "언제든지 취소, 이유를 묻지 않습니다",
+            "purchase_button_text": "오늘 구독하기",
+            "restore_text": "구매 복원",
+            "subtitle": "플랜 선택",
+            "title": "무제한 콘텐츠 이용"
+        },
+        "da": {
+            "badge_text": "BEDSTE PRIS",
+            "cancel_text": "Annuller når som helst, uden spørgsmål",
+            "purchase_button_text": "Abonnér i dag",
+            "restore_text": "Gendan køb",
+            "subtitle": "Vælg en plan",
+            "title": "Få ubegrænset indhold"
+        },
+        "es": {
+            "badge_text": "MEJOR PRECIO",
+            "cancel_text": "Cancela cuando quieras, sin preguntas",
+            "purchase_button_text": "Suscríbete Hoy",
+            "restore_text": "Restaurar compras",
+            "subtitle": "Elige un plan",
+            "title": "Obtén Contenido Ilimitado"
+        },
+        "nl": {
+            "badge_text": "BESTE PRIJS",
+            "cancel_text": "Annuleer op elk moment, zonder vragen",
+            "purchase_button_text": "Abonneer Vandaag",
+            "restore_text": "Herstel aankopen",
+            "subtitle": "Kies een abonnement",
+            "title": "Krijg onbeperkte inhoud"
+        },
+        "fi": {
+            "badge_text": "PARAS HINTA",
+            "cancel_text": "Peruuta milloin tahansa, ilman kysymyksiä",
+            "purchase_button_text": "Tilaa tänään",
+            "restore_text": "Palauta ostokset",
+            "subtitle": "Valitse tilaus",
+            "title": "Hanki rajoittamaton sisältö"
+        },
+        "ro": {
+            "badge_text": "CEL MAI BUN PREȚ",
+            "cancel_text": "Anulează oricând, fără întrebări",
+            "purchase_button_text": "Abonează-te astăzi",
+            "restore_text": "Restaurare achiziții",
+            "subtitle": "Alege un plan",
+            "title": "Obține conținut nelimitat"
+        },
+        "uk": {
+            "badge_text": "НАЙКРАЩА ЦІНА",
+            "cancel_text": "Скасувати в будь-який час, без запитань",
+            "purchase_button_text": "Підписатися сьогодні",
+            "restore_text": "Відновити покупки",
+            "subtitle": "Вибери план",
+            "title": "Отримати необмежений контент"
+        }
+    }
+}
