@@ -1,0 +1,203 @@
+{
+    "background_color": [
+        "#FFFFFF"
+    ],
+    "background_icon": "",
+    "background_image": "https://i.ibb.co/6cB6xWjj/template-6.png",
+    "background_image_fit": "fitHeight",
+    "background_image_alignment": "center",
+    "background_height": 0.40,
+    "background_icon_position": "right",
+    "badge_background_color": [
+        "#7E46FB"
+    ],
+    "badge_border_color": "#7E46FB",
+    "badge_position": "center",
+    "badge_text": "7-Day Free Trial",
+    "badge_text_color": "#FFFFFF",
+    "cancel_text": "No Payment Now!",
+    "cancel_text_color": "#000000",
+    "cancel_text_size": 13,
+    "close_btn_color": "#000000",
+    "close_btn_position": "left",
+    "close_btn_size": 24,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#7E7576",
+    "link_text_size": 13,
+    "price_list": [
+        "life.yearly_free_3_5499",
+        "life.monthly_899",
+        "life.weekly_249"
+    ],
+    "purchase_button_color": [
+        "#000000"
+    ],
+    "purchase_button_text": "Continue",
+    "purchase_button_text_color": "#FFFFFF",
+    "restore_text": "Restore purchases",
+    "restore_text_color": "#7E7576",
+    "restore_text_size": 13,
+    "show_trial": true,
+    "subscription_option_background_color": [
+        "#FFFFFF"
+    ],
+    "subscription_option_border_color": [
+        "#D3C1FB"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#FFFFFF"
+    ],
+    "subscription_selected_option_border_color": [
+        "#7E46FB"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "template": 6,
+    "title": "Make your life organized and meet your best self",
+    "title_color": [
+        "#000000"
+    ],
+    "title_margin_top": 0,
+    "title_position": "center",
+    "title_size": 26,
+    "translations": {
+        "ar": {
+            "badge_text": "تجربة مجانية لمدة ٧ أيام",
+            "cancel_text": "لا دفع الآن!",
+            "purchase_button_text": "متابعة",
+            "restore_text": "استعادة المشتريات",
+            "title": "نظّمي حياتك واكتشفي أفضل نسخة من نفسك"
+        },
+        "de": {
+            "badge_text": "7 Tage kostenlos testen",
+            "cancel_text": "Jetzt noch keine Zahlung!",
+            "purchase_button_text": "Weiter",
+            "restore_text": "Käufe wiederherstellen",
+            "title": "Organisiere dein Leben und entdecke dein bestes Ich"
+        },
+        "fr": {
+            "badge_text": "7 jours d'essai gratuit",
+            "cancel_text": "Pas de paiement maintenant !",
+            "purchase_button_text": "Continuer",
+            "restore_text": "Restaurer les achats",
+            "title": "Organisez votre vie et révélez votre meilleur potentiel"
+        },
+        "it": {
+            "badge_text": "7 giorni di prova gratuita",
+            "cancel_text": "Nessun pagamento ora!",
+            "purchase_button_text": "Continua",
+            "restore_text": "Ripristina acquisti",
+            "title": "Organizza la tua vita e incontra la tua versione migliore"
+        },
+        "nb": {
+            "badge_text": "7 dagers gratis prøveperiode",
+            "cancel_text": "Ingen betaling nå!",
+            "purchase_button_text": "Fortsett",
+            "restore_text": "Gjenopprett kjøp",
+            "title": "Organiser livet ditt og møt ditt beste jeg"
+        },
+        "pt_BR": {
+            "badge_text": "7 Dias de Teste Gratuito",
+            "cancel_text": "Sem Pagamento Agora!",
+            "purchase_button_text": "Continuar",
+            "restore_text": "Restaurar compras",
+            "title": "Organize sua vida e encontre a sua melhor versão"
+        },
+        "pt_PT": {
+            "badge_text": "7 Dias de Teste Gratuito",
+            "cancel_text": "Sem Pagamento Agora!",
+            "purchase_button_text": "Continuar",
+            "restore_text": "Restaurar compras",
+            "title": "Organiza a tua vida e conhece a tua melhor versão"
+        },
+        "ru": {
+            "badge_text": "7 дней бесплатно",
+            "cancel_text": "Платеж не требуется!",
+            "purchase_button_text": "Продолжить",
+            "restore_text": "Восстановить покупки",
+            "title": "Организуй свою жизнь и раскрой свой потенциал"
+        },
+        "sv": {
+            "badge_text": "7 dagars gratis provperiod",
+            "cancel_text": "Ingen betalning nu!",
+            "purchase_button_text": "Fortsätt",
+            "restore_text": "Återställ köp",
+            "title": "Organisera ditt liv och bli ditt bästa jag"
+        },
+        "zh_Hans": {
+            "badge_text": "7天免费试用",
+            "cancel_text": "现在无需付费！",
+            "purchase_button_text": "继续",
+            "restore_text": "恢复购买",
+            "title": "让您的生活井然有序，遇见最好的自己"
+        },
+        "zh_Hant": {
+            "badge_text": "7天免費試用",
+            "cancel_text": "現在無需付費！",
+            "purchase_button_text": "繼續",
+            "restore_text": "恢復購買",
+            "title": "讓您的生活井然有序，遇見最好的自己"
+        },
+        "ja": {
+            "badge_text": "7日間無料トライアル",
+            "cancel_text": "お支払いは今ではありません！",
+            "purchase_button_text": "続ける",
+            "restore_text": "購入を復元",
+            "title": "生活を整えて、最高の自分に出会う"
+        },
+        "ko": {
+            "badge_text": "7일 무료 체험",
+            "cancel_text": "지금은 결제하지 마세요!",
+            "purchase_button_text": "계속하기",
+            "restore_text": "구매 복원",
+            "title": "삶을 정리하고 최고의 자신을 만나세요"
+        },
+        "da": {
+            "badge_text": "7-dages gratis prøveperiode",
+            "cancel_text": "Ingen betaling nu!",
+            "purchase_button_text": "Fortsæt",
+            "restore_text": "Gendan køb",
+            "title": "Få styr på dit liv og mød dit bedste jeg"
+        },
+        "es": {
+            "badge_text": "Prueba gratuita de 7 días",
+            "cancel_text": "¡Sin pago ahora!",
+            "purchase_button_text": "Continuar",
+            "restore_text": "Restaurar compras",
+            "title": "Organiza tu vida y encuentra tu mejor versión"
+        },
+        "nl": {
+            "badge_text": "7 dagen gratis proefperiode",
+            "cancel_text": "Nu nog geen betaling!",
+            "purchase_button_text": "Doorgaan",
+            "restore_text": "Herstel aankopen",
+            "title": "Organiseer je leven en ontdek je beste zelf"
+        },
+        "fi": {
+            "badge_text": "7 päivän ilmainen kokeilu",
+            "cancel_text": "Ei maksua nyt!",
+            "purchase_button_text": "Jatka",
+            "restore_text": "Palauta ostokset",
+            "title": "Järjestä elämäsi ja löydä paras itsesi"
+        },
+        "ro": {
+            "badge_text": "Probă gratuită de 7 zile",
+            "cancel_text": "Fără plată acum!",
+            "purchase_button_text": "Continuă",
+            "restore_text": "Restaurare achiziții",
+            "title": "Organizează-ți viața și întâlnește-ți cea mai bună versiune"
+        },
+        "uk": {
+            "badge_text": "7 днів безкоштовно",
+            "cancel_text": "Без оплати зараз!",
+            "purchase_button_text": "Продовжити",
+            "restore_text": "Відновити покупки",
+            "title": "Організуй своє життя та зустрінь себе найкращу"
+        }
+    }
+}

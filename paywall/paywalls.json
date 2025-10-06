@@ -82,7 +82,14 @@
                 "name": "Template 5",
                 "origin:": "git",
                 "type": "seasonal",
-                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_4.json",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_5.json",
+                "priceID": 0
+            },
+            {
+                "name": "Template 6",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_6.json",
                 "priceID": 0
             }
         ]
