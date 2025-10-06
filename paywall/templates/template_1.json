@@ -1,0 +1,251 @@
+{
+    "background_color": [
+        "#F9557E",
+        "#FEFEFE"
+    ],
+    "background_icon": "",
+    "background_icon_position": "right",
+    "background_image": "https://cdn3d.iconscout.com/3d/premium/thumb/heartbreak-3d-icon-png-download-6136764.png",
+    "background_height": 0.28,
+    "carousel_text_color": "#24191a",
+    "carousel_text_size": 16,
+    "close_btn_color": "#000000",
+    "close_btn_position": "left",
+    "close_btn_size": 26,
+    "divider_height": 0,
+    "divider_shape": "",
+    "foreground_color": [
+        "#FFFFFF"
+    ],
+    "link_horizontal_space": 16,
+    "link_text_color": "#7E7576",
+    "link_text_size": 13,
+    "price_list": [
+        "life.yearly_free_3_5499"
+    ],
+    "advantages_list": [
+        "Plan your life around your cycle with tailored insights"
+    ],
+    "disadvantages_list": [
+        "Wondering what symptoms are expected and when to see a doctor"
+    ],
+    "purchase_button_color": [
+        "#FA547E"
+    ],
+    "purchase_button_text": "Claim bonus free trial",
+    "purchase_button_text_color": "#ffffff",
+    "subscription_option_background_color": [
+        "#00FFD7E2"
+    ],
+    "subscription_option_border_color": [
+        "#F30684"
+    ],
+    "subscription_option_text_color": "#000000",
+    "subscription_selected_option_background_color": [
+        "#00FFD7E2"
+    ],
+    "subscription_selected_option_border_color": [
+        "#F30684"
+    ],
+    "subscription_selected_option_text_color": "#000000",
+    "template": 1,
+    "title": "We're sad to see you go",
+    "title_color": [
+        "#000000"
+    ],
+    "title_margin_top": 10,
+    "title_position": "center",
+    "title_size": 31,
+    "translations": {
+        "ar": {
+            "advantages_list": [
+                "خططي لحياتك بناءً على دورتك مع رؤى مخصصة"
+            ],
+            "disadvantages_list": [
+                "التساؤل عن الأعراض المتوقعة ومتى يجب استشارة الطبيب"
+            ],
+            "purchase_button_text": "المطالبة بالمكافأة للتجربة المجانية",
+            "title": "يؤسفنا رؤيتك تغادرين"
+        },
+        "de": {
+            "advantages_list": [
+                "Plane dein Leben rund um deinen Zyklus mit maßgeschneiderten Einblicken"
+            ],
+            "disadvantages_list": [
+                "Du fragst dich, welche Symptome normal sind und wann du einen Arzt aufsuchen solltest"
+            ],
+            "purchase_button_text": "Bonus-Gratistest sichern",
+            "title": "Wir bedauern dein Ausscheiden"
+        },
+        "fr": {
+            "advantages_list": [
+                "Organisez votre vie autour de votre cycle grâce à des informations personnalisées"
+            ],
+            "disadvantages_list": [
+                "Vous vous demandez quels symptômes sont normaux et quand consulter un médecin"
+            ],
+            "purchase_button_text": "Bénéficier d'un essai gratuit bonus",
+            "title": "Nous sommes désolés de vous voir partir"
+        },
+        "it": {
+            "advantages_list": [
+                "Organizza la tua vita in base al tuo ciclo con approfondimenti personalizzati"
+            ],
+            "disadvantages_list": [
+                "Chiederti quali sintomi siano attesi e quando consultare un medico"
+            ],
+            "purchase_button_text": "Richiedi la prova gratuita bonus",
+            "title": "Ci dispiace vederti andare via"
+        },
+        "nb": {
+            "advantages_list": [
+                "Planlegg livet ditt rundt syklusen med skreddersydd innsikt"
+            ],
+            "disadvantages_list": [
+                "Lurer på hvilke symptomer som er forventet, og når du bør oppsøke lege"
+            ],
+            "purchase_button_text": "Krev bonus gratis prøveperiode",
+            "title": "Vi er lei oss for å se deg dra"
+        },
+        "pt_BR": {
+            "advantages_list": [
+                "Planeje sua vida em torno do seu ciclo com insights personalizados"
+            ],
+            "disadvantages_list": [
+                "Ficar se perguntando quais sintomas são esperados e quando procurar um médico"
+            ],
+            "purchase_button_text": "Reivindicar bônus de teste gratuito",
+            "title": "Lamentamos ver você ir"
+        },
+        "pt_PT": {
+            "advantages_list": [
+                "Planeia a tua vida de acordo com o teu ciclo com informações personalizadas"
+            ],
+            "disadvantages_list": [
+                "Ficares a questionar quais são os sintomas esperados e quando deves consultar um médico"
+            ],
+            "purchase_button_text": "Reclamar bónus de teste gratuito",
+            "title": "Lamentamos ver-te partir"
+        },
+        "ru": {
+            "advantages_list": [
+                "Планируй свою жизнь с учетом цикла с помощью индивидуальных рекомендаций"
+            ],
+            "disadvantages_list": [
+                "Размышления о том, какие симптомы являются нормой и когда обращаться к врачу"
+            ],
+            "purchase_button_text": "Получить бонусную бесплатную пробную версию",
+            "title": "Нам жаль, что ты уходишь"
+        },
+        "sv": {
+            "advantages_list": [
+                "Planera ditt liv kring din cykel med skräddarsydda insikter"
+            ],
+            "disadvantages_list": [
+                "Undrar vilka symptom som är förväntade och när du ska träffa en läkare"
+            ],
+            "purchase_button_text": "Hämta bonus gratis provperiod",
+            "title": "Vi är ledsna att se dig lämna"
+        },
+        "zh_Hans": {
+            "advantages_list": [
+                "根据您的周期计划生活，并获得量身定制的见解"
+            ],
+            "disadvantages_list": [
+                "想知道哪些症状是预期的，以及何时需要去看医生"
+            ],
+            "purchase_button_text": "领取奖励免费试用",
+            "title": "我们很遗憾您要离开"
+        },
+        "zh_Hant": {
+            "advantages_list": [
+                "根據您的週期計劃生活，並獲得量身定制的見解"
+            ],
+            "disadvantages_list": [
+                "想知道哪些症狀是預期的，以及何時需要去看醫生"
+            ],
+            "purchase_button_text": "領取獎勵免費試用",
+            "title": "我們很遺憾您要離開"
+        },
+        "ja": {
+            "advantages_list": [
+                "パーソナライズされたインサイトで、生理周期に合わせて生活を計画"
+            ],
+            "disadvantages_list": [
+                "どの症状が予想されるか、いつ医師に相談すべきか迷うこと"
+            ],
+            "purchase_button_text": "ボーナス無料トライアルを請求",
+            "title": "お別れは寂しいです"
+        },
+        "ko": {
+            "advantages_list": [
+                "맞춤형 인사이트로 생리 주기에 맞춰 삶을 계획하세요"
+            ],
+            "disadvantages_list": [
+                "어떤 증상이 예상되는지, 언제 의사를 만나야 하는지 궁금해하는 것"
+            ],
+            "purchase_button_text": "보너스 무료 체험 신청",
+            "title": "떠나시는 것을 보니 마음이 아픕니다"
+        },
+        "da": {
+            "advantages_list": [
+                "Planlæg dit liv omkring din cyklus med skræddersyet indsigt"
+            ],
+            "disadvantages_list": [
+                "Du undrer dig over, hvilke symptomer der er forventelige, og hvornår du skal søge læge"
+            ],
+            "purchase_button_text": "Få bonus gratis prøveperiode",
+            "title": "Vi er kede af at se dig gå"
+        },
+        "es": {
+            "advantages_list": [
+                "Planifica tu vida en torno a tu ciclo con información personalizada"
+            ],
+            "disadvantages_list": [
+                "Preguntarte qué síntomas son esperables y cuándo consultar a un médico"
+            ],
+            "purchase_button_text": "Reclamar prueba gratuita adicional",
+            "title": "Nos entristece verte ir"
+        },
+        "nl": {
+            "advantages_list": [
+                "Plan je leven rond je cyclus met gepersonaliseerde inzichten"
+            ],
+            "disadvantages_list": [
+                "Je afvragen welke symptomen verwacht worden en wanneer je naar een arts moet"
+            ],
+            "purchase_button_text": "Claim bonus gratis proefperiode",
+            "title": "We vinden het jammer dat je weggaat"
+        },
+        "fi": {
+            "advantages_list": [
+                "Suunnittele elämäsi kiertosi ympärille räätälöityjen oivallusten avulla"
+            ],
+            "disadvantages_list": [
+                "Mietit, mitkä oireet ovat odotettavissa ja milloin sinun pitäisi käydä lääkärissä"
+            ],
+            "purchase_button_text": "Lunasta ilmainen bonuskokeilu",
+            "title": "Olemme pahoillamme nähdessämme sinun lähtevän"
+        },
+        "ro": {
+            "advantages_list": [
+                "Planifică-ți viața în funcție de ciclu cu informații personalizate"
+            ],
+            "disadvantages_list": [
+                "Te întrebi ce simptome sunt așteptate și când să consulți un medic"
+            ],
+            "purchase_button_text": "Revendică bonusul de încercare gratuită",
+            "title": "Ne pare rău să te vedem plecând"
+        },
+        "uk": {
+            "advantages_list": [
+                "Плануй своє життя відповідно до циклу за допомогою індивідуальних порад"
+            ],
+            "disadvantages_list": [
+                "Роздуми про те, які симптоми є очікуваними і коли звертатися до лікаря"
+            ],
+            "purchase_button_text": "Отримати бонусну безкоштовну пробну версію",
+            "title": "Нам шкода, що ти йдеш"
+        }
+    }
+}

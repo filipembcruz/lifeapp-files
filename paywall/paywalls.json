@@ -42,5 +42,21 @@
                 "priceID": 0
             }
         ]
+    },
+    {
+        "name": "Templates",
+        "origin:": "qonversion",
+        "type": "seasonal",
+        "variable": "paywall_seasonal",
+        "priceID": 0,
+        "experiment": [
+            {
+                "name": "Template 1",
+                "origin:": "git",
+                "type": "seasonal",
+                "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/templates/template_1.json",
+                "priceID": 0
+            }
+        ]
     }
 ]
