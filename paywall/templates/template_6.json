@@ -30,8 +30,8 @@
     "link_text_color": "#7E7576",
     "link_text_size": 13,
     "price_list": [
-        "life.yearly_free_3_5499",
         "life.monthly_899",
+        "life.yearly_free_3_5499",
         "life.weekly_249"
     ],
     "purchase_button_color": [
