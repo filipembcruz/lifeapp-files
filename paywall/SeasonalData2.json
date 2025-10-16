@@ -1,96 +1,73 @@
 {
-  "animation_height": 0,
   "background_color": [
     "#FFFFFF"
   ],
-  "background_height": 0.46,
   "background_icon": "",
+  "background_image": "https://i.ibb.co/DHz9dRwF/october-I-bg.png",
+  "background_image_fit": "cover",
+  "background_image_alignment": "bottom",
+  "background_height": 0.49,
   "background_icon_position": "right",
-  "background_image": "https://i.ibb.co/CKbWbhZ8/bg-fox.png",
   "badge_background_color": [
-    "#F57302",
-    "#EF5F01"
+    "#D99787",
+    "#E4AC9F"
   ],
-  "badge_border_color": "#EF5F01",
-  "badge_position": "right",
+  "badge_border_color": "#BF675B",
+  "badge_position": "center",
   "badge_text": "Best offer",
   "badge_text_color": "#FFFFFF",
-  "cancel_text": "Cancel anytime",
-  "cancel_text_color": "#0EA73C",
-  "cancel_text_size": 20,
-  "close_btn_color": "#FFFFFF",
+  "close_btn_color": "#964B41",
   "close_btn_position": "left",
-  "close_btn_size": 40,
-  "discount_button_border_color": "#F3ECFC",
-  "discount_button_color": "#FFE3C3",
-  "discount_button_text_color": "#EF6001",
-  "discount_button_text_size": 20,
-  "discount_margin_top": 24,
-  "discount_text": "{{}}% Off",
-  "discount_text_color": [
-    "#151414"
-  ],
-  "discount_text_description": "to unlock all features",
-  "discount_text_description_color": [
-    "#000000"
-  ],
-  "discount_text_description_size": 20,
-  "discount_text_size": 31,
-  "divider_height": 24,
+  "close_btn_size": 24,
+  "cancel_text": "Cancel anytime, no questions asked",
+  "cancel_text_color": "#8E463B",
+  "cancel_text_size": 16,
+  "divider_height": 0,
   "divider_shape": "",
-  "foreground_color": "#FFFFFF",
-  "last_chance_cancel_color": "#000000",
-  "last_chance_cancel_size": 18,
-  "last_chance_cancel_text": "No, I really don't want this",
-  "last_chance_image_negative_margin": -205,
-  "last_chance_image_url": "https://i.ibb.co/qYJmwTXJ/icon.png",
-  "last_chance_image_width": 1,
-  "last_chance_price_text_color": "#000000",
-  "last_chance_price_text_size": 16,
-  "last_chance_purchase_button_text": "Yes, Upgrade & Save",
-  "last_chance_subtitle": "“Best investment in my health!”\nSara, 32",
-  "last_chance_subtitle_color": "#000000",
-  "last_chance_subtitle_size": 20,
-  "last_chance_title": "Don't miss out! Unlock your discount",
-  "last_chance_title_color": "#000000",
-  "last_chance_title_size": 20,
+  "foreground_color": [
+    "#11EFCEC5",
+    "#FFFFFF"
+  ],
   "link_horizontal_space": 16,
-  "link_text_color": "#43292E",
+  "link_text_color": "#999999",
   "link_text_size": 13,
   "price_list": [
-    "life.yearly_2999",
+    "life.yearly_free_3_2999",
     "life.monthly_free_3_1499"
   ],
-  "pricing_area_margin_bottom": 120,
   "purchase_button_color": [
-    "#FFB158",
-    "#EF5F00"
+    "#F28F82"
   ],
-  "purchase_button_text": "Unlock Discount",
-  "purchase_button_text_color": "#ffffff",
-  "subscription_option_background_color": "#FFFFFF",
-  "subscription_option_background_color_opacity": 0.01,
+  "purchase_button_text": "Join the Pink Movement",
+  "purchase_button_text_color": "#FFFFFF",
+  "restore_text": "Restore purchases",
+  "restore_text_color": "#999999",
+  "restore_text_size": 13,
+  "show_trial": true,
+  "subscription_option_background_color": [
+    "#FFF1EB"
+  ],
   "subscription_option_border_color": [
-    "#E8E8E8"
+    "#FFF1EB"
   ],
-  "subscription_option_text_color": "#000000",
+  "subscription_option_text_color": "#4D4D4D",
   "subscription_selected_option_background_color": [
-    "#FFD3A2"
+    "#FFF1EB"
   ],
   "subscription_selected_option_border_color": [
-    "#EF6001"
+    "#F28F82"
   ],
-  "subscription_selected_option_text_color": "#000000",
-  "subtitle": "Choose You!",
+  "subscription_selected_option_text_color": "#FFFFFF",
+  "subtitle": "Unlock your self-care journey",
   "subtitle_color": [
-    "#E1356E"
+    "#8E463B"
   ],
-  "subtitle_position": "left",
-  "subtitle_size": 24,
-  "template": 2,
-  "title": "  One-time pay  ",
+  "subtitle_position": "center",
+  "subtitle_size": 18,
+  "template": 4,
+  "title": "Pink October Offer",
   "title_color": [
-    "#FFFFFF"
+    "#8C3E30"
   ],
   "title_margin_top": 0,
   "title_position": "center",
@@ -98,231 +75,155 @@
   "translations": {
     "ar": {
       "badge_text": "أفضل عرض",
-      "cancel_text": "إلغاء في أي وقت",
-      "discount_text": "خصم {{}}٪",
-      "discount_text_description": "لفتح جميع الميزات",
-      "last_chance_cancel_text": "لا، لا أريد هذا حقًا",
-      "last_chance_purchase_button_text": "نعم، ترقية ووفر",
-      "last_chance_subtitle": "«أفضل استثمار في صحتي!»\nفاطمة، ٣٢",
-      "last_chance_title": "لا تفوتي الفرصة! افتحي خصمك",
-      "purchase_button_text": "افتح الخصم",
-      "title": "  دفع لمرة واحدة  "
+      "cancel_text": "إلغاء في أي وقت، دون طرح أسئلة",
+      "purchase_button_text": "انضمي للحركة الوردية",
+      "restore_text": "استعادة المشتريات",
+      "subtitle": "افتحي رحلة العناية الذاتية",
+      "title": "عرض أكتوبر الوردي"
     },
     "de": {
       "badge_text": "Bestes Angebot",
-      "cancel_text": "Jederzeit kündbar",
-      "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "um alle Funktionen freizuschalten",
-      "last_chance_cancel_text": "Nein, das möchte ich wirklich nicht",
-      "last_chance_purchase_button_text": "Ja, upgraden & sparen",
-      "last_chance_subtitle": "„Beste Investition in meine Gesundheit!“\nSarah, 32",
-      "last_chance_title": "Nicht verpassen! Schalte deinen Rabatt frei",
-      "purchase_button_text": "Rabatt freischalten",
-      "title": "  Einmalzahlung  "
+      "cancel_text": "Jederzeit kündbar, ohne Fragen",
+      "purchase_button_text": "Mach mit bei Pink",
+      "restore_text": "Käufe wiederherstellen",
+      "subtitle": "Schalte deine Selbstpflege-Reise frei",
+      "title": "Pink-Oktober-Angebot"
     },
     "fr": {
       "badge_text": "Meilleure offre",
-      "cancel_text": "Annuler à tout moment",
-      "discount_text": "{{}} % de réduction",
-      "discount_text_description": "pour débloquer toutes les fonctionnalités",
-      "last_chance_cancel_text": "Non, je ne le veux vraiment pas",
-      "last_chance_purchase_button_text": "Oui, upgrade & éco",
-      "last_chance_subtitle": "« Le meilleur investissement pour ma santé ! »\nLéa, 32",
-      "last_chance_title": "Ne manquez rien ! Débloquez votre réduction",
-      "purchase_button_text": "Débloquer la réduction",
-      "title": "  Paiement unique  "
+      "cancel_text": "Annulez à tout moment, sans poser de questions",
+      "purchase_button_text": "Rejoindre le Mouvement Rose",
+      "restore_text": "Restaurer les achats",
+      "subtitle": "Débloquez votre parcours de soin personnel",
+      "title": "Offre Octobre Rose"
     },
     "it": {
       "badge_text": "Migliore offerta",
-      "cancel_text": "Annulla in qualsiasi momento",
-      "discount_text": "Sconto del {{}}%",
-      "discount_text_description": "per sbloccare tutte le funzioni",
-      "last_chance_cancel_text": "No, non lo voglio davvero",
-      "last_chance_purchase_button_text": "Sì, upgrade & save",
-      "last_chance_subtitle": "“Il miglior investimento per la mia salute!”\nGiulia, 32",
-      "last_chance_title": "Non perderlo! Sblocca il tuo sconto",
-      "purchase_button_text": "Sblocca sconto",
-      "title": "  Pagamento unico  "
+      "cancel_text": "Annulla in qualsiasi momento, senza domande",
+      "purchase_button_text": "Unisciti al Movimento Rosa",
+      "restore_text": "Ripristina acquisti",
+      "subtitle": "Sblocca il tuo percorso di self-care",
+      "title": "Offerta Ottobre Rosa"
     },
     "nb": {
       "badge_text": "Beste tilbud",
-      "cancel_text": "Avbryt når som helst",
-      "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "for å låse opp alle funksjoner",
-      "last_chance_cancel_text": "Nei, jeg vil virkelig ikke ha dette",
-      "last_chance_purchase_button_text": "Ja, oppgrader og spar",
-      "last_chance_subtitle": "«Beste investering i min helse!»\nNora, 32",
-      "last_chance_title": "Ikke gå glipp av det! Lås opp rabatten din",
-      "purchase_button_text": "Lås opp rabatt",
-      "title": "  Engangsbetaling  "
+      "cancel_text": "Avbryt når som helst, uten spørsmål",
+      "purchase_button_text": "Bli med i Pink Movement",
+      "restore_text": "Gjenopprett kjøp",
+      "subtitle": "Lås opp din egenomsorgsreise",
+      "title": "Rosa Oktober Tilbud"
     },
     "pt_BR": {
       "badge_text": "Melhor oferta",
-      "cancel_text": "Cancele a qualquer momento",
-      "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "para liberar todos os recursos",
-      "last_chance_cancel_text": "Não, eu realmente não quero isso",
-      "last_chance_purchase_button_text": "Sim, upgrade & save",
-      "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nMaria, 32",
-      "last_chance_title": "Não perca! Desbloqueie seu desconto",
-      "purchase_button_text": "Desbloquear desconto",
-      "title": "  Pagamento Único  "
+      "cancel_text": "Cancele a qualquer momento, sem perguntas",
+      "purchase_button_text": "Participe do Movimento Pink",
+      "restore_text": "Restaurar compras",
+      "subtitle": "Desbloqueie sua jornada de autocuidado",
+      "title": "Oferta Outubro Rosa"
     },
     "pt_PT": {
       "badge_text": "Melhor oferta",
-      "cancel_text": "Cancele a qualquer momento",
-      "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "para desbloquear todas as funcionalidades",
-      "last_chance_cancel_text": "Não, eu realmente não quero isto",
-      "last_chance_purchase_button_text": "Sim, upgrade & poupar",
-      "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nAna, 32",
-      "last_chance_title": "Não percas! Desbloqueia o teu desconto",
-      "purchase_button_text": "Desbloquear desconto",
-      "title": "  Pagamento Único  "
+      "cancel_text": "Cancele a qualquer momento, sem perguntas",
+      "purchase_button_text": "Junta-te ao Movimento Pink",
+      "restore_text": "Restaurar compras",
+      "subtitle": "Desbloqueia a tua jornada de autocuidado",
+      "title": "Oferta Outubro Rosa"
     },
     "ru": {
       "badge_text": "Лучшее предложение",
-      "cancel_text": "Отменить в любое время",
-      "discount_text": "Скидка {{}}%",
-      "discount_text_description": "чтобы разблокировать все функции",
-      "last_chance_cancel_text": "Нет, я действительно этого не хочу",
-      "last_chance_purchase_button_text": "Да, upgrade & экономия",
-      "last_chance_subtitle": "«Лучшее вложение в мое здоровье!»\nМария, 32",
-      "last_chance_title": "Не пропусти! Разблокируй свою скидку",
-      "purchase_button_text": "Разблокировать скидку",
-      "title": "  Единовременный платеж  "
+      "cancel_text": "Отменить в любое время, без вопросов",
+      "purchase_button_text": "Присоединяйся к Pink Movement",
+      "restore_text": "Восстановить покупки",
+      "subtitle": "Разблокируй свой путь заботы о себе",
+      "title": "Акция Розовый Октябрь"
     },
     "sv": {
       "badge_text": "Bästa erbjudandet",
-      "cancel_text": "Avbryt när som helst",
-      "discount_text": "{{}}% rabatt",
-      "discount_text_description": "för att låsa upp alla funktioner",
-      "last_chance_cancel_text": "Nej, jag vill verkligen inte ha detta",
-      "last_chance_purchase_button_text": "Ja, upgrade & spara",
-      "last_chance_subtitle": "”Bästa investeringen i min hälsa!”\nSara, 32",
-      "last_chance_title": "Missa inte! Lås upp din rabatt",
-      "purchase_button_text": "Lås upp rabatt",
-      "title": "  Engångsbetalning  "
+      "cancel_text": "Avbryt när som helst, inga frågor ställs",
+      "purchase_button_text": "Gå med i Pink Movement",
+      "restore_text": "Återställ köp",
+      "subtitle": "Lås upp din resa mot egenvård",
+      "title": "Pink Oktober Erbjudande"
     },
     "zh_Hans": {
       "badge_text": "最佳优惠",
-      "cancel_text": "随时取消",
-      "discount_text": "{{}}% 折扣",
-      "discount_text_description": "以解锁所有功能",
-      "last_chance_cancel_text": "不，我真的不想要",
-      "last_chance_purchase_button_text": "是的，立即升级并省钱",
-      "last_chance_subtitle": "“对我的健康来说是最好的投资！”\n李娜，32岁",
-      "last_chance_title": "别错过！解锁你的折扣",
-      "purchase_button_text": "解锁折扣",
-      "title": "  一次性付款  "
+      "cancel_text": "随时取消，无需提问",
+      "purchase_button_text": "加入粉红运动",
+      "restore_text": "恢复购买",
+      "subtitle": "解锁您的自我关怀之旅",
+      "title": "粉红十月优惠"
     },
     "zh_Hant": {
       "badge_text": "最佳優惠",
-      "cancel_text": "隨時取消",
-      "discount_text": "折扣{{}}%",
-      "discount_text_description": "以解鎖所有功能",
-      "last_chance_cancel_text": "不，我真的不想要",
-      "last_chance_purchase_button_text": "是的，立即升級並省錢",
-      "last_chance_subtitle": "“對我的健康來說是最好的投資！”\n李娜，32歲",
-      "last_chance_title": "別錯過！解鎖你的折扣",
-      "purchase_button_text": "解鎖折扣",
-      "title": "  一次性付款  "
+      "cancel_text": "隨時取消，無需提問",
+      "purchase_button_text": "加入粉紅運動",
+      "restore_text": "恢復購買",
+      "subtitle": "解鎖您的自我關懷之旅",
+      "title": "粉紅十月優惠"
     },
     "ja": {
       "badge_text": "ベストオファー",
-      "cancel_text": "いつでもキャンセル可能",
-      "discount_text": "{{}}%オフ",
-      "discount_text_description": "ですべての機能をアンロック",
-      "last_chance_cancel_text": "いいえ、本当に必要ありません",
-      "last_chance_purchase_button_text": "はい、アップグレードしてお得に",
-      "last_chance_subtitle": "「私の健康への最高の投資です！」\n咲希、32歳",
-      "last_chance_title": "お見逃しなく！割引をアンロック",
-      "purchase_button_text": "割引をアンロック",
-      "title": "  一括払い  "
+      "cancel_text": "いつでもキャンセル可能、理由を尋ねません",
+      "purchase_button_text": "ピンク運動に参加する",
+      "restore_text": "購入を復元",
+      "subtitle": "セルフケアの旅をアンロック",
+      "title": "ピンクトーバー・オファー"
     },
     "ko": {
       "badge_text": "최고의 혜택",
-      "cancel_text": "언제든지 취소",
-      "discount_text": "{{}}% 할인",
-      "discount_text_description": "으로 모든 기능 잠금 해제",
-      "last_chance_cancel_text": "아니요, 정말 원하지 않습니다",
-      "last_chance_purchase_button_text": "예, 업그레이드하고 할인받기",
-      "last_chance_subtitle": "“제 건강에 대한 최고의 투자예요!”\n지은, 32",
-      "last_chance_title": "놓치지 마세요! 할인 잠금 해제",
-      "purchase_button_text": "할인 잠금 해제",
-      "title": "  일시불  "
+      "cancel_text": "언제든지 취소, 이유를 묻지 않습니다",
+      "purchase_button_text": "핑크 무브먼트 참여",
+      "restore_text": "구매 복원",
+      "subtitle": "자기 관리 여정 잠금 해제",
+      "title": "핑크 10월 혜택"
     },
     "da": {
       "badge_text": "Bedste tilbud",
-      "cancel_text": "Annuller når som helst",
-      "discount_text": "{{}}% Rabat",
-      "discount_text_description": "for at låse alle funktioner op",
-      "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have dette",
-      "last_chance_purchase_button_text": "Ja, opgrader og spar",
-      "last_chance_subtitle": "“Den bedste investering i mit helbred!”\nIda, 32",
-      "last_chance_title": "Gå ikke glip af det! Lås op for din rabat",
-      "purchase_button_text": "Lås op for rabat",
-      "title": "  Engangsbetaling  "
+      "cancel_text": "Annuller når som helst, uden spørgsmål",
+      "purchase_button_text": "Deltag i Pink Movement",
+      "restore_text": "Gendan køb",
+      "subtitle": "Lås op for din selvplejerejse",
+      "title": "Pink Oktober Tilbud"
     },
     "es": {
       "badge_text": "Mejor oferta",
-      "cancel_text": "Cancela cuando quieras",
-      "discount_text": "{{}}% de Descuento",
-      "discount_text_description": "para desbloquear todas las funciones",
-      "last_chance_cancel_text": "No, en realidad no quiero esto",
-      "last_chance_purchase_button_text": "Sí, upgrade & ahorrar",
-      "last_chance_subtitle": "“¡La mejor inversión para mi salud!”\nSara, 32",
-      "last_chance_title": "¡No te lo pierdas! Desbloquea tu descuento",
-      "purchase_button_text": "Desbloquear descuento",
-      "title": "  Pago único  "
+      "cancel_text": "Cancela cuando quieras, sin preguntas",
+      "purchase_button_text": "Únete al Movimiento Pink",
+      "restore_text": "Restaurar compras",
+      "subtitle": "Desbloquea tu viaje de autocuidado",
+      "title": "Oferta Octubre Rosa"
     },
     "nl": {
       "badge_text": "Beste aanbieding",
-      "cancel_text": "Annuleer op elk moment",
-      "discount_text": "{{}}% korting",
-      "discount_text_description": "om alle functies te ontgrendelen",
-      "last_chance_cancel_text": "Nee, ik wil dit echt niet",
-      "last_chance_purchase_button_text": "Ja, upgrade & save",
-      "last_chance_subtitle": "“De beste investering in mijn gezondheid!”\nLisa, 32",
-      "last_chance_title": "Mis het niet! Ontgrendel je korting",
-      "purchase_button_text": "Korting ontgrendelen",
-      "title": "  Eenmalige betaling  "
+      "cancel_text": "Annuleer op elk moment, zonder vragen",
+      "purchase_button_text": "Sluit je aan bij Pink Movement",
+      "restore_text": "Herstel aankopen",
+      "subtitle": "Ontgrendel je zelfzorgreis",
+      "title": "Pink Oktober Aanbieding"
     },
     "fi": {
       "badge_text": "Paras tarjous",
-      "cancel_text": "Peruuta milloin tahansa",
-      "discount_text": "{{}}% Alennus",
-      "discount_text_description": "avataksesi kaikki ominaisuudet",
-      "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
-      "last_chance_purchase_button_text": "Kyllä, upgrade & save",
-      "last_chance_subtitle": "“Paras sijoitus terveyteeni!”\nTiina, 32",
-      "last_chance_title": "Älä jää paitsi! Avaa alennuksesi",
-      "purchase_button_text": "Avaa alennus",
-      "title": "  Kertamaksu  "
+      "cancel_text": "Peruuta milloin tahansa, ilman kysymyksiä",
+      "purchase_button_text": "Liity Pink Movementiin",
+      "restore_text": "Palauta ostokset",
+      "subtitle": "Avaa itsehoitomatkasi",
+      "title": "Pink October Tarjous"
     },
     "ro": {
       "badge_text": "Cea mai bună ofertă",
-      "cancel_text": "Anulează oricând",
-      "discount_text": "Reducere {{}}%",
-      "discount_text_description": "pentru a debloca toate funcțiile",
-      "last_chance_cancel_text": "Nu, chiar nu vreau asta",
-      "last_chance_purchase_button_text": "Da, upgrade & economie",
-      "last_chance_subtitle": "„Cea mai bună investiție în sănătatea mea!”\nMaria, 32",
-      "last_chance_title": "Nu rata! Deblochează-ți reducerea",
-      "purchase_button_text": "Deblochează reducerea",
-      "title": "  Plată unică  "
+      "cancel_text": "Anulează oricând, fără întrebări",
+      "purchase_button_text": "Alătură-te Mișcării Pink",
+      "restore_text": "Restaurare achiziții",
+      "subtitle": "Deblochează-ți călătoria ta de self-care",
+      "title": "Ofertă Octombrie Pink"
     },
     "uk": {
       "badge_text": "Найкраща пропозиція",
-      "cancel_text": "Скасувати в будь-який час",
-      "discount_text": "Знижка {{}}%",
-      "discount_text_description": "щоб розблокувати всі функції",
-      "last_chance_cancel_text": "Ні, я справді цього не хочу",
-      "last_chance_purchase_button_text": "Так, upgrade & save",
-      "last_chance_subtitle": "«Найкраща інвестиція в моє здоров'я!»\nМарія, 32",
-      "last_chance_title": "Не пропусти! Розблокуй свою знижку",
-      "purchase_button_text": "Розблокувати знижку",
-      "title": "  Одноразовий платіж  "
+      "cancel_text": "Скасувати в будь-який час, без запитань",
+      "purchase_button_text": "Приєднуйся до Pink Movement",
+      "restore_text": "Відновити покупки",
+      "subtitle": "Розблокуй свій шлях самообслуговування",
+      "title": "Акція Рожевий Жовтень"
     }
   }
 }

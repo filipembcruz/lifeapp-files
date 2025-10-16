@@ -21,21 +21,21 @@
         "priceID": 8
     },
     {
-        "name": "[SEP II] Campaign",
+        "name": "[OCTOBER I] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "paywall_seasonal",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Last Chance",
+                "name": "Template 2 (With Last Chance)",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "One-time pay",
+                "name": "Template 4 (Without Last Chance)",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
