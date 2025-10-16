@@ -1,100 +1,100 @@
 {
-  "title": "Everything Unlocked – For Less",
-  "subtitle": "Everything Unlocked – For Less",
-  "title_text_color": "#24191A",
-  "subtitle_text_color": "#24191A",
+  "title": "Pink October Offer — Care Starts Now",
+  "subtitle": "Pink October Offer — Care Starts Now",
+  "title_text_color": "#8C3E30",
+  "subtitle_text_color": "#8C3E30",
   "countdown": true,
-  "right_padding": "38",
-  "deadline": "2025-10-04",
+  "right_padding": "0",
+  "deadline": "2025-10-24",
   "background": {
-    "start_color": "#FFB057",
-    "end_color": "#F1680A",
+    "start_color": "#F4A6A1",
+    "end_color": "#FFD6D1",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
   "subtitle_font_size": "14",
   "animation": {
     "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
-    "width": "55",
-    "height": "45",
-    "right_padding": "16"
+    "width": "80",
+    "height": "80",
+    "right_padding": "8"
   },
   "translations": {
     "ar": {
-      "title": "كل شيء متاح – بسعر أقل",
-      "subtitle": "كل شيء متاح – بسعر أقل"
+      "title": "عرض أكتوبر الوردي — ابدأ العناية",
+      "subtitle": "عرض أكتوبر الوردي — ابدأ العناية"
     },
     "de": {
-      "title": "Alles freigeschaltet – für weniger",
-      "subtitle": "Alles freigeschaltet – für weniger"
+      "title": "Pink Okt. Deal — Starte jetzt",
+      "subtitle": "Pink Okt. Deal — Starte jetzt"
     },
     "fr": {
-      "title": "Tout débloqué – à moindre coût",
-      "subtitle": "Tout débloqué – à moindre coût"
+      "title": "Octobre Rose — Soin Immediat",
+      "subtitle": "Octobre Rose — Soin Immediat"
     },
     "it": {
-      "title": "Tutto sbloccato – a meno",
-      "subtitle": "Tutto sbloccato – a meno"
+      "title": "Off. Ottobre Rosa — Inizia Ora",
+      "subtitle": "Off. Ottobre Rosa — Inizia Ora"
     },
     "nb": {
-      "title": "Alt ulåst – til en lavere pris",
-      "subtitle": "Alt ulåst – til en lavere pris"
+      "title": "Rosa Okt. — Start Omsorgen Nå",
+      "subtitle": "Rosa Okt. — Start Omsorgen Nå"
     },
     "pt_BR": {
-      "title": "Tudo Liberado – por Menos",
-      "subtitle": "Tudo Liberado – por Menos"
+      "title": "Outubro Rosa — Cuide-se Já",
+      "subtitle": "Outubro Rosa — Cuide-se Já"
     },
     "pt_PT": {
-      "title": "Tudo Desbloqueado – por Menos",
-      "subtitle": "Tudo Desbloqueado – por Menos"
+      "title": "Outubro Rosa — Cuida-te Já",
+      "subtitle": "Outubro Rosa — Cuida-te Já"
     },
     "ru": {
-      "title": "Все разблокировано – дешевле",
-      "subtitle": "Все разблокировано – дешевле"
+      "title": "Розовый Окт. — Заботься Сейчас",
+      "subtitle": "Розовый Окт. — Заботься Сейчас"
     },
     "sv": {
-      "title": "Allt upplåst – för mindre",
-      "subtitle": "Allt upplåst – för mindre"
+      "title": "Pink Okt. — Starta din Omtanke",
+      "subtitle": "Pink Okt. — Starta din Omtanke"
     },
     "zh_Hans": {
-      "title": "解锁所有功能——更低价格",
-      "subtitle": "解锁所有功能——更低价格"
+      "title": "粉红十月 — 即刻关怀",
+      "subtitle": "粉红十月 — 即刻关怀"
     },
     "zh_Hant": {
-      "title": "解鎖所有功能——更低價格",
-      "subtitle": "解鎖所有功能——更低價格"
+      "title": "粉紅十月 — 即刻關懷",
+      "subtitle": "粉紅十月 — 即刻關懷"
     },
     "ja": {
-      "title": "すべてがアンロック – お得に",
-      "subtitle": "すべてがアンロック – お得に"
+      "title": "ピンクトーバー — 今すぐケア",
+      "subtitle": "ピンクトーバー — 今すぐケア"
     },
     "ko": {
-      "title": "모든 기능 잠금 해제 – 더 저렴하게",
-      "subtitle": "모든 기능 잠금 해제 – 더 저렴하게"
+      "title": "핑크 10월 — 지금 관리 시작",
+      "subtitle": "핑크 10월 — 지금 관리 시작"
     },
     "da": {
-      "title": "Alt låst op – til mindre pris",
-      "subtitle": "Alt låst op – til mindre pris"
+      "title": "Pink Okt. — Start Pleje Nu",
+      "subtitle": "Pink Okt. — Start Pleje Nu"
     },
     "es": {
-      "title": "Todo Desbloqueado – Por Menos",
-      "subtitle": "Todo Desbloqueado – Por Menos"
+      "title": "Octubre Rosa — Cuídate Ahora",
+      "subtitle": "Octubre Rosa — Cuídate Ahora"
     },
     "nl": {
-      "title": "Alles Ontgrendeld – Voor Minder",
-      "subtitle": "Alles Ontgrendeld – Voor Minder"
+      "title": "Pink Okt. Deal — Start Nu",
+      "subtitle": "Pink Okt. Deal — Start Nu"
     },
     "fi": {
-      "title": "Kaikki avattu – edullisemmin",
-      "subtitle": "Kaikki avattu – edullisemmin"
+      "title": "Pink Okt. — Aloita Hoito Nyt",
+      "subtitle": "Pink Okt. — Aloita Hoito Nyt"
     },
     "ro": {
-      "title": "Totul deblocat – pentru mai puțin",
-      "subtitle": "Totul deblocat – pentru mai puțin"
+      "title": "Octombrie Pink — Începe Acum",
+      "subtitle": "Octombrie Pink — Începe Acum"
     },
     "uk": {
-      "title": "Все розблоковано – за меншу ціну",
-      "subtitle": "Все розблоковано – за меншу ціну"
+      "title": "Рож. Жовт. — Турбота вже Зараз",
+      "subtitle": "Рож. Жовт. — Турбота вже Зараз"
     }
   }
 }
