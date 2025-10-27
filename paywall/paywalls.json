@@ -21,21 +21,21 @@
         "priceID": 8
     },
     {
-        "name": "[OCTOBER I] Campaign",
+        "name": "[OCTOBER II] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "paywall_seasonal",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Template 2 (With Last Chance)",
+                "name": "Halloween",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "Template 4 (Without Last Chance)",
+                "name": "Movement",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",

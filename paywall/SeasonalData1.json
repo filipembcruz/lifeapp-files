@@ -1,54 +1,55 @@
 {
   "animation_height": 0,
   "background_color": [
-    "#FFFFFF"
+    "#181123"
   ],
-  "background_height": 0.46,
+  "background_height": 0.47,
   "background_icon": "",
   "background_icon_position": "right",
-  "background_image": "https://i.ibb.co/DHz9dRwF/october-I-bg.png",
+  "background_image": "https://i.ibb.co/fd7rQyJ7/bg-halloween.png",
   "badge_background_color": [
-    "#BF675B"
+    "#F43F5E",
+    "#F59E0B"
   ],
-  "badge_border_color": "#BF675B",
+  "badge_border_color": "#F43F5E",
   "badge_position": "right",
   "badge_text": "Best offer",
   "badge_text_color": "#FFFFFF",
-  "close_btn_color": "#964B41",
+  "close_btn_color": "#D25F0B",
   "close_btn_position": "left",
   "close_btn_size": 40,
-  "discount_button_border_color": "#DA9989",
-  "discount_button_color": "#DA9989",
+  "discount_button_border_color": "#181123",
+  "discount_button_color": "#181123",
   "discount_button_text_color": "#FFFFFFF",
   "discount_button_text_size": 20,
-  "discount_margin_top": 24,
+  "discount_margin_top": 0,
   "discount_text": "{{}}% Off",
-  "discount_text_color": "#964B41",
-  "discount_text_description": "to unlock your self-care journey",
+  "discount_text_color": "#FF8C42",
+  "discount_text_description": "No tricks, just care. Unlock calm,\nconfidence, and your best cycle.",
   "discount_text_description_color": [
-    "#8E463B"
+    "#E5E7EB"
   ],
   "discount_text_description_size": 16,
   "discount_text_size": 32,
-  "divider_height": 4,
-  "divider_shape": "<svg width=\"390\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#EACBC1\" d=\"M0 0h43v24H0z\"/><path fill=\"#F0D6D0\" d=\"M347 0h43v24h-43z\"/><path d=\"M0 24C0 10.745 10.745 0 24 0h342c13.255 0 24 10.745 24 24H0Z\" fill=\"#fff\"/></svg>",
+  "divider_height": 0,
+  "divider_shape": "",
   "foreground_color": [
-    "#FFFFFF"
+    "#181123"
   ],
-  "last_chance_cancel_color": "#000000",
+  "last_chance_cancel_color": "#F9FAFB",
   "last_chance_cancel_size": 18,
   "last_chance_cancel_text": "No, I really don't want this",
   "last_chance_image_negative_margin": -180,
-  "last_chance_image_url": "https://i.ibb.co/GQ8v5xRs/october-I-icon.png",
+  "last_chance_image_url": "https://i.ibb.co/DPfV0q21/icon-halloween.png",
   "last_chance_image_width": 0.65,
-  "last_chance_price_text_color": "#000000",
+  "last_chance_price_text_color": "#F9FAFB",
   "last_chance_price_text_size": 16,
   "last_chance_purchase_button_text": "Yes, I deserve this",
   "last_chance_subtitle": "“Best investment in my health!”\nSara, 32",
-  "last_chance_subtitle_color": "#000000",
+  "last_chance_subtitle_color": "#F9FAFB",
   "last_chance_subtitle_size": 20,
   "last_chance_title": "Don't miss out! Unlock your discount",
-  "last_chance_title_color": "#000000",
+  "last_chance_title_color": "#F9FAFB",
   "last_chance_title_size": 20,
   "link_horizontal_space": 16,
   "link_text_color": "#43292E",
@@ -57,243 +58,244 @@
     "life.yearly_2999",
     "life.monthly_free_3_1499"
   ],
-  "pricing_area_margin_bottom": 120,
+  "pricing_area_margin_bottom": 0,
   "purchase_button_color": [
-    "#F28F82"
+    "#F43F5E",
+    "#F59E0B"
   ],
-  "purchase_button_text": "Join the Pink Movement",
+  "purchase_button_text": "Treat Yourself ✨",
   "purchase_button_text_color": "#ffffff",
-  "subscription_option_background_color": "#FFF1EB",
-  "subscription_option_background_color_opacity": 0.01,
-  "subscription_option_border_color": [
-    "#FFF1EB"
+  "subscription_option_background_color": [
+    "#FEF5E7"
   ],
-  "subscription_option_text_color": "#8C3E30",
+  "subscription_option_background_color_opacity": 1,
+  "subscription_option_border_color": [
+    "#FEF5E7"
+  ],
+  "subscription_option_text_color": "#181123",
   "subscription_selected_option_background_color": [
-    "#FFF1EB"
+    "#FEF5E7"
   ],
   "subscription_selected_option_border_color": [
-    "#BF675B"
+    "#F59E0B"
   ],
-  "subscription_selected_option_text_color": "#8C3E30",
+  "subscription_selected_option_text_color": "#181123",
   "template": 2,
-  "title": "  Pink October Offer  ",
+  "title": "Self-Care, Not Scare 🎃",
   "title_color": [
-    "#8C3E30"
+    "#F9FAFB"
   ],
-  "title_margin_top": 0,
   "title_position": "center",
   "title_size": 40,
   "translations": {
     "ar": {
       "badge_text": "أفضل عرض",
       "discount_text": "خصم {{}}٪",
-      "discount_text_description": "لفتح رحلة العناية الذاتية",
+      "discount_text_description": "لا خدع، فقط اهتمام. افتحي الهدوء\nوالثقة، وأفضل دورة لديك.",
       "last_chance_cancel_text": "لا، لا أريد هذا حقًا",
       "last_chance_purchase_button_text": "نعم، أنا أستحق هذا",
       "last_chance_subtitle": "«أفضل استثمار في صحتي!»\nفاطمة، ٣٢",
       "last_chance_title": "لا تفوتي الفرصة! افتحي خصمك",
-      "purchase_button_text": "انضمي للحركة الوردية",
-      "title": "عرض أكتوبر الوردي"
-    },
-    "da": {
-      "badge_text": "Bedste tilbud",
-      "discount_text": "{{}}% Rabat",
-      "discount_text_description": "for at låse op for din selvplejerejse",
-      "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have dette",
-      "last_chance_purchase_button_text": "Ja, jeg fortjener dette",
-      "last_chance_subtitle": "“Den bedste investering i mit helbred!”\nIda, 32",
-      "last_chance_title": "Gå ikke glip af det! Lås op for din rabat",
-      "purchase_button_text": "Deltag i Pink Movement",
-      "title": "  Pink Oktober Tilbud  "
+      "purchase_button_text": "دلّلي نفسك ✨",
+      "title": "عناية، لا رعب 🎃"
     },
     "de": {
       "badge_text": "Bestes Angebot",
       "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "um deine Selbstpflege-Reise freizuschalten",
+      "discount_text_description": "Keine Tricks, nur Pflege. Schalte Ruhe,\nZuversicht und deinen besten Zyklus frei.",
       "last_chance_cancel_text": "Nein, das möchte ich wirklich nicht",
       "last_chance_purchase_button_text": "Ja, das verdiene ich",
       "last_chance_subtitle": "„Beste Investition in meine Gesundheit!“\nSarah, 32",
       "last_chance_title": "Nicht verpassen! Schalte deinen Rabatt frei",
-      "purchase_button_text": "Mach mit bei Pink",
-      "title": "  Pink-Oktober-Angebot  "
-    },
-    "es": {
-      "badge_text": "Mejor oferta",
-      "discount_text": "{{}}% de Descuento",
-      "discount_text_description": "para desbloquear tu viaje de autocuidado",
-      "last_chance_cancel_text": "No, en realidad no quiero esto",
-      "last_chance_purchase_button_text": "Sí, me lo merezco",
-      "last_chance_subtitle": "“¡La mejor inversión para mi salud!”\nSara, 32",
-      "last_chance_title": "¡No te lo pierdas! Desbloquea tu descuento",
-      "purchase_button_text": "Únete al Movimiento Pink",
-      "title": "  Oferta Octubre Rosa  "
-    },
-    "fi": {
-      "badge_text": "Paras tarjous",
-      "discount_text": "{{}}% Alennus",
-      "discount_text_description": "avataksesi itsehoitomatkasi",
-      "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
-      "last_chance_purchase_button_text": "Kyllä, ansaitsen tämän",
-      "last_chance_subtitle": "“Paras sijoitus terveyteeni!”\nTiina, 32",
-      "last_chance_title": "Älä jää paitsi! Avaa alennuksesi",
-      "purchase_button_text": "Liity Pink Movementiin",
-      "title": "  Pink October Tarjous  "
+      "purchase_button_text": "Gönn dir was ✨",
+      "title": "Pflege, nicht Schrecken 🎃"
     },
     "fr": {
       "badge_text": "Meilleure offre",
       "discount_text": "{{}} % de réduction",
-      "discount_text_description": "pour débloquer votre parcours de soin personnel",
+      "discount_text_description": "Pas de blabla, juste du soin. Débloquez calme,\nconfiance et votre meilleur cycle.",
       "last_chance_cancel_text": "Non, je ne le veux vraiment pas",
       "last_chance_purchase_button_text": "Oui, je le mérite",
       "last_chance_subtitle": "« Le meilleur investissement pour ma santé ! »\nLéa, 32",
       "last_chance_title": "Ne manquez rien ! Débloquez votre réduction",
-      "purchase_button_text": "Rejoindre le Mouvement Rose",
-      "title": "  Offre Octobre Rose  "
+      "purchase_button_text": "Faites-vous plaisir ✨",
+      "title": "Soin, Pas Peur 🎃"
     },
     "it": {
       "badge_text": "Migliore offerta",
       "discount_text": "Sconto del {{}}%",
-      "discount_text_description": "per sbloccare il tuo percorso di self-care",
+      "discount_text_description": "Niente scherzi, solo cura. Sblocca calma,\nfiducia e il tuo ciclo migliore.",
       "last_chance_cancel_text": "No, non lo voglio davvero",
       "last_chance_purchase_button_text": "Sì, me lo merito",
       "last_chance_subtitle": "“Il miglior investimento per la mia salute!”\nGiulia, 32",
       "last_chance_title": "Non perderlo! Sblocca il tuo sconto",
-      "purchase_button_text": "Unisciti al Movimento Rosa",
-      "title": "  Offerta Ottobre Rosa  "
-    },
-    "ja": {
-      "badge_text": "ベストオファー",
-      "discount_text": "{{}}%オフ",
-      "discount_text_description": "でセルフケアの旅をアンロック",
-      "last_chance_cancel_text": "いいえ、本当に必要ありません",
-      "last_chance_purchase_button_text": "はい、これは私に必要です",
-      "last_chance_subtitle": "「私の健康への最高の投資です！」\n咲希、32歳",
-      "last_chance_title": "お見逃しなく！割引をアンロック",
-      "purchase_button_text": "ピンク運動に参加する",
-      "title": "  ピンクトーバー・オファー  "
-    },
-    "ko": {
-      "badge_text": "최고의 혜택",
-      "discount_text": "{{}}% 할인",
-      "discount_text_description": "으로 자기 관리 여정 잠금 해제",
-      "last_chance_cancel_text": "아니요, 정말 원하지 않습니다",
-      "last_chance_purchase_button_text": "예, 전 이걸 누릴 자격이 있어요",
-      "last_chance_subtitle": "“제 건강에 대한 최고의 투자예요!”\n지은, 32",
-      "last_chance_title": "놓치지 마세요! 할인 잠금 해제",
-      "purchase_button_text": "핑크 무브먼트 참여",
-      "title": "  핑크 10월 혜택  "
+      "purchase_button_text": "Regalati cura ✨",
+      "title": "Cura, non Paura 🎃"
     },
     "nb": {
       "badge_text": "Beste tilbud",
       "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "for å låse opp din egenomsorgsreise",
+      "discount_text_description": "Ingen triks, bare omsorg. Lås opp ro,\nselvtillit og din beste syklus.",
       "last_chance_cancel_text": "Nei, jeg vil virkelig ikke ha dette",
       "last_chance_purchase_button_text": "Ja, jeg fortjener dette",
       "last_chance_subtitle": "«Beste investering i min helse!»\nNora, 32",
       "last_chance_title": "Ikke gå glipp av det! Lås opp rabatten din",
-      "purchase_button_text": "Bli med i Pink Movement",
-      "title": "  Rosa Oktober Tilbud  "
-    },
-    "nl": {
-      "badge_text": "Beste aanbieding",
-      "discount_text": "{{}}% korting",
-      "discount_text_description": "om je zelfzorgreis te ontgrendelen",
-      "last_chance_cancel_text": "Nee, ik wil dit echt niet",
-      "last_chance_purchase_button_text": "Ja, ik verdien dit",
-      "last_chance_subtitle": "“De beste investering in mijn gezondheid!”\nLisa, 32",
-      "last_chance_title": "Mis het niet! Ontgrendel je korting",
-      "purchase_button_text": "Sluit je aan bij Pink Movement",
-      "title": "  Pink Oktober Aanbieding  "
+      "purchase_button_text": "Unn deg selv ✨",
+      "title": "Egenomsorg, Ikke Skrekk 🎃"
     },
     "pt_BR": {
       "badge_text": "Melhor oferta",
       "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "para desbloquear sua jornada de autocuidado",
+      "discount_text_description": "Sem truques, só cuidado. Desbloqueie\ncalma, confiança e seu melhor ciclo.",
       "last_chance_cancel_text": "Não, eu realmente não quero isso",
       "last_chance_purchase_button_text": "Sim, eu mereço isso",
       "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nMaria, 32",
       "last_chance_title": "Não perca! Desbloqueie seu desconto",
-      "purchase_button_text": "Participe do Movimento Pink",
-      "title": "  Oferta Outubro Rosa  "
+      "purchase_button_text": "Mime-se ✨",
+      "title": "Autocuidado, Sem Susto 🎃"
     },
     "pt_PT": {
       "badge_text": "Melhor oferta",
-      "cancel_text": "Cancele a qualquer momento",
       "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "para desbloquear a tua jornada de autocuidado",
+      "discount_text_description": "Sem truques, só cuidado. Desbloqueia\ncalma, confiança e o teu melhor ciclo.",
       "last_chance_cancel_text": "Não, eu realmente não quero isto",
       "last_chance_purchase_button_text": "Sim, eu mereço isto",
       "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nAna, 32",
       "last_chance_title": "Não percas! Desbloqueia o teu desconto",
-      "purchase_button_text": "Junta-te ao Movimento Pink",
-      "title": "  Oferta Outubro Rosa  "
-    },
-    "ro": {
-      "badge_text": "Cea mai bună ofertă",
-      "discount_text": "Reducere {{}}%",
-      "discount_text_description": "pentru a debloca călătoria ta de self-care",
-      "last_chance_cancel_text": "Nu, chiar nu vreau asta",
-      "last_chance_purchase_button_text": "Da, merit asta",
-      "last_chance_subtitle": "„Cea mai bună investiție în sănătatea mea!”\nMaria, 32",
-      "last_chance_title": "Nu rata! Deblochează-ți reducerea",
-      "purchase_button_text": "Alătură-te Mișcării Pink",
-      "title": "  Ofertă Octombrie Pink  "
+      "purchase_button_text": "Mima-te ✨",
+      "title": "Autocuidado, Não Susto 🎃"
     },
     "ru": {
       "badge_text": "Лучшее предложение",
       "discount_text": "Скидка {{}}%",
-      "discount_text_description": "чтобы начать свой путь заботы о себе",
+      "discount_text_description": "Никаких хитростей, только забота. Разблокируй\nспокойствие, уверенность и лучший цикл.",
       "last_chance_cancel_text": "Нет, я действительно этого не хочу",
       "last_chance_purchase_button_text": "Да, я этого заслуживаю",
       "last_chance_subtitle": "«Лучшее вложение в мое здоровье!»\nМария, 32",
       "last_chance_title": "Не пропусти! Разблокируй свою скидку",
-      "purchase_button_text": "Присоединяйся к Pink",
-      "title": "  Акция Розовый Октябрь  "
+      "purchase_button_text": "Побалуй себя ✨",
+      "title": "Забота, а не Ужас 🎃"
     },
     "sv": {
       "badge_text": "Bästa erbjudandet",
       "discount_text": "{{}}% rabatt",
-      "discount_text_description": "för att låsa upp din resa mot egenvård",
+      "discount_text_description": "Inga knep, bara omtanke. Lås upp lugn,\nsjälvförtroende och din bästa cykel.",
       "last_chance_cancel_text": "Nej, jag vill verkligen inte ha detta",
       "last_chance_purchase_button_text": "Ja, jag förtjänar detta",
       "last_chance_subtitle": "”Bästa investeringen i min hälsa!”\nSara, 32",
       "last_chance_title": "Missa inte! Lås upp din rabatt",
-      "purchase_button_text": "Gå med i Pink Movement",
-      "title": "  Pink Oktober Erbjudande  "
-    },
-    "uk": {
-      "badge_text": "Найкраща пропозиція",
-      "discount_text": "Знижка {{}}%",
-      "discount_text_description": "щоб розблокувати свій шлях самообслуговування",
-      "last_chance_cancel_text": "Ні, я справді цього не хочу",
-      "last_chance_purchase_button_text": "Так, я заслуговую на це",
-      "last_chance_subtitle": "«Найкраща інвестиція в моє здоров'я!»\nМарія, 32",
-      "last_chance_title": "Не пропусти! Розблокуй свою знижку",
-      "purchase_button_text": "Приєднуйся до Pink Movement",
-      "title": "  Акція Рожевий Жовтень  "
+      "purchase_button_text": "Unna dig själv ✨",
+      "title": "Omtanke, Ej Skrämsel 🎃"
     },
     "zh_Hans": {
       "badge_text": "最佳优惠",
       "discount_text": "{{}}% 折扣",
-      "discount_text_description": "解锁您的自我关怀之旅",
+      "discount_text_description": "真诚关怀。解锁平静、自信，\n迎接您的最佳周期。",
       "last_chance_cancel_text": "不，我真的不想要",
       "last_chance_purchase_button_text": "是的，这是我应得的",
       "last_chance_subtitle": "“对我的健康来说是最好的投资！”\n李娜，32岁",
       "last_chance_title": "别错过！解锁你的折扣",
-      "purchase_button_text": "加入粉红运动",
-      "title": "  粉红十月优惠  "
+      "purchase_button_text": "犒劳自己 ✨",
+      "title": "关怀，非惊吓 🎃"
     },
     "zh_Hant": {
       "badge_text": "最佳優惠",
       "discount_text": "折扣{{}}%",
-      "discount_text_description": "解鎖您的自我關懷之旅",
+      "discount_text_description": "真誠關懷。解鎖平靜、自信，\n迎接您的最佳週期。",
       "last_chance_cancel_text": "不，我真的不想要",
       "last_chance_purchase_button_text": "是的，這是我應得的",
       "last_chance_subtitle": "“對我的健康來說是最好的投資！”\n李娜，32歲",
       "last_chance_title": "別錯過！解鎖你的折扣",
-      "purchase_button_text": "加入粉紅運動",
-      "title": "  粉紅十月優惠  "
+      "purchase_button_text": "犒勞自己 ✨",
+      "title": "關懷，非驚嚇 🎃"
+    },
+    "ja": {
+      "badge_text": "ベストオファー",
+      "discount_text": "{{}}%オフ",
+      "discount_text_description": "手抜きなし、ケアのみ。安らぎ、自信、\nそして最高の周期をアンロック。",
+      "last_chance_cancel_text": "いいえ、本当に必要ありません",
+      "last_chance_purchase_button_text": "はい、これは私に必要です",
+      "last_chance_subtitle": "「私の健康への最高の投資です！」\n咲希、32歳",
+      "last_chance_title": "お見逃しなく！割引をアンロック",
+      "purchase_button_text": "ご褒美をどうぞ ✨",
+      "title": "ケアを、恐怖は無し 🎃"
+    },
+    "ko": {
+      "badge_text": "최고의 혜택",
+      "discount_text": "{{}}% 할인",
+      "discount_text_description": "속임수 없이, 오직 케어만. 평온함,\n자신감, 최고의 주기를 경험하세요.",
+      "last_chance_cancel_text": "아니요, 정말 원하지 않습니다",
+      "last_chance_purchase_button_text": "예, 전 이걸 누릴 자격이 있어요",
+      "last_chance_subtitle": "“제 건강에 대한 최고의 투자예요!”\n지은, 32",
+      "last_chance_title": "놓치지 마세요! 할인 잠금 해제",
+      "purchase_button_text": "나에게 주는 선물 ✨",
+      "title": "자기 관리, 노 펌킨 🎃"
+    },
+    "da": {
+      "badge_text": "Bedste tilbud",
+      "discount_text": "{{}}% Rabat",
+      "discount_text_description": "Ingen tricks, kun pleje. Lås op for ro,\nselvtillid og din bedste cyklus.",
+      "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have dette",
+      "last_chance_purchase_button_text": "Ja, jeg fortjener dette",
+      "last_chance_subtitle": "“Den bedste investering i mit helbred!”\nIda, 32",
+      "last_chance_title": "Gå ikke glip af det! Lås op for din rabat",
+      "purchase_button_text": "Forkæl dig selv ✨",
+      "title": "Selvpleje, Ikke Skræk 🎃"
+    },
+    "es": {
+      "badge_text": "Mejor oferta",
+      "discount_text": "{{}}% de Descuento",
+      "discount_text_description": "Sin trucos, solo cuidado. Desbloquea calma,\nconfianza y tu mejor ciclo.",
+      "last_chance_cancel_text": "No, en realidad no quiero esto",
+      "last_chance_purchase_button_text": "Sí, me lo merezco",
+      "last_chance_subtitle": "“¡La mejor inversión para mi salud!”\nSara, 32",
+      "last_chance_title": "¡No te lo pierdas! Desbloquea tu descuento",
+      "purchase_button_text": "Date un capricho ✨",
+      "title": "Cuidado, no Susto 🎃"
+    },
+    "nl": {
+      "badge_text": "Beste aanbieding",
+      "discount_text": "{{}}% korting",
+      "discount_text_description": "Geen trucs, enkel zorg. Ontgrendel rust,\nvertrouwen en je beste cyclus.",
+      "last_chance_cancel_text": "Nee, ik wil dit echt niet",
+      "last_chance_purchase_button_text": "Ja, ik verdien dit",
+      "last_chance_subtitle": "“De beste investering in mijn gezondheid!”\nLisa, 32",
+      "last_chance_title": "Mis het niet! Ontgrendel je korting",
+      "purchase_button_text": "Verwen jezelf ✨",
+      "title": "Zelfzorg, Niet Schrikken 🎃"
+    },
+    "fi": {
+      "badge_text": "Paras tarjous",
+      "discount_text": "{{}}% Alennus",
+      "discount_text_description": "Ei temppuja, vain hoitoa. Avaa rauhallisuus,\nluottamus ja paras kiertosi.",
+      "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
+      "last_chance_purchase_button_text": "Kyllä, ansaitsen tämän",
+      "last_chance_subtitle": "“Paras sijoitus terveyteeni!”\nTiina, 32",
+      "last_chance_title": "Älä jää paitsi! Avaa alennuksesi",
+      "purchase_button_text": "Hemmottele itseäsi ✨",
+      "title": "Itsehoitoa, ei pelkoa 🎃"
+    },
+    "ro": {
+      "badge_text": "Cea mai bună ofertă",
+      "discount_text": "Reducere {{}}%",
+      "discount_text_description": "Fără trucuri, doar grijă. Deblochează calmul,\nîncrederea și cel mai bun ciclu al tău.",
+      "last_chance_cancel_text": "Nu, chiar nu vreau asta",
+      "last_chance_purchase_button_text": "Da, merit asta",
+      "last_chance_subtitle": "„Cea mai bună investiție în sănătatea mea!”\nMaria, 32",
+      "last_chance_title": "Nu rata! Deblochează-ți reducerea",
+      "purchase_button_text": "Răsfață-te ✨",
+      "title": "Grijă, nu Spaimă 🎃"
+    },
+    "uk": {
+      "badge_text": "Найкраща пропозиція",
+      "discount_text": "Знижка {{}}%",
+      "discount_text_description": "Ніяких хитрощів, лише турбота. Розблокуй спокій,\nвпевненість і свій найкращий цикл.",
+      "last_chance_cancel_text": "Ні, я справді цього не хочу",
+      "last_chance_purchase_button_text": "Так, я заслуговую на це",
+      "last_chance_subtitle": "«Найкраща інвестиція в моє здоров'я!»\nМарія, 32",
+      "last_chance_title": "Не пропусти! Розблокуй свою знижку",
+      "purchase_button_text": "Потіш себе ✨",
+      "title": "Турбота, а не Жах 🎃"
     }
   }
 }
