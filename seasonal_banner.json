@@ -1,14 +1,14 @@
 {
-  "title": "Your Self-Care Moment — Starts Today",
-  "subtitle": "Your Self-Care Moment — Starts Today",
-  "title_text_color": "#181123",
-  "subtitle_text_color": "#181123",
+  "title": "Find Your Balance — Starts Today",
+  "subtitle": "Find Your Balance — Starts Today",
+  "title_text_color": "#FFFFFF",
+  "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2025-11-04",
+  "deadline": "2025-11-16",
   "background": {
-    "start_color": "#FFEDE9",
-    "end_color": "#FEF5E7",
+    "start_color": "#2B0A3D",
+    "end_color": "#8C4B8E",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "رعاية ذاتية — تبدأ اليوم",
-      "subtitle": "رعاية ذاتية — تبدأ اليوم"
+      "title": "توازنك يبدأ اليوم",
+      "subtitle": "توازنك يبدأ اليوم"
     },
     "de": {
-      "title": "Selbst-Sorge — Startet Heute",
-      "subtitle": "Selbst-Sorge — Startet Heute"
+      "title": "Finde Balance — Heute Start",
+      "subtitle": "Finde Balance — Heute Start"
     },
     "fr": {
-      "title": "Votre Auto-Soin — Commence Aujourd'hui",
-      "subtitle": "Votre Auto-Soin — Commence Aujourd'hui"
+      "title": "Trouver l'Équilibre — Dès Aujourd'hui",
+      "subtitle": "Trouver l'Équilibre — Dès Aujourd'hui"
     },
     "it": {
-      "title": "La Tua Cura — Inizia Oggi",
-      "subtitle": "La Tua Cura — Inizia Oggi"
+      "title": "Trova Equilibrio — Inizia Oggi",
+      "subtitle": "Trova Equilibrio — Inizia Oggi"
     },
     "nb": {
-      "title": "Din Egenomsorg — Starter I dag",
-      "subtitle": "Din Egenomsorg — Starter I dag"
+      "title": "Finn Din Balanse — Start I Dag",
+      "subtitle": "Finn Din Balanse — Start I Dag"
     },
     "pt_BR": {
-      "title": "Seu Autocuidado — Começa Hoje",
-      "subtitle": "Seu Autocuidado — Começa Hoje"
+      "title": "Seu Equilíbrio — Começa Hoje",
+      "subtitle": "Seu Equilíbrio — Começa Hoje"
     },
     "pt_PT": {
-      "title": "O Teu Autocuidado — Começa Hoje",
-      "subtitle": "O Teu Autocuidado — Começa Hoje"
+      "title": "O Teu Equilíbrio — Começa Hoje",
+      "subtitle": "O Teu Equilíbrio — Começa Hoje"
     },
     "ru": {
-      "title": "Твоя Забота о Себе — Начни Сегодня",
-      "subtitle": "Твоя Забота о Себе — Начни Сегодня"
+      "title": "Найди Баланс — Начни Сейчас",
+      "subtitle": "Найди Баланс — Начни Сейчас"
     },
     "sv": {
-      "title": "Din Själv-Vård — Startar I Dag",
-      "subtitle": "Din Själv-Vård — Startar I Dag"
+      "title": "Hitta Din Balans — Startar Nu",
+      "subtitle": "Hitta Din Balans — Startar Nu"
     },
     "zh_Hans": {
-      "title": "您的自我关怀 — 今天开始",
-      "subtitle": "您的自我关怀 — 今天开始"
+      "title": "找到平衡 — 今天开始",
+      "subtitle": "找到平衡 — 今天开始"
     },
     "zh_Hant": {
-      "title": "您的自我關懷 — 今天開始",
-      "subtitle": "您的自我關懷 — 今天開始"
+      "title": "找到平衡 — 今天開始",
+      "subtitle": "找到平衡 — 今天開始"
     },
     "ja": {
-      "title": "あなたの自己ケア — 今日から開始",
-      "subtitle": "あなたの自己ケア — 今日から開始"
+      "title": "バランス発見 — 今日から開始",
+      "subtitle": "バランス発見 — 今日から開始"
     },
     "ko": {
-      "title": "자기관리 순간 — 오늘 시작",
-      "subtitle": "자기관리 순간 — 오늘 시작"
+      "title": "균형 찾기 — 오늘 시작",
+      "subtitle": "균형 찾기 — 오늘 시작"
     },
     "da": {
-      "title": "Din Selvpleje — Starter I Dag",
-      "subtitle": "Din Selvpleje — Starter I Dag"
+      "title": "Find Din Balance — Start I Dag",
+      "subtitle": "Find Din Balance — Start I Dag"
     },
     "es": {
-      "title": "Tu Autocuidado — Empieza Hoy",
-      "subtitle": "Tu Autocuidado — Empieza Hoy"
+      "title": "Tu Equilibrio — Empieza Hoy",
+      "subtitle": "Tu Equilibrio — Empieza Hoy"
     },
     "nl": {
-      "title": "Jouw Zelfzorg — Start Vandaag",
-      "subtitle": "Jouw Zelfzorg — Start Vandaag"
+      "title": "Vind Je Balans — Start Vandaag",
+      "subtitle": "Vind Je Balans — Start Vandaag"
     },
     "fi": {
-      "title": "Sinun Itsehoito — Alkaa Tänään",
-      "subtitle": "Sinun Itsehoito — Alkaa Tänään"
+      "title": "Löydä Tasapaino — Alkaa Tänään",
+      "subtitle": "Löydä Tasapaino — Alkaa Tänään"
     },
     "ro": {
-      "title": "Îngrijirea Ta — Începe Azi",
-      "subtitle": "Îngrijirea Ta — Începe Azi"
+      "title": "Găsește Echilibrul — Începe Azi",
+      "subtitle": "Găsește Echilibrul — Începe Azi"
     },
     "uk": {
-      "title": "Твоя Самотурбота — Почни Сьогодні",
-      "subtitle": "Твоя Самотурбота — Почни Сьогодні"
+      "title": "Знайди Баланс — Почни Сьогодні",
+      "subtitle": "Знайди Баланс — Почни Сьогодні"
     }
   }
 }

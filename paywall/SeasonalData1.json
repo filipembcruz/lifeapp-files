@@ -1,55 +1,57 @@
 {
   "animation_height": 0,
   "background_color": [
-    "#181123"
+    "#221022"
   ],
-  "background_height": 0.47,
+  "background_height": 0.48,
   "background_icon": "",
   "background_icon_position": "right",
-  "background_image": "https://i.ibb.co/fd7rQyJ7/bg-halloween.png",
+  "background_image": "https://i.ibb.co/7tvB3zGy/bg-dark.png",
   "badge_background_color": [
-    "#F43F5E",
-    "#F59E0B"
+    "#EE2AEF"
   ],
-  "badge_border_color": "#F43F5E",
+  "badge_border_color": "#EE2AEF",
   "badge_position": "right",
   "badge_text": "Best offer",
   "badge_text_color": "#FFFFFF",
-  "close_btn_color": "#D25F0B",
+  "cancel_text": "Cancel anytime",
+  "cancel_text_color": "#0EA73C",
+  "cancel_text_size": 20,
+  "close_btn_color": "#EE2AEF",
   "close_btn_position": "left",
-  "close_btn_size": 40,
-  "discount_button_border_color": "#181123",
-  "discount_button_color": "#181123",
-  "discount_button_text_color": "#FFFFFFF",
+  "close_btn_size": 24,
+  "discount_button_border_color": "#4F3D38",
+  "discount_button_color": "#4F3D38",
+  "discount_button_text_color": "#FEF08A",
   "discount_button_text_size": 20,
   "discount_margin_top": 0,
   "discount_text": "{{}}% Off",
-  "discount_text_color": "#FF8C42",
-  "discount_text_description": "No tricks, just care. Unlock calm,\nconfidence, and your best cycle.",
+  "discount_text_color": "#E5E7EB",
+  "discount_text_description": "November is your moment to reset.\nTrack, rest, and restore your balance.",
   "discount_text_description_color": [
-    "#E5E7EB"
+    "#9CA3AF"
   ],
   "discount_text_description_size": 16,
-  "discount_text_size": 32,
+  "discount_text_size": 31,
   "divider_height": 0,
   "divider_shape": "",
   "foreground_color": [
-    "#181123"
+    "#221022"
   ],
-  "last_chance_cancel_color": "#F9FAFB",
+  "last_chance_cancel_color": "#FFFFFF",
   "last_chance_cancel_size": 18,
   "last_chance_cancel_text": "No, I really don't want this",
-  "last_chance_image_negative_margin": -180,
-  "last_chance_image_url": "https://i.ibb.co/DPfV0q21/icon-halloween.png",
-  "last_chance_image_width": 0.65,
-  "last_chance_price_text_color": "#F9FAFB",
+  "last_chance_image_negative_margin": -150,
+  "last_chance_image_url": "https://i.ibb.co/WpqhCMHx/last-chance.png",
+  "last_chance_image_width": 0.5,
+  "last_chance_price_text_color": "#FFFFFF",
   "last_chance_price_text_size": 16,
-  "last_chance_purchase_button_text": "Yes, I deserve this",
+  "last_chance_purchase_button_text": "Yes, Upgrade & Save",
   "last_chance_subtitle": "“Best investment in my health!”\nSara, 32",
-  "last_chance_subtitle_color": "#F9FAFB",
+  "last_chance_subtitle_color": "#FFFFFF",
   "last_chance_subtitle_size": 20,
   "last_chance_title": "Don't miss out! Unlock your discount",
-  "last_chance_title_color": "#F9FAFB",
+  "last_chance_title_color": "#FFFFFF",
   "last_chance_title_size": 20,
   "link_horizontal_space": 16,
   "link_text_color": "#43292E",
@@ -58,244 +60,267 @@
     "life.yearly_2999",
     "life.monthly_free_3_1499"
   ],
-  "pricing_area_margin_bottom": 0,
+  "pricing_area_margin_bottom": 120,
   "purchase_button_color": [
-    "#F43F5E",
-    "#F59E0B"
+    "#EE2AEF"
   ],
-  "purchase_button_text": "Treat Yourself ✨",
+  "purchase_button_text": "Start Your Reset",
   "purchase_button_text_color": "#ffffff",
-  "subscription_option_background_color": [
-    "#FEF5E7"
-  ],
-  "subscription_option_background_color_opacity": 1,
+  "subscription_option_background_color": "#221D2D",
+  "subscription_option_background_color_opacity": 0.01,
   "subscription_option_border_color": [
-    "#FEF5E7"
+    "#374151"
   ],
-  "subscription_option_text_color": "#181123",
+  "subscription_option_text_color": "#FFFFFF",
   "subscription_selected_option_background_color": [
-    "#FEF5E7"
+    "#3D294D"
   ],
   "subscription_selected_option_border_color": [
-    "#F59E0B"
+    "#A78BFA"
   ],
-  "subscription_selected_option_text_color": "#181123",
+  "subscription_selected_option_text_color": "#FFFFFF",
+  "subtitle": "",
+  "subtitle_color": [
+    "#E1356E"
+  ],
+  "subtitle_position": "left",
+  "subtitle_size": 24,
   "template": 2,
-  "title": "Self-Care, Not Scare 🎃",
+  "title": "Reset Your Balance",
   "title_color": [
-    "#F9FAFB"
+    "#FFFFFF"
   ],
+  "title_margin_top": 0,
   "title_position": "center",
-  "title_size": 40,
+  "title_size": 48,
   "translations": {
     "ar": {
       "badge_text": "أفضل عرض",
+      "cancel_text": "إلغاء في أي وقت",
       "discount_text": "خصم {{}}٪",
-      "discount_text_description": "لا خدع، فقط اهتمام. افتحي الهدوء\nوالثقة، وأفضل دورة لديك.",
+      "discount_text_description": "نوفمبر هو لحظتك لإعادة التوازن.\nتتبعي، ارتاحي، واستعيدي توازنك.",
       "last_chance_cancel_text": "لا، لا أريد هذا حقًا",
-      "last_chance_purchase_button_text": "نعم، أنا أستحق هذا",
+      "last_chance_purchase_button_text": "نعم، قم بالترقية ووفر المال",
       "last_chance_subtitle": "«أفضل استثمار في صحتي!»\nفاطمة، ٣٢",
       "last_chance_title": "لا تفوتي الفرصة! افتحي خصمك",
-      "purchase_button_text": "دلّلي نفسك ✨",
-      "title": "عناية، لا رعب 🎃"
+      "purchase_button_text": "ابدئي إعادة التوازن",
+      "title": "أعيدي توازنك"
     },
     "de": {
       "badge_text": "Bestes Angebot",
+      "cancel_text": "Jederzeit kündbar",
       "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "Keine Tricks, nur Pflege. Schalte Ruhe,\nZuversicht und deinen besten Zyklus frei.",
+      "discount_text_description": "November ist dein Moment für den Neustart. Verfolge,\nruhe dich aus und stelle dein Gleichgewicht wieder her.",
       "last_chance_cancel_text": "Nein, das möchte ich wirklich nicht",
-      "last_chance_purchase_button_text": "Ja, das verdiene ich",
+      "last_chance_purchase_button_text": "Ja, upgraden & sparen",
       "last_chance_subtitle": "„Beste Investition in meine Gesundheit!“\nSarah, 32",
       "last_chance_title": "Nicht verpassen! Schalte deinen Rabatt frei",
-      "purchase_button_text": "Gönn dir was ✨",
-      "title": "Pflege, nicht Schrecken 🎃"
+      "purchase_button_text": "Starte deinen Reset",
+      "title": "Stelle dein Gleichgewicht her"
     },
     "fr": {
       "badge_text": "Meilleure offre",
+      "cancel_text": "Annuler à tout moment",
       "discount_text": "{{}} % de réduction",
-      "discount_text_description": "Pas de blabla, juste du soin. Débloquez calme,\nconfiance et votre meilleur cycle.",
+      "discount_text_description": "Novembre est votre moment de réinitialisation.\nSuivez, reposez-vous et restaurez votre équilibre.",
       "last_chance_cancel_text": "Non, je ne le veux vraiment pas",
-      "last_chance_purchase_button_text": "Oui, je le mérite",
+      "last_chance_purchase_button_text": "Oui, passer à la version supérieure et économiser",
       "last_chance_subtitle": "« Le meilleur investissement pour ma santé ! »\nLéa, 32",
       "last_chance_title": "Ne manquez rien ! Débloquez votre réduction",
-      "purchase_button_text": "Faites-vous plaisir ✨",
-      "title": "Soin, Pas Peur 🎃"
+      "purchase_button_text": "Commencez votre réinitialisation",
+      "title": "Rétablir votre équilibre"
     },
     "it": {
       "badge_text": "Migliore offerta",
+      "cancel_text": "Annulla in qualsiasi momento",
       "discount_text": "Sconto del {{}}%",
-      "discount_text_description": "Niente scherzi, solo cura. Sblocca calma,\nfiducia e il tuo ciclo migliore.",
+      "discount_text_description": "Novembre è il tuo momento per resettare.\nTraccia, riposa e ripristina il tuo equilibrio.",
       "last_chance_cancel_text": "No, non lo voglio davvero",
-      "last_chance_purchase_button_text": "Sì, me lo merito",
+      "last_chance_purchase_button_text": "Sì, aggiorna e risparmia",
       "last_chance_subtitle": "“Il miglior investimento per la mia salute!”\nGiulia, 32",
       "last_chance_title": "Non perderlo! Sblocca il tuo sconto",
-      "purchase_button_text": "Regalati cura ✨",
-      "title": "Cura, non Paura 🎃"
+      "purchase_button_text": "Inizia il tuo reset",
+      "title": "Ripristina il tuo equilibrio"
     },
     "nb": {
       "badge_text": "Beste tilbud",
+      "cancel_text": "Avbryt når som helst",
       "discount_text": "{{}}% Rabatt",
-      "discount_text_description": "Ingen triks, bare omsorg. Lås opp ro,\nselvtillit og din beste syklus.",
+      "discount_text_description": "November er ditt øyeblikk for å nullstille.\nSpor, hvil og gjenopprett balansen din.",
       "last_chance_cancel_text": "Nei, jeg vil virkelig ikke ha dette",
-      "last_chance_purchase_button_text": "Ja, jeg fortjener dette",
+      "last_chance_purchase_button_text": "Ja, oppgrader og spar",
       "last_chance_subtitle": "«Beste investering i min helse!»\nNora, 32",
       "last_chance_title": "Ikke gå glipp av det! Lås opp rabatten din",
-      "purchase_button_text": "Unn deg selv ✨",
-      "title": "Egenomsorg, Ikke Skrekk 🎃"
+      "purchase_button_text": "Start din nullstilling",
+      "title": "Nullstill balansen din"
     },
     "pt_BR": {
       "badge_text": "Melhor oferta",
+      "cancel_text": "Cancele a qualquer momento",
       "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "Sem truques, só cuidado. Desbloqueie\ncalma, confiança e seu melhor ciclo.",
+      "discount_text_description": "Novembro é o seu momento de reset.\nAcompanhe, descanse e restaure seu equilíbrio.",
       "last_chance_cancel_text": "Não, eu realmente não quero isso",
-      "last_chance_purchase_button_text": "Sim, eu mereço isso",
+      "last_chance_purchase_button_text": "Sim, fazer upgrade e economizar",
       "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nMaria, 32",
       "last_chance_title": "Não perca! Desbloqueie seu desconto",
-      "purchase_button_text": "Mime-se ✨",
-      "title": "Autocuidado, Sem Susto 🎃"
+      "purchase_button_text": "Comece seu Reset",
+      "title": "Restaure Seu Equilíbrio"
     },
     "pt_PT": {
       "badge_text": "Melhor oferta",
+      "cancel_text": "Cancele a qualquer momento",
       "discount_text": "{{}}% de Desconto",
-      "discount_text_description": "Sem truques, só cuidado. Desbloqueia\ncalma, confiança e o teu melhor ciclo.",
+      "discount_text_description": "Novembro é o teu momento de reset. Acom-\n-panha, descansa e restaura o teu equilíbrio.",
       "last_chance_cancel_text": "Não, eu realmente não quero isto",
-      "last_chance_purchase_button_text": "Sim, eu mereço isto",
+      "last_chance_purchase_button_text": "Sim, atualizar e poupar",
       "last_chance_subtitle": "“O melhor investimento na minha saúde!”\nAna, 32",
       "last_chance_title": "Não percas! Desbloqueia o teu desconto",
-      "purchase_button_text": "Mima-te ✨",
-      "title": "Autocuidado, Não Susto 🎃"
+      "purchase_button_text": "Começa o teu Reset",
+      "title": "Restabelece o Teu Equilíbrio"
     },
     "ru": {
       "badge_text": "Лучшее предложение",
+      "cancel_text": "Отменить в любое время",
       "discount_text": "Скидка {{}}%",
-      "discount_text_description": "Никаких хитростей, только забота. Разблокируй\nспокойствие, уверенность и лучший цикл.",
+      "discount_text_description": "Ноябрь — твой момент для перезагрузки.\nОтслеживай, отдыхай и восстанавливай свой баланс.",
       "last_chance_cancel_text": "Нет, я действительно этого не хочу",
-      "last_chance_purchase_button_text": "Да, я этого заслуживаю",
+      "last_chance_purchase_button_text": "Да, обновить и сэкономить",
       "last_chance_subtitle": "«Лучшее вложение в мое здоровье!»\nМария, 32",
       "last_chance_title": "Не пропусти! Разблокируй свою скидку",
-      "purchase_button_text": "Побалуй себя ✨",
-      "title": "Забота, а не Ужас 🎃"
+      "purchase_button_text": "Начни свою перезагрузку",
+      "title": "Восстанови свой баланс"
     },
     "sv": {
       "badge_text": "Bästa erbjudandet",
+      "cancel_text": "Avbryt när som helst",
       "discount_text": "{{}}% rabatt",
-      "discount_text_description": "Inga knep, bara omtanke. Lås upp lugn,\nsjälvförtroende och din bästa cykel.",
+      "discount_text_description": "November är din stund att återställa.\nSpåra, vila och återställ din balans.",
       "last_chance_cancel_text": "Nej, jag vill verkligen inte ha detta",
-      "last_chance_purchase_button_text": "Ja, jag förtjänar detta",
+      "last_chance_purchase_button_text": "Ja, uppgradera & spara",
       "last_chance_subtitle": "”Bästa investeringen i min hälsa!”\nSara, 32",
       "last_chance_title": "Missa inte! Lås upp din rabatt",
-      "purchase_button_text": "Unna dig själv ✨",
-      "title": "Omtanke, Ej Skrämsel 🎃"
+      "purchase_button_text": "Starta din återställning",
+      "title": "Återställ din balans"
     },
     "zh_Hans": {
       "badge_text": "最佳优惠",
+      "cancel_text": "随时取消",
       "discount_text": "{{}}% 折扣",
-      "discount_text_description": "真诚关怀。解锁平静、自信，\n迎接您的最佳周期。",
+      "discount_text_description": "十一月是您重置的时刻。\n跟踪、休息，恢复您的平衡。",
       "last_chance_cancel_text": "不，我真的不想要",
-      "last_chance_purchase_button_text": "是的，这是我应得的",
+      "last_chance_purchase_button_text": "是的，立即升级并省钱",
       "last_chance_subtitle": "“对我的健康来说是最好的投资！”\n李娜，32岁",
       "last_chance_title": "别错过！解锁你的折扣",
-      "purchase_button_text": "犒劳自己 ✨",
-      "title": "关怀，非惊吓 🎃"
+      "purchase_button_text": "开始您的重置",
+      "title": "重置您的平衡"
     },
     "zh_Hant": {
       "badge_text": "最佳優惠",
+      "cancel_text": "隨時取消",
       "discount_text": "折扣{{}}%",
-      "discount_text_description": "真誠關懷。解鎖平靜、自信，\n迎接您的最佳週期。",
+      "discount_text_description": "十一月是您重置的時刻。\n追蹤、休息，恢復您的平衡。",
       "last_chance_cancel_text": "不，我真的不想要",
-      "last_chance_purchase_button_text": "是的，這是我應得的",
+      "last_chance_purchase_button_text": "是的，立即升級並省錢",
       "last_chance_subtitle": "“對我的健康來說是最好的投資！”\n李娜，32歲",
       "last_chance_title": "別錯過！解鎖你的折扣",
-      "purchase_button_text": "犒勞自己 ✨",
-      "title": "關懷，非驚嚇 🎃"
+      "purchase_button_text": "開始您的重置",
+      "title": "重置您的平衡"
     },
     "ja": {
       "badge_text": "ベストオファー",
+      "cancel_text": "いつでもキャンセル可能",
       "discount_text": "{{}}%オフ",
-      "discount_text_description": "手抜きなし、ケアのみ。安らぎ、自信、\nそして最高の周期をアンロック。",
+      "discount_text_description": "11月はリセットのチャンス。\n追跡し、休み、バランスを回復しましょう。",
       "last_chance_cancel_text": "いいえ、本当に必要ありません",
-      "last_chance_purchase_button_text": "はい、これは私に必要です",
+      "last_chance_purchase_button_text": "はい、アップグレードしてお得に",
       "last_chance_subtitle": "「私の健康への最高の投資です！」\n咲希、32歳",
       "last_chance_title": "お見逃しなく！割引をアンロック",
-      "purchase_button_text": "ご褒美をどうぞ ✨",
-      "title": "ケアを、恐怖は無し 🎃"
+      "purchase_button_text": "リセットを開始",
+      "title": "バランスをリセット"
     },
     "ko": {
       "badge_text": "최고의 혜택",
+      "cancel_text": "언제든지 취소",
       "discount_text": "{{}}% 할인",
-      "discount_text_description": "속임수 없이, 오직 케어만. 평온함,\n자신감, 최고의 주기를 경험하세요.",
+      "discount_text_description": "11월은 당신의 리셋 순간입니다.\n추적하고, 쉬고, 균형을 회복하세요.",
       "last_chance_cancel_text": "아니요, 정말 원하지 않습니다",
-      "last_chance_purchase_button_text": "예, 전 이걸 누릴 자격이 있어요",
+      "last_chance_purchase_button_text": "예, 업그레이드하고 할인받기",
       "last_chance_subtitle": "“제 건강에 대한 최고의 투자예요!”\n지은, 32",
       "last_chance_title": "놓치지 마세요! 할인 잠금 해제",
-      "purchase_button_text": "나에게 주는 선물 ✨",
-      "title": "자기 관리, 노 펌킨 🎃"
+      "purchase_button_text": "리셋 시작",
+      "title": "균형을 재설정하세요"
     },
     "da": {
       "badge_text": "Bedste tilbud",
+      "cancel_text": "Annuller når som helst",
       "discount_text": "{{}}% Rabat",
-      "discount_text_description": "Ingen tricks, kun pleje. Lås op for ro,\nselvtillid og din bedste cyklus.",
+      "discount_text_description": "November er dit øjeblik for nulstilling.\nSpor, hvil, og genopret din balance.",
       "last_chance_cancel_text": "Nej, jeg vil virkelig ikke have dette",
-      "last_chance_purchase_button_text": "Ja, jeg fortjener dette",
+      "last_chance_purchase_button_text": "Ja, opgrader og spar",
       "last_chance_subtitle": "“Den bedste investering i mit helbred!”\nIda, 32",
       "last_chance_title": "Gå ikke glip af det! Lås op for din rabat",
-      "purchase_button_text": "Forkæl dig selv ✨",
-      "title": "Selvpleje, Ikke Skræk 🎃"
+      "purchase_button_text": "Start din nulstilling",
+      "title": "Nulstil din balance"
     },
     "es": {
       "badge_text": "Mejor oferta",
+      "cancel_text": "Cancela cuando quieras",
       "discount_text": "{{}}% de Descuento",
-      "discount_text_description": "Sin trucos, solo cuidado. Desbloquea calma,\nconfianza y tu mejor ciclo.",
+      "discount_text_description": "Noviembre es tu momento para el reset.\nRastrea, descansa y restaura tu equilibrio.",
       "last_chance_cancel_text": "No, en realidad no quiero esto",
-      "last_chance_purchase_button_text": "Sí, me lo merezco",
+      "last_chance_purchase_button_text": "Sí, actualizar y ahorrar",
       "last_chance_subtitle": "“¡La mejor inversión para mi salud!”\nSara, 32",
       "last_chance_title": "¡No te lo pierdas! Desbloquea tu descuento",
-      "purchase_button_text": "Date un capricho ✨",
-      "title": "Cuidado, no Susto 🎃"
+      "purchase_button_text": "Empieza tu Reset",
+      "title": "Restablece tu Equilibrio"
     },
     "nl": {
       "badge_text": "Beste aanbieding",
+      "cancel_text": "Annuleer op elk moment",
       "discount_text": "{{}}% korting",
-      "discount_text_description": "Geen trucs, enkel zorg. Ontgrendel rust,\nvertrouwen en je beste cyclus.",
+      "discount_text_description": "November is jouw moment om te resetten.\nVolg, rust en herstel je balans.",
       "last_chance_cancel_text": "Nee, ik wil dit echt niet",
-      "last_chance_purchase_button_text": "Ja, ik verdien dit",
+      "last_chance_purchase_button_text": "Ja, upgraden & besparen",
       "last_chance_subtitle": "“De beste investering in mijn gezondheid!”\nLisa, 32",
       "last_chance_title": "Mis het niet! Ontgrendel je korting",
-      "purchase_button_text": "Verwen jezelf ✨",
-      "title": "Zelfzorg, Niet Schrikken 🎃"
+      "purchase_button_text": "Start je Reset",
+      "title": "Herstel je balans"
     },
     "fi": {
       "badge_text": "Paras tarjous",
+      "cancel_text": "Peruuta milloin tahansa",
       "discount_text": "{{}}% Alennus",
-      "discount_text_description": "Ei temppuja, vain hoitoa. Avaa rauhallisuus,\nluottamus ja paras kiertosi.",
+      "discount_text_description": "Marraskuu on hetkesi nollata.\nSeuraa, lepää ja palauta tasapainosi.",
       "last_chance_cancel_text": "Ei, en todellakaan halua tätä",
-      "last_chance_purchase_button_text": "Kyllä, ansaitsen tämän",
+      "last_chance_purchase_button_text": "Kyllä, päivitä ja säästä",
       "last_chance_subtitle": "“Paras sijoitus terveyteeni!”\nTiina, 32",
       "last_chance_title": "Älä jää paitsi! Avaa alennuksesi",
-      "purchase_button_text": "Hemmottele itseäsi ✨",
-      "title": "Itsehoitoa, ei pelkoa 🎃"
+      "purchase_button_text": "Aloita nollaus",
+      "title": "Nollaa tasapainosi"
     },
     "ro": {
       "badge_text": "Cea mai bună ofertă",
+      "cancel_text": "Anulează oricând",
       "discount_text": "Reducere {{}}%",
-      "discount_text_description": "Fără trucuri, doar grijă. Deblochează calmul,\nîncrederea și cel mai bun ciclu al tău.",
+      "discount_text_description": "Noiembrie este momentul tău de resetare.\nUrmărește, odihnește-te și restabilește-ți echilibrul.",
       "last_chance_cancel_text": "Nu, chiar nu vreau asta",
-      "last_chance_purchase_button_text": "Da, merit asta",
+      "last_chance_purchase_button_text": "Da, actualizează și economisește",
       "last_chance_subtitle": "„Cea mai bună investiție în sănătatea mea!”\nMaria, 32",
       "last_chance_title": "Nu rata! Deblochează-ți reducerea",
-      "purchase_button_text": "Răsfață-te ✨",
-      "title": "Grijă, nu Spaimă 🎃"
+      "purchase_button_text": "Începe Resetarea Ta",
+      "title": "Resetează-ți Echilibrul"
     },
     "uk": {
       "badge_text": "Найкраща пропозиція",
+      "cancel_text": "Скасувати в будь-який час",
       "discount_text": "Знижка {{}}%",
-      "discount_text_description": "Ніяких хитрощів, лише турбота. Розблокуй спокій,\nвпевненість і свій найкращий цикл.",
+      "discount_text_description": "Листопад — твій момент для перезавантаження.\nВідстежуй, відпочивай і відновлюй свій баланс.",
       "last_chance_cancel_text": "Ні, я справді цього не хочу",
-      "last_chance_purchase_button_text": "Так, я заслуговую на це",
+      "last_chance_purchase_button_text": "Так, оновити та заощадити",
       "last_chance_subtitle": "«Найкраща інвестиція в моє здоров'я!»\nМарія, 32",
       "last_chance_title": "Не пропусти! Розблокуй свою знижку",
-      "purchase_button_text": "Потіш себе ✨",
-      "title": "Турбота, а не Жах 🎃"
+      "purchase_button_text": "Почни своє перезавантаження",
+      "title": "Віднови свій баланс"
     }
   }
 }

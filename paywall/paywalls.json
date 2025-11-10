@@ -21,21 +21,21 @@
         "priceID": 8
     },
     {
-        "name": "[OCTOBER II] Campaign",
+        "name": "[NOVEMBER II] Campaign",
         "origin:": "qonversion",
         "type": "seasonal",
         "variable": "paywall_seasonal",
         "priceID": 0,
         "experiment": [
             {
-                "name": "Halloween",
+                "name": "Dark",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData1.json",
                 "priceID": 0
             },
             {
-                "name": "Movement",
+                "name": "Light",
                 "origin:": "git",
                 "type": "seasonal",
                 "variable": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/paywall/SeasonalData2.json",
