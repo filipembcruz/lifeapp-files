@@ -1,14 +1,14 @@
 {
-  "title": "Find Your Balance — Starts Today",
-  "subtitle": "Find Your Balance — Starts Today",
+  "title": "Your Black Friday gift is here ",
+  "subtitle": "Your Black Friday gift is here ",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2025-11-20",
+  "deadline": "2025-11-29",
   "background": {
-    "start_color": "#2B0A3D",
-    "end_color": "#8C4B8E",
+    "start_color": "#B620FF",
+    "end_color": "#5B1DCE",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "توازنك يبدأ اليوم",
-      "subtitle": "توازنك يبدأ اليوم"
+      "title": "هدية الجمعة البيضاء هنا",
+      "subtitle": "هدية الجمعة البيضاء هنا"
     },
     "de": {
-      "title": "Finde Balance — Heute Start",
-      "subtitle": "Finde Balance — Heute Start"
+      "title": "Dein Black Friday Geschenk ist da",
+      "subtitle": "Dein Black Friday Geschenk ist da"
     },
     "fr": {
-      "title": "Trouver l'Équilibre — Dès Aujourd'hui",
-      "subtitle": "Trouver l'Équilibre — Dès Aujourd'hui"
+      "title": "Cadeau Black Friday est ici",
+      "subtitle": "Cadeau Black Friday est ici"
     },
     "it": {
-      "title": "Trova Equilibrio — Inizia Oggi",
-      "subtitle": "Trova Equilibrio — Inizia Oggi"
+      "title": "Il tuo Regalo Black Friday è qui",
+      "subtitle": "Il tuo Regalo Black Friday è qui"
     },
     "nb": {
-      "title": "Finn Din Balanse — Start I Dag",
-      "subtitle": "Finn Din Balanse — Start I Dag"
+      "title": "Din Black Friday-gave er her",
+      "subtitle": "Din Black Friday-gave er her"
     },
     "pt_BR": {
-      "title": "Seu Equilíbrio — Começa Hoje",
-      "subtitle": "Seu Equilíbrio — Começa Hoje"
+      "title": "Seu Presente Black Friday chegou",
+      "subtitle": "Seu Presente Black Friday chegou"
     },
     "pt_PT": {
-      "title": "O Teu Equilíbrio — Começa Hoje",
-      "subtitle": "O Teu Equilíbrio — Começa Hoje"
+      "title": "O teu Presente Black Friday chegou",
+      "subtitle": "O teu Presente Black Friday chegou"
     },
     "ru": {
-      "title": "Найди Баланс — Начни Сейчас",
-      "subtitle": "Найди Баланс — Начни Сейчас"
+      "title": "Твой Black Friday подарок здесь",
+      "subtitle": "Твой Black Friday подарок здесь"
     },
     "sv": {
-      "title": "Hitta Din Balans — Startar Nu",
-      "subtitle": "Hitta Din Balans — Startar Nu"
+      "title": "Din Black Friday-gåva är här",
+      "subtitle": "Din Black Friday-gåva är här"
     },
     "zh_Hans": {
-      "title": "找到平衡 — 今天开始",
-      "subtitle": "找到平衡 — 今天开始"
+      "title": "黑五好礼已送达",
+      "subtitle": "黑五好礼已送达"
     },
     "zh_Hant": {
-      "title": "找到平衡 — 今天開始",
-      "subtitle": "找到平衡 — 今天開始"
+      "title": "黑五好禮已送達",
+      "subtitle": "黑五好禮已送達"
     },
     "ja": {
-      "title": "バランス発見 — 今日から開始",
-      "subtitle": "バランス発見 — 今日から開始"
+      "title": "ブラックフライデーギフトが到着",
+      "subtitle": "ブラックフライデーギフトが到着"
     },
     "ko": {
-      "title": "균형 찾기 — 오늘 시작",
-      "subtitle": "균형 찾기 — 오늘 시작"
+      "title": "블랙프라이데이 선물 도착",
+      "subtitle": "블랙프라이데이 선물 도착"
     },
     "da": {
-      "title": "Find Din Balance — Start I Dag",
-      "subtitle": "Find Din Balance — Start I Dag"
+      "title": "Din Black Friday gave er her",
+      "subtitle": "Din Black Friday gave er her"
     },
     "es": {
-      "title": "Tu Equilibrio — Empieza Hoy",
-      "subtitle": "Tu Equilibrio — Empieza Hoy"
+      "title": "Tu Regalo Black Friday está aquí",
+      "subtitle": "Tu Regalo Black Friday está aquí"
     },
     "nl": {
-      "title": "Vind Je Balans — Start Vandaag",
-      "subtitle": "Vind Je Balans — Start Vandaag"
+      "title": "Jouw Black Friday cadeau is hier",
+      "subtitle": "Jouw Black Friday cadeau is hier"
     },
     "fi": {
-      "title": "Löydä Tasapaino — Alkaa Tänään",
-      "subtitle": "Löydä Tasapaino — Alkaa Tänään"
+      "title": "Black Friday -lahja on täällä",
+      "subtitle": "Black Friday -lahja on täällä"
     },
     "ro": {
-      "title": "Găsește Echilibrul — Începe Azi",
-      "subtitle": "Găsește Echilibrul — Începe Azi"
+      "title": "Cadoul tău de Black Friday e aici",
+      "subtitle": "Cadoul tău de Black Friday e aici"
     },
     "uk": {
-      "title": "Знайди Баланс — Почни Сьогодні",
-      "subtitle": "Знайди Баланс — Почни Сьогодні"
+      "title": "Твій подарунок Black Friday тут",
+      "subtitle": "Твій подарунок Black Friday тут"
     }
   }
 }
