@@ -1,14 +1,14 @@
 {
-  "title": "Your Black Friday gift is here ",
-  "subtitle": "Your Black Friday gift is here ",
+  "title": "Your body deserves this discount",
+  "subtitle": "Your body deserves this discount",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2025-12-02",
+  "deadline": "2025-12-12",
   "background": {
-    "start_color": "#B620FF",
-    "end_color": "#5B1DCE",
+    "start_color": "#9E9F8A",
+    "end_color": "#637F73",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "هدية الجمعة البيضاء هنا",
-      "subtitle": "هدية الجمعة البيضاء هنا"
+      "title": "جسمك يستحق هذا الخصم",
+      "subtitle": "جسمك يستحق هذا الخصم"
     },
     "de": {
-      "title": "Dein Black Friday Geschenk ist da",
-      "subtitle": "Dein Black Friday Geschenk ist da"
+      "title": "Dein Körper verdient diesen Rabatt",
+      "subtitle": "Dein Körper verdient diesen Rabatt"
     },
     "fr": {
-      "title": "Cadeau Black Friday est ici",
-      "subtitle": "Cadeau Black Friday est ici"
+      "title": "Votre corps mérite cette réduction",
+      "subtitle": "Votre corps mérite cette réduction"
     },
     "it": {
-      "title": "Il tuo Regalo Black Friday è qui",
-      "subtitle": "Il tuo Regalo Black Friday è qui"
+      "title": "Il tuo corpo merita lo sconto",
+      "subtitle": "Il tuo corpo merita lo sconto"
     },
     "nb": {
-      "title": "Din Black Friday-gave er her",
-      "subtitle": "Din Black Friday-gave er her"
+      "title": "Kroppen din fortjener rabatten",
+      "subtitle": "Kroppen din fortjener rabatten"
     },
     "pt_BR": {
-      "title": "Seu Presente Black Friday chegou",
-      "subtitle": "Seu Presente Black Friday chegou"
+      "title": "Seu corpo merece este desconto",
+      "subtitle": "Seu corpo merece este desconto"
     },
     "pt_PT": {
-      "title": "O teu Presente Black Friday chegou",
-      "subtitle": "O teu Presente Black Friday chegou"
+      "title": "O teu corpo merece este desconto",
+      "subtitle": "O teu corpo merece este desconto"
     },
     "ru": {
-      "title": "Твой Black Friday подарок здесь",
-      "subtitle": "Твой Black Friday подарок здесь"
+      "title": "Твое тело заслужило эту скидку",
+      "subtitle": "Твое тело заслужило эту скидку"
     },
     "sv": {
-      "title": "Din Black Friday-gåva är här",
-      "subtitle": "Din Black Friday-gåva är här"
+      "title": "Din kropp förtjänar rabatten",
+      "subtitle": "Din kropp förtjänar rabatten"
     },
     "zh_Hans": {
-      "title": "黑五好礼已送达",
-      "subtitle": "黑五好礼已送达"
+      "title": "您的身体值得拥有此优惠",
+      "subtitle": "您的身体值得拥有此优惠"
     },
     "zh_Hant": {
-      "title": "黑五好禮已送達",
-      "subtitle": "黑五好禮已送達"
+      "title": "您的身體值得擁有此優惠",
+      "subtitle": "您的身體值得擁有此優惠"
     },
     "ja": {
-      "title": "ブラックフライデーギフトが到着",
-      "subtitle": "ブラックフライデーギフトが到着"
+      "title": "あなたの体にこの割引を",
+      "subtitle": "あなたの体にこの割引を"
     },
     "ko": {
-      "title": "블랙프라이데이 선물 도착",
-      "subtitle": "블랙프라이데이 선물 도착"
+      "title": "당신의 몸은 이 할인을 받을 자격이",
+      "subtitle": "당신의 몸은 이 할인을 받을 자격이"
     },
     "da": {
-      "title": "Din Black Friday gave er her",
-      "subtitle": "Din Black Friday gave er her"
+      "title": "Din krop fortjener denne rabat",
+      "subtitle": "Din krop fortjener denne rabat"
     },
     "es": {
-      "title": "Tu Regalo Black Friday está aquí",
-      "subtitle": "Tu Regalo Black Friday está aquí"
+      "title": "Tu cuerpo merece este descuento",
+      "subtitle": "Tu cuerpo merece este descuento"
     },
     "nl": {
-      "title": "Jouw Black Friday cadeau is hier",
-      "subtitle": "Jouw Black Friday cadeau is hier"
+      "title": "Je lichaam verdient deze korting",
+      "subtitle": "Je lichaam verdient deze korting"
     },
     "fi": {
-      "title": "Black Friday -lahja on täällä",
-      "subtitle": "Black Friday -lahja on täällä"
+      "title": "Kehosi ansaitsee tämän alennuksen",
+      "subtitle": "Kehosi ansaitsee tämän alennuksen"
     },
     "ro": {
-      "title": "Cadoul tău de Black Friday e aici",
-      "subtitle": "Cadoul tău de Black Friday e aici"
+      "title": "Corpul tău merită reducerea",
+      "subtitle": "Corpul tău merită reducerea"
     },
     "uk": {
-      "title": "Твій подарунок Black Friday тут",
-      "subtitle": "Твій подарунок Black Friday тут"
+      "title": "Твоє тіло заслуговує на цю знижку",
+      "subtitle": "Твоє тіло заслуговує на цю знижку"
     }
   }
 }
