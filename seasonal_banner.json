@@ -1,14 +1,14 @@
 {
-  "title": "Your body deserves this discount",
-  "subtitle": "Your body deserves this discount",
+  "title": "Your Christmas surprise. Forever.",
+  "subtitle": "Your Christmas surprise. Forever.",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2025-12-12",
+  "deadline": "2025-12-26",
   "background": {
-    "start_color": "#9E9F8A",
-    "end_color": "#637F73",
+    "start_color": "#0C111D",
+    "end_color": "#1A2340",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "جسمك يستحق هذا الخصم",
-      "subtitle": "جسمك يستحق هذا الخصم"
+      "title": "مفاجأة عيد الميلاد. للأبد.",
+      "subtitle": "مفاجأة عيد الميلاد. للأبد."
     },
     "de": {
-      "title": "Dein Körper verdient diesen Rabatt",
-      "subtitle": "Dein Körper verdient diesen Rabatt"
+      "title": "Deine Weihnachtsüberraschung.",
+      "subtitle": "Deine Weihnachtsüberraschung."
     },
     "fr": {
-      "title": "Votre corps mérite cette réduction",
-      "subtitle": "Votre corps mérite cette réduction"
+      "title": "Ta surprise de Noël. À jamais.",
+      "subtitle": "Ta surprise de Noël. À jamais."
     },
     "it": {
-      "title": "Il tuo corpo merita lo sconto",
-      "subtitle": "Il tuo corpo merita lo sconto"
+      "title": "Sorpresa di Natale. Per sempre.",
+      "subtitle": "Sorpresa di Natale. Per sempre."
     },
     "nb": {
-      "title": "Kroppen din fortjener rabatten",
-      "subtitle": "Kroppen din fortjener rabatten"
+      "title": "Din juleoverraskelse. For alltid",
+      "subtitle": "Din juleoverraskelse. For alltid"
     },
     "pt_BR": {
-      "title": "Seu corpo merece este desconto",
-      "subtitle": "Seu corpo merece este desconto"
+      "title": "Sua surpresa de Natal. Para sempre",
+      "subtitle": "Sua surpresa de Natal. Para sempre"
     },
     "pt_PT": {
-      "title": "O teu corpo merece este desconto",
-      "subtitle": "O teu corpo merece este desconto"
+      "title": "Tua surpresa de Natal. Para Sempre.",
+      "subtitle": "Tua surpresa de Natal. Para Sempre."
     },
     "ru": {
-      "title": "Твое тело заслужило эту скидку",
-      "subtitle": "Твое тело заслужило эту скидку"
+      "title": "Твой подарок к Рождеству. Навсегда",
+      "subtitle": "Твой подарок к Рождеству. Навсегда"
     },
     "sv": {
-      "title": "Din kropp förtjänar rabatten",
-      "subtitle": "Din kropp förtjänar rabatten"
+      "title": "Din julöverraskning. För evigt.",
+      "subtitle": "Din julöverraskning. För evigt."
     },
     "zh_Hans": {
-      "title": "您的身体值得拥有此优惠",
-      "subtitle": "您的身体值得拥有此优惠"
+      "title": "您的圣诞惊喜。永久有效。",
+      "subtitle": "您的圣诞惊喜。永久有效。"
     },
     "zh_Hant": {
-      "title": "您的身體值得擁有此優惠",
-      "subtitle": "您的身體值得擁有此優惠"
+      "title": "您的聖誕驚喜。永久有效。",
+      "subtitle": "您的聖誕驚喜。永久有效。"
     },
     "ja": {
-      "title": "あなたの体にこの割引を",
-      "subtitle": "あなたの体にこの割引を"
+      "title": "クリスマスの驚きを、永遠に。",
+      "subtitle": "クリスマスの驚きを、永遠に。"
     },
     "ko": {
-      "title": "당신의 몸은 이 할인을 받을 자격이",
-      "subtitle": "당신의 몸은 이 할인을 받을 자격이"
+      "title": "당신의 크리스마스 선물. 영원히.",
+      "subtitle": "당신의 크리스마스 선물. 영원히."
     },
     "da": {
-      "title": "Din krop fortjener denne rabat",
-      "subtitle": "Din krop fortjener denne rabat"
+      "title": "Din juleoverraskelse. For altid.",
+      "subtitle": "Din juleoverraskelse. For altid."
     },
     "es": {
-      "title": "Tu cuerpo merece este descuento",
-      "subtitle": "Tu cuerpo merece este descuento"
+      "title": "Tu sorpresa de Navidad. Siempre.",
+      "subtitle": "Tu sorpresa de Navidad. Siempre."
     },
     "nl": {
-      "title": "Je lichaam verdient deze korting",
-      "subtitle": "Je lichaam verdient deze korting"
+      "title": "Jouw kerstverrassing. Voorgoed.",
+      "subtitle": "Jouw kerstverrassing. Voorgoed."
     },
     "fi": {
-      "title": "Kehosi ansaitsee tämän alennuksen",
-      "subtitle": "Kehosi ansaitsee tämän alennuksen"
+      "title": "Jouluyllätyksesi. Ikuisesti.",
+      "subtitle": "Jouluyllätyksesi. Ikuisesti."
     },
     "ro": {
-      "title": "Corpul tău merită reducerea",
-      "subtitle": "Corpul tău merită reducerea"
+      "title": "Surpriza ta de Crăciun. Mereu.",
+      "subtitle": "Surpriza ta de Crăciun. Mereu."
     },
     "uk": {
-      "title": "Твоє тіло заслуговує на цю знижку",
-      "subtitle": "Твоє тіло заслуговує на цю знижку"
+      "title": "Твій різдвяний сюрприз. Назавжди",
+      "subtitle": "Твій різдвяний сюрприз. Назавжди"
     }
   }
 }
