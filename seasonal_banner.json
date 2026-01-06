@@ -1,14 +1,14 @@
 {
-  "title": "Your Christmas surprise. Forever.",
-  "subtitle": "Your Christmas surprise. Forever.",
+  "title": "Your New Year's surprise. Forever.",
+  "subtitle": "Your New Year's surprise. Forever.",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2025-12-29",
+  "deadline": "2026-01-10",
   "background": {
-    "start_color": "#0C111D",
-    "end_color": "#1A2340",
+    "start_color": "#F6A8B6",
+    "end_color": "#FFD7A8",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "مفاجأة عيد الميلاد. للأبد.",
-      "subtitle": "مفاجأة عيد الميلاد. للأبد."
+      "title": "مفاجأة رأس السنة. للأبد.",
+      "subtitle": "مفاجأة رأس السنة. للأبد."
     },
     "de": {
-      "title": "Deine Weihnachtsüberraschung.",
-      "subtitle": "Deine Weihnachtsüberraschung."
+      "title": "Deine Neujahrsüberraschung.",
+      "subtitle": "Deine Neujahrsüberraschung."
     },
     "fr": {
-      "title": "Ta surprise de Noël. À jamais.",
-      "subtitle": "Ta surprise de Noël. À jamais."
+      "title": "Surprise du Nouvel An. À jamais.",
+      "subtitle": "Surprise du Nouvel An. À jamais."
     },
     "it": {
-      "title": "Sorpresa di Natale. Per sempre.",
-      "subtitle": "Sorpresa di Natale. Per sempre."
+      "title": "Sorpresa di Capodanno. Per sempre",
+      "subtitle": "Sorpresa di Capodanno. Per sempre"
     },
     "nb": {
-      "title": "Din juleoverraskelse. For alltid",
-      "subtitle": "Din juleoverraskelse. For alltid"
+      "title": "Nyttårsoverraskelse. For alltid.",
+      "subtitle": "Nyttårsoverraskelse. For alltid."
     },
     "pt_BR": {
-      "title": "Sua surpresa de Natal. Para sempre",
-      "subtitle": "Sua surpresa de Natal. Para sempre"
+      "title": "Sua surpresa de Ano Novo. Sempre.",
+      "subtitle": "Sua surpresa de Ano Novo. Sempre."
     },
     "pt_PT": {
-      "title": "Tua surpresa de Natal. Para Sempre.",
-      "subtitle": "Tua surpresa de Natal. Para Sempre."
+      "title": "A tua surpresa de Ano Novo. Sempre",
+      "subtitle": "A tua surpresa de Ano Novo. Sempre"
     },
     "ru": {
-      "title": "Твой подарок к Рождеству. Навсегда",
-      "subtitle": "Твой подарок к Рождеству. Навсегда"
+      "title": "Твой подарок на Новый год. Вечно.",
+      "subtitle": "Твой подарок на Новый год. Вечно."
     },
     "sv": {
-      "title": "Din julöverraskning. För evigt.",
-      "subtitle": "Din julöverraskning. För evigt."
+      "title": "Din nyårsöverraskning. För evigt.",
+      "subtitle": "Din nyårsöverraskning. För evigt."
     },
     "zh_Hans": {
-      "title": "您的圣诞惊喜。永久有效。",
-      "subtitle": "您的圣诞惊喜。永久有效。"
+      "title": "您的新年惊喜。永久有效。",
+      "subtitle": "您的新年惊喜。永久有效。"
     },
     "zh_Hant": {
-      "title": "您的聖誕驚喜。永久有效。",
-      "subtitle": "您的聖誕驚喜。永久有效。"
+      "title": "您的新年驚喜。永久有效。",
+      "subtitle": "您的新年驚喜。永久有效。"
     },
     "ja": {
-      "title": "クリスマスの驚きを、永遠に。",
-      "subtitle": "クリスマスの驚きを、永遠に。"
+      "title": "新年の驚きを、永遠に。",
+      "subtitle": "新年の驚きを、永遠に。"
     },
     "ko": {
-      "title": "당신의 크리스마스 선물. 영원히.",
-      "subtitle": "당신의 크리스마스 선물. 영원히."
+      "title": "당신의 새해 선물. 영원히.",
+      "subtitle": "당신의 새해 선물. 영원히."
     },
     "da": {
-      "title": "Din juleoverraskelse. For altid.",
-      "subtitle": "Din juleoverraskelse. For altid."
+      "title": "Din nytårsoverraskelse. For altid.",
+      "subtitle": "Din nytårsoverraskelse. For altid."
     },
     "es": {
-      "title": "Tu sorpresa de Navidad. Siempre.",
-      "subtitle": "Tu sorpresa de Navidad. Siempre."
+      "title": "Tu sorpresa de Año Nuevo. Siempre.",
+      "subtitle": "Tu sorpresa de Año Nuevo. Siempre."
     },
     "nl": {
-      "title": "Jouw kerstverrassing. Voorgoed.",
-      "subtitle": "Jouw kerstverrassing. Voorgoed."
+      "title": "Jouw nieuwjaarsverrassing. Altijd.",
+      "subtitle": "Jouw nieuwjaarsverrassing. Altijd."
     },
     "fi": {
-      "title": "Jouluyllätyksesi. Ikuisesti.",
-      "subtitle": "Jouluyllätyksesi. Ikuisesti."
+      "title": "Uudenvuoden yllätys. Ikuisesti.",
+      "subtitle": "Uudenvuoden yllätys. Ikuisesti."
     },
     "ro": {
-      "title": "Surpriza ta de Crăciun. Mereu.",
-      "subtitle": "Surpriza ta de Crăciun. Mereu."
+      "title": "Surpriza ta de Anul Nou. Mereu.",
+      "subtitle": "Surpriza ta de Anul Nou. Mereu."
     },
     "uk": {
-      "title": "Твій різдвяний сюрприз. Назавжди",
-      "subtitle": "Твій різдвяний сюрприз. Назавжди"
+      "title": "Твій сюрприз на Новий рік. Назавжди",
+      "subtitle": "Твій сюрприз на Новий рік. Назавжди"
     }
   }
 }
