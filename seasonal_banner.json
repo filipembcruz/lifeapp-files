@@ -1,14 +1,14 @@
 {
-  "title": "Your New Year's surprise. Forever.",
-  "subtitle": "Your New Year's surprise. Forever.",
+  "title": "Hormonal balance, made simple",
+  "subtitle": "Hormonal balance, made simple",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2026-01-14",
+  "deadline": "2026-01-24",
   "background": {
-    "start_color": "#F6A8B6",
-    "end_color": "#FFD7A8",
+    "start_color": "#703886",
+    "end_color": "#B95184",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "مفاجأة رأس السنة. للأبد.",
-      "subtitle": "مفاجأة رأس السنة. للأبد."
+      "title": "توازن هرموني، ببساطة",
+      "subtitle": "توازن هرموني، ببساطة"
     },
     "de": {
-      "title": "Deine Neujahrsüberraschung.",
-      "subtitle": "Deine Neujahrsüberraschung."
+      "title": "Hormonbalance, ganz einfach",
+      "subtitle": "Hormonbalance, ganz einfach"
     },
     "fr": {
-      "title": "Surprise du Nouvel An. À jamais.",
-      "subtitle": "Surprise du Nouvel An. À jamais."
+      "title": "L'équilibre hormonal simple",
+      "subtitle": "L'équilibre hormonal simple"
     },
     "it": {
-      "title": "Sorpresa di Capodanno. Per sempre",
-      "subtitle": "Sorpresa di Capodanno. Per sempre"
+      "title": "Equilibrio ormonale facile",
+      "subtitle": "Equilibrio ormonale facile"
     },
     "nb": {
-      "title": "Nyttårsoverraskelse. For alltid.",
-      "subtitle": "Nyttårsoverraskelse. For alltid."
+      "title": "Hormonbalanse, gjort enkelt",
+      "subtitle": "Hormonbalanse, gjort enkelt"
     },
     "pt_BR": {
-      "title": "Sua surpresa de Ano Novo. Sempre.",
-      "subtitle": "Sua surpresa de Ano Novo. Sempre."
+      "title": "Equilíbrio hormonal simples",
+      "subtitle": "Equilíbrio hormonal simples"
     },
     "pt_PT": {
-      "title": "A tua surpresa de Ano Novo. Sempre",
-      "subtitle": "A tua surpresa de Ano Novo. Sempre"
+      "title": "Equilíbrio hormonal simples",
+      "subtitle": "Equilíbrio hormonal simples"
     },
     "ru": {
-      "title": "Твой подарок на Новый год. Вечно.",
-      "subtitle": "Твой подарок на Новый год. Вечно."
+      "title": "Гормоны в норме — это просто",
+      "subtitle": "Гормоны в норме — это просто"
     },
     "sv": {
-      "title": "Din nyårsöverraskning. För evigt.",
-      "subtitle": "Din nyårsöverraskning. För evigt."
+      "title": "Hormonbalans, på ett enkelt",
+      "subtitle": "Hormonbalans, på ett enkelt"
     },
     "zh_Hans": {
-      "title": "您的新年惊喜。永久有效。",
-      "subtitle": "您的新年惊喜。永久有效。"
+      "title": "激素平衡，简单高效",
+      "subtitle": "激素平衡，简单高效"
     },
     "zh_Hant": {
-      "title": "您的新年驚喜。永久有效。",
-      "subtitle": "您的新年驚喜。永久有效。"
+      "title": "激素平衡，簡單高效",
+      "subtitle": "激素平衡，簡單高效"
     },
     "ja": {
-      "title": "新年の驚きを、永遠に。",
-      "subtitle": "新年の驚きを、永遠に。"
+      "title": "ホルモンバランスを簡単に",
+      "subtitle": "ホルモンバランスを簡単に"
     },
     "ko": {
-      "title": "당신의 새해 선물. 영원히.",
-      "subtitle": "당신의 새해 선물. 영원히."
+      "title": "호르몬 밸런스, 간편하게",
+      "subtitle": "호르몬 밸런스, 간편하게"
     },
     "da": {
-      "title": "Din nytårsoverraskelse. For altid.",
-      "subtitle": "Din nytårsoverraskelse. For altid."
+      "title": "Hormonbalance, helt enkelt",
+      "subtitle": "Hormonbalance, helt enkelt"
     },
     "es": {
-      "title": "Tu sorpresa de Año Nuevo. Siempre.",
-      "subtitle": "Tu sorpresa de Año Nuevo. Siempre."
+      "title": "Equilibrio hormonal simple",
+      "subtitle": "Equilibrio hormonal simple"
     },
     "nl": {
-      "title": "Jouw nieuwjaarsverrassing. Altijd.",
-      "subtitle": "Jouw nieuwjaarsverrassing. Altijd."
+      "title": "Hormoonbalans, simpel",
+      "subtitle": "Hormoonbalans, simpel"
     },
     "fi": {
-      "title": "Uudenvuoden yllätys. Ikuisesti.",
-      "subtitle": "Uudenvuoden yllätys. Ikuisesti."
+      "title": "Hormonitasapaino helposti",
+      "subtitle": "Hormonitasapaino helposti"
     },
     "ro": {
-      "title": "Surpriza ta de Anul Nou. Mereu.",
-      "subtitle": "Surpriza ta de Anul Nou. Mereu."
+      "title": "Echilibru hormonal, simplu",
+      "subtitle": "Echilibru hormonal, simplu"
     },
     "uk": {
-      "title": "Твій сюрприз на Новий рік. Назавжди",
-      "subtitle": "Твій сюрприз на Новий рік. Назавжди"
+      "title": "Гормональний баланс — просто",
+      "subtitle": "Гормональний баланс — просто"
     }
   }
 }
