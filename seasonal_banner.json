@@ -1,14 +1,14 @@
 {
-  "title": "Hormonal balance, made simple",
-  "subtitle": "Hormonal balance, made simple",
-  "title_text_color": "#FFFFFF",
-  "subtitle_text_color": "#FFFFFF",
+  "title": "Your health can’t wait",
+  "subtitle": "Your health can’t wait",
+  "title_text_color": "#151C57",
+  "subtitle_text_color": "#151C57",
   "countdown": true,
   "right_padding": "0",
-  "deadline": "2026-01-27",
+  "deadline": "2026-02-07",
   "background": {
-    "start_color": "#703886",
-    "end_color": "#B95184",
+    "start_color": "#FCAAD1",
+    "end_color": "#FFDE95",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "توازن هرموني، ببساطة",
-      "subtitle": "توازن هرموني، ببساطة"
+      "title": "صحتك لا تنتظر",
+      "subtitle": "صحتك لا تنتظر"
     },
     "de": {
-      "title": "Hormonbalance, ganz einfach",
-      "subtitle": "Hormonbalance, ganz einfach"
+      "title": "Gesundheit wartet nie",
+      "subtitle": "Gesundheit wartet nie"
     },
     "fr": {
-      "title": "L'équilibre hormonal simple",
-      "subtitle": "L'équilibre hormonal simple"
+      "title": "Ta santé n'attend pas",
+      "subtitle": "Ta santé n'attend pas"
     },
     "it": {
-      "title": "Equilibrio ormonale facile",
-      "subtitle": "Equilibrio ormonale facile"
+      "title": "La salute non aspetta",
+      "subtitle": "La salute non aspetta"
     },
     "nb": {
-      "title": "Hormonbalanse, gjort enkelt",
-      "subtitle": "Hormonbalanse, gjort enkelt"
+      "title": "Helsen kan ikke vente",
+      "subtitle": "Helsen kan ikke vente"
     },
     "pt_BR": {
-      "title": "Equilíbrio hormonal simples",
-      "subtitle": "Equilíbrio hormonal simples"
+      "title": "Sua saúde não espera",
+      "subtitle": "Sua saúde não espera"
     },
     "pt_PT": {
-      "title": "Equilíbrio hormonal simples",
-      "subtitle": "Equilíbrio hormonal simples"
+      "title": "A saúde não espera",
+      "subtitle": "A saúde não espera"
     },
     "ru": {
-      "title": "Гормоны в норме — это просто",
-      "subtitle": "Гормоны в норме — это просто"
+      "title": "Здоровье не ждет",
+      "subtitle": "Здоровье не ждет"
     },
     "sv": {
-      "title": "Hormonbalans, på ett enkelt",
-      "subtitle": "Hormonbalans, på ett enkelt"
+      "title": "Hälsan kan inte vänta",
+      "subtitle": "Hälsan kan inte vänta"
     },
     "zh_Hans": {
-      "title": "激素平衡，简单高效",
-      "subtitle": "激素平衡，简单高效"
+      "title": "健康不能等",
+      "subtitle": "健康不能等"
     },
     "zh_Hant": {
-      "title": "激素平衡，簡單高效",
-      "subtitle": "激素平衡，簡單高效"
+      "title": "健康不能等",
+      "subtitle": "健康不能等"
     },
     "ja": {
-      "title": "ホルモンバランスを簡単に",
-      "subtitle": "ホルモンバランスを簡単に"
+      "title": "健康は待ってくれない",
+      "subtitle": "健康は待ってくれない"
     },
     "ko": {
-      "title": "호르몬 밸런스, 간편하게",
-      "subtitle": "호르몬 밸런스, 간편하게"
+      "title": "건강은 기다려주지 않아",
+      "subtitle": "건강은 기다려주지 않아"
     },
     "da": {
-      "title": "Hormonbalance, helt enkelt",
-      "subtitle": "Hormonbalance, helt enkelt"
+      "title": "Helsen kan ikke vente",
+      "subtitle": "Helsen kan ikke vente"
     },
     "es": {
-      "title": "Equilibrio hormonal simple",
-      "subtitle": "Equilibrio hormonal simple"
+      "title": "Tu salud no espera",
+      "subtitle": "Tu salud no espera"
     },
     "nl": {
-      "title": "Hormoonbalans, simpel",
-      "subtitle": "Hormoonbalans, simpel"
+      "title": "Je gezondheid wacht nu",
+      "subtitle": "Je gezondheid wacht nu"
     },
     "fi": {
-      "title": "Hormonitasapaino helposti",
-      "subtitle": "Hormonitasapaino helposti"
+      "title": "Terveys ei odota",
+      "subtitle": "Terveys ei odota"
     },
     "ro": {
-      "title": "Echilibru hormonal, simplu",
-      "subtitle": "Echilibru hormonal, simplu"
+      "title": "Sănătatea nu așteaptă",
+      "subtitle": "Sănătatea nu așteaptă"
     },
     "uk": {
-      "title": "Гормональний баланс — просто",
-      "subtitle": "Гормональний баланс — просто"
+      "title": "Здоров'я не чекає",
+      "subtitle": "Здоров'я не чекає"
     }
   }
 }
