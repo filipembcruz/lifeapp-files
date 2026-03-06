@@ -1,6 +1,6 @@
 {
-  "title": "A special Women's Day price.",
-  "subtitle": "A special Women's Day price.",
+  "title": "Women's Day Sales",
+  "subtitle": "Women's Day Sales",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "سعر خاص بيوم المرأة",
-      "subtitle": "سعر خاص بيوم المرأة"
+      "title": "عروض يوم المرأة",
+      "subtitle": "عروض يوم المرأة"
     },
     "de": {
-      "title": "Spezialpreis zum Frauentag",
-      "subtitle": "Spezialpreis zum Frauentag"
+      "title": "Frauentag-Sales",
+      "subtitle": "Frauentag-Sales"
     },
     "fr": {
-      "title": "Prix spécial Journée Femme",
-      "subtitle": "Prix spécial Journée Femme"
+      "title": "Ventes Jour Femme",
+      "subtitle": "Ventes Jour Femme"
     },
     "it": {
-      "title": "Prezzo speciale Donna",
-      "subtitle": "Prezzo speciale Donna"
+      "title": "Offerte Donna",
+      "subtitle": "Offerte Donna"
     },
     "nb": {
-      "title": "Spesialpris til kvinnedagen",
-      "subtitle": "Spesialpris til kvinnedagen"
+      "title": "Kvinnedag-salg",
+      "subtitle": "Kvinnedag-salg"
     },
     "pt_BR": {
-      "title": "Preço especial Dia da Mulher",
-      "subtitle": "Preço especial Dia da Mulher"
+      "title": "Ofertas Mulher",
+      "subtitle": "Ofertas Mulher"
     },
     "pt_PT": {
-      "title": "Preço especial Dia da Mulher",
-      "subtitle": "Preço especial Dia da Mulher"
+      "title": "Saldos Dia Mulher",
+      "subtitle": "Saldos Dia Mulher"
     },
     "ru": {
-      "title": "Цена к Женскому дню",
-      "subtitle": "Цена к Женскому дню"
+      "title": "Скидки к 8 Марта",
+      "subtitle": "Скидки к 8 Марта"
     },
     "sv": {
-      "title": "Specialpris på kvinnodagen",
-      "subtitle": "Specialpris på kvinnodagen"
+      "title": "Kvinnodagsrea",
+      "subtitle": "Kvinnodagsrea"
     },
     "zh_Hans": {
-      "title": "妇女节特别价格",
-      "subtitle": "妇女节特别价格"
+      "title": "妇女节大促",
+      "subtitle": "妇女节大促"
     },
     "zh_Hant": {
-      "title": "婦女節特別價格",
-      "subtitle": "婦女節特別價格"
+      "title": "婦女節大促",
+      "subtitle": "婦女節大促"
     },
     "ja": {
-      "title": "国際女性デー特別価格",
-      "subtitle": "国際女性デー特別価格"
+      "title": "女性デーセール",
+      "subtitle": "女性デーセール"
     },
     "ko": {
-      "title": "여성의 날 특별가",
-      "subtitle": "여성의 날 특별가"
+      "title": "여성의 날 세일",
+      "subtitle": "여성의 날 세일"
     },
     "da": {
-      "title": "Specialpris til kvindedagen",
-      "subtitle": "Specialpris til kvindedagen"
+      "title": "Kvindedag-salg",
+      "subtitle": "Kvindedag-salg"
     },
     "es": {
-      "title": "Precio especial Día Mujer",
-      "subtitle": "Precio especial Día Mujer"
+      "title": "Ofertas Día Mujer",
+      "subtitle": "Ofertas Día Mujer"
     },
     "nl": {
-      "title": "Speciale prijs Vrouwendag",
-      "subtitle": "Speciale prijs Vrouwendag"
+      "title": "Vrouwendag Sale",
+      "subtitle": "Vrouwendag Sale"
     },
     "fi": {
-      "title": "Naistenpäivän erikoishinta",
-      "subtitle": "Naistenpäivän erikoishinta"
+      "title": "Naistenpäivä-ale",
+      "subtitle": "Naistenpäivä-ale"
     },
     "ro": {
-      "title": "Preț special de Ziua Femeii",
-      "subtitle": "Preț special de Ziua Femeii"
+      "title": "Promoții de Ziua Femeii",
+      "subtitle": "Promoții de Ziua Femeii"
     },
     "uk": {
-      "title": "Ціна до Жіночого дня",
-      "subtitle": "Ціна до Жіночого дня"
+      "title": "Знижки до 8 березня",
+      "subtitle": "Знижки до 8 березня"
     }
   }
 }
