@@ -1,14 +1,14 @@
 {
-  "title": "Get clarity about your symptoms",
-  "subtitle": "Get clarity about your symptoms",
+  "title": "A special Women's Day price.",
+  "subtitle": "A special Women's Day price.",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
-  "right_padding": "16",
-  "deadline": "2026-03-02",
+  "right_padding": "0",
+  "deadline": "2026-03-11",
   "background": {
-    "start_color": "#4B2E83",
-    "end_color": "#4B2E83",
+    "start_color": "#0C111D",
+    "end_color": "#1A2340",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "احصل على توضيح لأعراضك",
-      "subtitle": "احصل على توضيح لأعراضك"
+      "title": "سعر خاص بيوم المرأة",
+      "subtitle": "سعر خاص بيوم المرأة"
     },
     "de": {
-      "title": "Klarheit über Symptome",
-      "subtitle": "Klarheit über Symptome"
+      "title": "Spezialpreis zum Frauentag",
+      "subtitle": "Spezialpreis zum Frauentag"
     },
     "fr": {
-      "title": "Comprenez vos symptômes",
-      "subtitle": "Comprenez vos symptômes"
+      "title": "Prix spécial Journée Femme",
+      "subtitle": "Prix spécial Journée Femme"
     },
     "it": {
-      "title": "Chiarezza sui sintomi",
-      "subtitle": "Chiarezza sui sintomi"
+      "title": "Prezzo speciale Donna",
+      "subtitle": "Prezzo speciale Donna"
     },
     "nb": {
-      "title": "Få klarhet i symptomer",
-      "subtitle": "Få klarhet i symptomer"
+      "title": "Spesialpris til kvinnedagen",
+      "subtitle": "Spesialpris til kvinnedagen"
     },
     "pt_BR": {
-      "title": "Entenda seus sintomas",
-      "subtitle": "Entenda seus sintomas"
+      "title": "Preço especial Dia da Mulher",
+      "subtitle": "Preço especial Dia da Mulher"
     },
     "pt_PT": {
-      "title": "Entenda os seus sintomas",
-      "subtitle": "Entenda os seus sintomas"
+      "title": "Preço especial Dia da Mulher",
+      "subtitle": "Preço especial Dia da Mulher"
     },
     "ru": {
-      "title": "Поймите свои симптомы",
-      "subtitle": "Поймите свои симптомы"
+      "title": "Цена к Женскому дню",
+      "subtitle": "Цена к Женскому дню"
     },
     "sv": {
-      "title": "Få koll på dina symtom",
-      "subtitle": "Få koll på dina symtom"
+      "title": "Specialpris på kvinnodagen",
+      "subtitle": "Specialpris på kvinnodagen"
     },
     "zh_Hans": {
-      "title": "清楚了解您的症状",
-      "subtitle": "清楚了解您的症状"
+      "title": "妇女节特别价格",
+      "subtitle": "妇女节特别价格"
     },
     "zh_Hant": {
-      "title": "清楚了解您的症狀",
-      "subtitle": "清楚了解您的症狀"
+      "title": "婦女節特別價格",
+      "subtitle": "婦女節特別價格"
     },
     "ja": {
-      "title": "症状を詳しく知る",
-      "subtitle": "症状を詳しく知る"
+      "title": "国際女性デー特別価格",
+      "subtitle": "国際女性デー特別価格"
     },
     "ko": {
-      "title": "증상에 대해 알아보세요",
-      "subtitle": "증상에 대해 알아보세요"
+      "title": "여성의 날 특별가",
+      "subtitle": "여성의 날 특별가"
     },
     "da": {
-      "title": "Få klarhed om symptomer",
-      "subtitle": "Få klarhed om symptomer"
+      "title": "Specialpris til kvindedagen",
+      "subtitle": "Specialpris til kvindedagen"
     },
     "es": {
-      "title": "Entiende tus síntomas",
-      "subtitle": "Entiende tus síntomas"
+      "title": "Precio especial Día Mujer",
+      "subtitle": "Precio especial Día Mujer"
     },
     "nl": {
-      "title": "Begrijp je symptomen",
-      "subtitle": "Begrijp je symptomen"
+      "title": "Speciale prijs Vrouwendag",
+      "subtitle": "Speciale prijs Vrouwendag"
     },
     "fi": {
-      "title": "Ymmärrä oireesi",
-      "subtitle": "Ymmärrä oireesi"
+      "title": "Naistenpäivän erikoishinta",
+      "subtitle": "Naistenpäivän erikoishinta"
     },
     "ro": {
-      "title": "Înțelege-ți simptomele",
-      "subtitle": "Înțelege-ți simptomele"
+      "title": "Preț special de Ziua Femeii",
+      "subtitle": "Preț special de Ziua Femeii"
     },
     "uk": {
-      "title": "Зрозумійте свої симптоми",
-      "subtitle": "Зрозумійте свої симптоми"
+      "title": "Ціна до Жіночого дня",
+      "subtitle": "Ціна до Жіночого дня"
     }
   }
 }
