@@ -1,14 +1,14 @@
 {
-  "title": "Women's Day Sales",
-  "subtitle": "Women's Day Sales",
+  "title": "New Season, New Cycle",
+  "subtitle": "New Season, New Cycle",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
-  "right_padding": "0",
-  "deadline": "2026-03-14",
+  "right_padding": "16",
+  "deadline": "2026-03-28",
   "background": {
-    "start_color": "#0C111D",
-    "end_color": "#1A2340",
+    "start_color": "#4B2E83",
+    "end_color": "#4B2E83",
     "direction": "left-to-right"
   },
   "title_font_size": "16",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "عروض يوم المرأة",
-      "subtitle": "عروض يوم المرأة"
+      "title": "موسم جديد، دورة جديدة",
+      "subtitle": "موسم جديد، دورة جديدة"
     },
     "de": {
-      "title": "Frauentag-Sales",
-      "subtitle": "Frauentag-Sales"
+      "title": "Neue Saison, neuer Zyklus",
+      "subtitle": "Neue Saison, neuer Zyklus"
     },
     "fr": {
-      "title": "Ventes Jour Femme",
-      "subtitle": "Ventes Jour Femme"
+      "title": "Saison neuve, cycle neuf",
+      "subtitle": "Saison neuve, cycle neuf"
     },
     "it": {
-      "title": "Offerte Donna",
-      "subtitle": "Offerte Donna"
+      "title": "Nuova stagione e ciclo",
+      "subtitle": "Nuova stagione e ciclo"
     },
     "nb": {
-      "title": "Kvinnedag-salg",
-      "subtitle": "Kvinnedag-salg"
+      "title": "Ny sesong, ny syklus",
+      "subtitle": "Ny sesong, ny syklus"
     },
     "pt_BR": {
-      "title": "Ofertas dia da Mulher",
-      "subtitle": "Ofertas dia da Mulher"
+      "title": "Nova estação, novo ciclo",
+      "subtitle": "Nova estação, novo ciclo"
     },
     "pt_PT": {
-      "title": "Saldos Dia da Mulher",
-      "subtitle": "Saldos Dia da Mulher"
+      "title": "Nova estação, novo ciclo",
+      "subtitle": "Nova estação, novo ciclo"
     },
     "ru": {
-      "title": "Скидки к 8 Марта",
-      "subtitle": "Скидки к 8 Марта"
+      "title": "Новый сезон — новый цикл",
+      "subtitle": "Новый сезон — новый цикл"
     },
     "sv": {
-      "title": "Kvinnodagsrea",
-      "subtitle": "Kvinnodagsrea"
+      "title": "Ny säsong, ny cykel",
+      "subtitle": "Ny säsong, ny cykel"
     },
     "zh_Hans": {
-      "title": "妇女节大促",
-      "subtitle": "妇女节大促"
+      "title": "新季节，新周期",
+      "subtitle": "新季节，新周期"
     },
     "zh_Hant": {
-      "title": "婦女節大促",
-      "subtitle": "婦女節大促"
+      "title": "新季節，新週期",
+      "subtitle": "新季節，新週期"
     },
     "ja": {
-      "title": "女性デーセール",
-      "subtitle": "女性デーセール"
+      "title": "新しい季節、新しいサイクル",
+      "subtitle": "新しい季節、新しいサイクル"
     },
     "ko": {
-      "title": "여성의 날 세일",
-      "subtitle": "여성의 날 세일"
+      "title": "새로운 계절, 새로운 주기",
+      "subtitle": "새로운 계절, 새로운 주기"
     },
     "da": {
-      "title": "Kvindedag-salg",
-      "subtitle": "Kvindedag-salg"
+      "title": "Ny sæson, ny cyklus",
+      "subtitle": "Ny sæson, ny cyklus"
     },
     "es": {
-      "title": "Ofertas Día Mujer",
-      "subtitle": "Ofertas Día Mujer"
+      "title": "Nueva estación y ciclo",
+      "subtitle": "Nueva estação y ciclo"
     },
     "nl": {
-      "title": "Vrouwendag Sale",
-      "subtitle": "Vrouwendag Sale"
+      "title": "Nieuw seizoen, cyclus",
+      "subtitle": "Nieuw seizoen, cyclus"
     },
     "fi": {
-      "title": "Naistenpäivä-ale",
-      "subtitle": "Naistenpäivä-ale"
+      "title": "Uusi kausi, uusi kierto",
+      "subtitle": "Uusi kausi, uusi kierto"
     },
     "ro": {
-      "title": "Promoții de Ziua Femeii",
-      "subtitle": "Promoții de Ziua Femeii"
+      "title": "Sezon nou, ciclu nou",
+      "subtitle": "Sezon nou, ciclu nou"
     },
     "uk": {
-      "title": "Знижки до 8 березня",
-      "subtitle": "Знижки до 8 березня"
+      "title": "Новий сезон — новий цикл",
+      "subtitle": "Новий сезон — новий цикл"
     }
   }
 }
