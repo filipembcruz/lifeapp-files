@@ -1,100 +1,100 @@
 {
-  "title": "Get clarity about your symptoms",
-  "subtitle": "Get clarity about your symptoms",
-  "title_text_color": "#FFFFFF",
-  "subtitle_text_color": "#FFFFFF",
-  "countdown": true,
-  "right_padding": "0",
-  "deadline": "2026-04-18",
-  "background": {
-    "start_color": "#4B2E83",
-    "end_color": "#4B2E83",
-    "direction": "left-to-right"
-  },
-  "title_font_size": "16",
-  "subtitle_font_size": "14",
-  "animation": {
-    "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
-    "width": "80",
-    "height": "80",
-    "right_padding": "8"
-  },
-  "translations": {
-    "ar": {
-      "title": "احصل على توضيح لأعراضك",
-      "subtitle": "احصل على توضيح لأعراضك"
+    "title": "Less stress. More control.",
+    "subtitle": "Less stress. More control.",
+    "title_text_color": "#FFFFFF",
+    "subtitle_text_color": "#FFFFFF",
+    "countdown": true,
+    "right_padding": "0",
+    "deadline": "2026-04-18",
+    "background": {
+        "start_color": "#B24592",
+        "end_color": "#F15F79",
+        "direction": "left-to-right"
     },
-    "de": {
-      "title": "Klarheit über Symptome",
-      "subtitle": "Klarheit über Symptome"
+    "title_font_size": "16",
+    "subtitle_font_size": "14",
+    "animation": {
+        "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
+        "width": "80",
+        "height": "80",
+        "right_padding": "8"
     },
-    "fr": {
-      "title": "Comprenez vos symptômes",
-      "subtitle": "Comprenez vos symptômes"
-    },
-    "it": {
-      "title": "Chiarezza sui sintomi",
-      "subtitle": "Chiarezza sui sintomi"
-    },
-    "nb": {
-      "title": "Få klarhet i symptomer",
-      "subtitle": "Få klarhet i symptomer"
-    },
-    "pt_BR": {
-      "title": "Entenda seus sintomas",
-      "subtitle": "Entenda seus sintomas"
-    },
-    "pt_PT": {
-      "title": "Entenda os seus sintomas",
-      "subtitle": "Entenda os seus sintomas"
-    },
-    "ru": {
-      "title": "Поймите свои симптомы",
-      "subtitle": "Поймите свои симптомы"
-    },
-    "sv": {
-      "title": "Få koll på dina symtom",
-      "subtitle": "Få koll på dina symtom"
-    },
-    "zh_Hans": {
-      "title": "清楚了解您的症状",
-      "subtitle": "清楚了解您的症状"
-    },
-    "zh_Hant": {
-      "title": "清楚了解您的症狀",
-      "subtitle": "清楚了解您的症狀"
-    },
-    "ja": {
-      "title": "症状を詳しく知る",
-      "subtitle": "症状を詳しく知る"
-    },
-    "ko": {
-      "title": "증상에 대해 알아보세요",
-      "subtitle": "증상에 대해 알아보세요"
-    },
-    "da": {
-      "title": "Få klarhed om symptomer",
-      "subtitle": "Få klarhed om symptomer"
-    },
-    "es": {
-      "title": "Entiende tus síntomas",
-      "subtitle": "Entiende tus síntomas"
-    },
-    "nl": {
-      "title": "Begrijp je symptomen",
-      "subtitle": "Begrijp je symptomen"
-    },
-    "fi": {
-      "title": "Ymmärrä oireesi",
-      "subtitle": "Ymmärrä oireesi"
-    },
-    "ro": {
-      "title": "Înțelege-ți simptomele",
-      "subtitle": "Înțelege-ți simptomele"
-    },
-    "uk": {
-      "title": "Зрозумійте свої симптоми",
-      "subtitle": "Зрозумійте свої симптоми"
+    "translations": {
+        "ar": {
+            "title": "قلق أقل. تحكم أكثر.",
+            "subtitle": "قلق أقل. تحكم أكثر."
+        },
+        "de": {
+            "title": "Weniger Stress. Mehr Fokus.",
+            "subtitle": "Weniger Stress. Mehr Fokus."
+        },
+        "fr": {
+            "title": "Moins de stress, le contrôle.",
+            "subtitle": "Moins de stress, le contrôle."
+        },
+        "it": {
+            "title": "Meno stress. Più controllo.",
+            "subtitle": "Meno stress. Più controllo."
+        },
+        "nb": {
+            "title": "Mindre stress. Mer kontroll.",
+            "subtitle": "Mindre stress. Mer kontroll."
+        },
+        "pt_BR": {
+            "title": "Menos estresse. Mais controle.",
+            "subtitle": "Menos estresse. Mais controle."
+        },
+        "pt_PT": {
+            "title": "Menos stresse. Mais controlo.",
+            "subtitle": "Menos stresse. Mais controlo."
+        },
+        "ru": {
+            "title": "Меньше стресса. Контроль.",
+            "subtitle": "Меньше стресса. Контроль."
+        },
+        "sv": {
+            "title": "Mindre stress. Mer koll.",
+            "subtitle": "Mindre stress. Mer koll."
+        },
+        "zh_Hans": {
+            "title": "减缓压力，掌控生活",
+            "subtitle": "减缓压力，掌控生活"
+        },
+        "zh_Hant": {
+            "title": "減緩壓力，掌控生活",
+            "subtitle": "減緩壓力，掌控生活"
+        },
+        "ja": {
+            "title": "ストレスを減らし、管理する",
+            "subtitle": "ストレスを減らし、管理する"
+        },
+        "ko": {
+            "title": "스트레스는 줄고, 관리는 쉽게",
+            "subtitle": "스트레스는 줄고, 관리는 쉽게"
+        },
+        "da": {
+            "title": "Mindre stress. Mere kontrol.",
+            "subtitle": "Mindre stress. Mere kontrol."
+        },
+        "es": {
+            "title": "Menos estrés. Más control.",
+            "subtitle": "Menos estrés. Más control."
+        },
+        "nl": {
+            "title": "Minder stress. Meer grip.",
+            "subtitle": "Minder stress. Meer grip."
+        },
+        "fi": {
+            "title": "Vähemmän stressiä ja hallintaa",
+            "subtitle": "Vähemmän stressiä ja hallintaa"
+        },
+        "ro": {
+            "title": "Mai puțin stres. Control.",
+            "subtitle": "Mai puțin stres. Control."
+        },
+        "uk": {
+            "title": "Менше стресу. Більше контролю.",
+            "subtitle": "Менше стресу. Більше контролю."
+        }
     }
-  }
 }
