@@ -1,11 +1,11 @@
 {
-  "title": "New Season, New Cycle",
-  "subtitle": "New Season, New Cycle",
+  "title": "Get clarity about your symptoms",
+  "subtitle": "Get clarity about your symptoms",
   "title_text_color": "#FFFFFF",
   "subtitle_text_color": "#FFFFFF",
   "countdown": true,
-  "right_padding": "16",
-  "deadline": "2026-04-01",
+  "right_padding": "0",
+  "deadline": "2026-04-18",
   "background": {
     "start_color": "#4B2E83",
     "end_color": "#4B2E83",
@@ -21,80 +21,80 @@
   },
   "translations": {
     "ar": {
-      "title": "موسم جديد، دورة جديدة",
-      "subtitle": "موسم جديد، دورة جديدة"
+      "title": "احصل على توضيح لأعراضك",
+      "subtitle": "احصل على توضيح لأعراضك"
     },
     "de": {
-      "title": "Neue Saison, neuer Zyklus",
-      "subtitle": "Neue Saison, neuer Zyklus"
+      "title": "Klarheit über Symptome",
+      "subtitle": "Klarheit über Symptome"
     },
     "fr": {
-      "title": "Saison neuve, cycle neuf",
-      "subtitle": "Saison neuve, cycle neuf"
+      "title": "Comprenez vos symptômes",
+      "subtitle": "Comprenez vos symptômes"
     },
     "it": {
-      "title": "Nuova stagione e ciclo",
-      "subtitle": "Nuova stagione e ciclo"
+      "title": "Chiarezza sui sintomi",
+      "subtitle": "Chiarezza sui sintomi"
     },
     "nb": {
-      "title": "Ny sesong, ny syklus",
-      "subtitle": "Ny sesong, ny syklus"
+      "title": "Få klarhet i symptomer",
+      "subtitle": "Få klarhet i symptomer"
     },
     "pt_BR": {
-      "title": "Nova estação, novo ciclo",
-      "subtitle": "Nova estação, novo ciclo"
+      "title": "Entenda seus sintomas",
+      "subtitle": "Entenda seus sintomas"
     },
     "pt_PT": {
-      "title": "Nova estação, novo ciclo",
-      "subtitle": "Nova estação, novo ciclo"
+      "title": "Entenda os seus sintomas",
+      "subtitle": "Entenda os seus sintomas"
     },
     "ru": {
-      "title": "Новый сезон — новый цикл",
-      "subtitle": "Новый сезон — новый цикл"
+      "title": "Поймите свои симптомы",
+      "subtitle": "Поймите свои симптомы"
     },
     "sv": {
-      "title": "Ny säsong, ny cykel",
-      "subtitle": "Ny säsong, ny cykel"
+      "title": "Få koll på dina symtom",
+      "subtitle": "Få koll på dina symtom"
     },
     "zh_Hans": {
-      "title": "新季节，新周期",
-      "subtitle": "新季节，新周期"
+      "title": "清楚了解您的症状",
+      "subtitle": "清楚了解您的症状"
     },
     "zh_Hant": {
-      "title": "新季節，新週期",
-      "subtitle": "新季節，新週期"
+      "title": "清楚了解您的症狀",
+      "subtitle": "清楚了解您的症狀"
     },
     "ja": {
-      "title": "新しい季節、新しいサイクル",
-      "subtitle": "新しい季節、新しいサイクル"
+      "title": "症状を詳しく知る",
+      "subtitle": "症状を詳しく知る"
     },
     "ko": {
-      "title": "새로운 계절, 새로운 주기",
-      "subtitle": "새로운 계절, 새로운 주기"
+      "title": "증상에 대해 알아보세요",
+      "subtitle": "증상에 대해 알아보세요"
     },
     "da": {
-      "title": "Ny sæson, ny cyklus",
-      "subtitle": "Ny sæson, ny cyklus"
+      "title": "Få klarhed om symptomer",
+      "subtitle": "Få klarhed om symptomer"
     },
     "es": {
-      "title": "Nueva estación y ciclo",
-      "subtitle": "Nueva estação y ciclo"
+      "title": "Entiende tus síntomas",
+      "subtitle": "Entiende tus síntomas"
     },
     "nl": {
-      "title": "Nieuw seizoen, cyclus",
-      "subtitle": "Nieuw seizoen, cyclus"
+      "title": "Begrijp je symptomen",
+      "subtitle": "Begrijp je symptomen"
     },
     "fi": {
-      "title": "Uusi kausi, uusi kierto",
-      "subtitle": "Uusi kausi, uusi kierto"
+      "title": "Ymmärrä oireesi",
+      "subtitle": "Ymmärrä oireesi"
     },
     "ro": {
-      "title": "Sezon nou, ciclu nou",
-      "subtitle": "Sezon nou, ciclu nou"
+      "title": "Înțelege-ți simptomele",
+      "subtitle": "Înțelege-ți simptomele"
     },
     "uk": {
-      "title": "Новий сезон — новий цикл",
-      "subtitle": "Новий сезон — новий цикл"
+      "title": "Зрозумійте свої симптоми",
+      "subtitle": "Зрозумійте свої симптоми"
     }
   }
 }
