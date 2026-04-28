@@ -21,80 +21,80 @@
     },
     "translations": {
         "ar": {
-            "title": "قلق أقل. تحكم أكثر.",
-            "subtitle": "قلق أقل. تحكم أكثر."
+            "title": "تجديد أبريل: اشعر بتحسن الآن",
+            "subtitle": "تجديد أبريل: اشعر بتحسن الآن"
         },
         "de": {
-            "title": "Weniger Stress. Mehr Fokus.",
-            "subtitle": "Weniger Stress. Mehr Fokus."
+            "title": "April-Reset: Fühl dich besser",
+            "subtitle": "April-Reset: Fühl dich besser"
         },
         "fr": {
-            "title": "Moins de stress, le contrôle.",
-            "subtitle": "Moins de stress, le contrôle."
+            "title": "Reset d'avril : allez mieux",
+            "subtitle": "Reset d'avril : allez mieux"
         },
         "it": {
-            "title": "Meno stress. Più controllo.",
-            "subtitle": "Meno stress. Più controllo."
+            "title": "Reset aprile: senti meglio",
+            "subtitle": "Reset aprile: senti meglio"
         },
         "nb": {
-            "title": "Mindre stress. Mer kontroll.",
-            "subtitle": "Mindre stress. Mer kontroll."
+            "title": "April-omstart: Føl deg bedre",
+            "subtitle": "April-omstart: Føl deg bedre"
         },
         "pt_BR": {
-            "title": "Menos estresse. Mais controle.",
-            "subtitle": "Menos estresse. Mais controle."
+            "title": "Reset de abril: Sinta-se bem",
+            "subtitle": "Reset de abril: Sinta-se bem"
         },
         "pt_PT": {
-            "title": "Menos stresse. Mais controlo.",
-            "subtitle": "Menos stresse. Mais controlo."
+            "title": "Reset de abril: Sente-te bem",
+            "subtitle": "Reset de abril: Sente-te bem"
         },
         "ru": {
-            "title": "Меньше стресса. Контроль.",
-            "subtitle": "Меньше стресса. Контроль."
+            "title": "Апрель: время стать лучше",
+            "subtitle": "Апрель: время стать лучше"
         },
         "sv": {
-            "title": "Mindre stress. Mer koll.",
-            "subtitle": "Mindre stress. Mer koll."
+            "title": "April-reset: Må bättre nu",
+            "subtitle": "April-reset: Må bättre nu"
         },
         "zh_Hans": {
-            "title": "减缓压力，掌控生活",
-            "subtitle": "减缓压力，掌控生活"
+            "title": "四月重塑：现在就感觉更好",
+            "subtitle": "四月重塑：现在就感觉更好"
         },
         "zh_Hant": {
-            "title": "減緩壓力，掌控生活",
-            "subtitle": "減緩壓力，掌控生活"
+            "title": "四月重塑：現在就感覺更好",
+            "subtitle": "四月重塑：現在就感覺更好"
         },
         "ja": {
-            "title": "ストレスを減らし、管理する",
-            "subtitle": "ストレスを減らし、管理する"
+            "title": "4月のリセット：今すぐ快適に",
+            "subtitle": "4月のリセット：今すぐ快適に"
         },
         "ko": {
-            "title": "스트레스는 줄고, 관리는 쉽게",
-            "subtitle": "스트레스는 줄고, 관리는 쉽게"
+            "title": "4월 리셋: 지금 바로 좋아지기",
+            "subtitle": "4월 리셋: 지금 바로 좋아지기"
         },
         "da": {
-            "title": "Mindre stress. Mere kontrol.",
-            "subtitle": "Mindre stress. Mere kontrol."
+            "title": "April-reset: Få det bedre",
+            "subtitle": "April-reset: Få det bedre"
         },
         "es": {
-            "title": "Menos estrés. Más control.",
-            "subtitle": "Menos estrés. Más control."
+            "title": "Reset de abril: Siéntete bien",
+            "subtitle": "Reset de abril: Siéntete bien"
         },
         "nl": {
-            "title": "Minder stress. Meer grip.",
-            "subtitle": "Minder stress. Meer grip."
+            "title": "April Reset: Voel je beter",
+            "subtitle": "April Reset: Voel je beter"
         },
         "fi": {
-            "title": "Vähemmän stressiä ja hallintaa",
-            "subtitle": "Vähemmän stressiä ja hallintaa"
+            "title": "Huhtikuun reset: Voi paremmin",
+            "subtitle": "Huhtikuun reset: Voi paremmin"
         },
         "ro": {
-            "title": "Mai puțin stres. Control.",
-            "subtitle": "Mai puțin stres. Control."
+            "title": "Reset de aprilie: Mai bine",
+            "subtitle": "Reset de aprilie: Mai bine"
         },
         "uk": {
-            "title": "Менше стресу. Більше контролю.",
-            "subtitle": "Менше стресу. Більше контролю."
+            "title": "Квітень: час почуватися краще",
+            "subtitle": "Квітень: час почуватися краще"
         }
     }
 }
