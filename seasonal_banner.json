@@ -1,100 +1,100 @@
 {
-    "title": "April Reset: Feel better, now",
-    "subtitle": "April Reset: Feel better, now",
+    "title": "Smarter Insights For You",
+    "subtitle": "Smarter Insights For You",
     "title_text_color": "#FFFFFF",
     "subtitle_text_color": "#FFFFFF",
     "countdown": true,
     "right_padding": "0",
-    "deadline": "2026-05-05",
+    "deadline": "2026-05-14",
     "background": {
-        "start_color": "#5B1DCE",
-        "end_color": "#B620FF",
+        "start_color": "#AA5FEE",
+        "end_color": "#FD669D",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
     "subtitle_font_size": "14",
     "animation": {
         "type": "https://raw.githubusercontent.com/filipembcruz/lifeapp-files/main/seasonal_banner_animation.json",
-        "width": "150",
+        "width": "80",
         "height": "80",
         "right_padding": "0"
     },
     "translations": {
         "ar": {
-            "title": "تجديد أبريل: اشعر بتحسن الآن",
-            "subtitle": "تجديد أبريل: اشعر بتحسن الآن"
+            "title": "رؤى أذكى من أجلك",
+            "subtitle": "رؤى أذكى من أجلك"
         },
         "de": {
-            "title": "April-Reset: Fühl dich besser",
-            "subtitle": "April-Reset: Fühl dich besser"
+            "title": "Bessere Insights für dich",
+            "subtitle": "Bessere Insights für dich"
         },
         "fr": {
-            "title": "Reset d'avril : allez mieux",
-            "subtitle": "Reset d'avril : allez mieux"
+            "title": "Des analyses plus fines",
+            "subtitle": "Des analyses plus fines"
         },
         "it": {
-            "title": "Reset aprile: senti meglio",
-            "subtitle": "Reset aprile: senti meglio"
+            "title": "Analisi smart per te",
+            "subtitle": "Analisi smart per te"
         },
         "nb": {
-            "title": "April-omstart: Føl deg bedre",
-            "subtitle": "April-omstart: Føl deg bedre"
+            "title": "Smartere innsikt til deg",
+            "subtitle": "Smartere innsikt til deg"
         },
         "pt_BR": {
-            "title": "Reset de abril: Sinta-se bem",
-            "subtitle": "Reset de abril: Sinta-se bem"
+            "title": "Análises mais espertas",
+            "subtitle": "Análises mais espertas"
         },
         "pt_PT": {
-            "title": "Reset de abril: Sente-te bem",
-            "subtitle": "Reset de abril: Sente-te bem"
+            "title": "Análises mais espertas",
+            "subtitle": "Análises mais espertas"
         },
         "ru": {
-            "title": "Апрель: время стать лучше",
-            "subtitle": "Апрель: время стать лучше"
+            "title": "Умные инсайты для вас",
+            "subtitle": "Умные инсайты для вас"
         },
         "sv": {
-            "title": "April-reset: Må bättre nu",
-            "subtitle": "April-reset: Må bättre nu"
+            "title": "Smarta insikter för dig",
+            "subtitle": "Smarta insikter för dig"
         },
         "zh_Hans": {
-            "title": "四月重塑：现在就感觉更好",
-            "subtitle": "四月重塑：现在就感觉更好"
+            "title": "为您提供更智能的见解",
+            "subtitle": "为您提供更智能的见解"
         },
         "zh_Hant": {
-            "title": "四月重塑：現在就感覺更好",
-            "subtitle": "四月重塑：現在就感覺更好"
+            "title": "為您提供更智能的見解",
+            "subtitle": "為您提供更智能的見解"
         },
         "ja": {
-            "title": "4月のリセット：今すぐ快適に",
-            "subtitle": "4月のリセット：今すぐ快適に"
+            "title": "よりスマートな分析を",
+            "subtitle": "よりスマートな分析を"
         },
         "ko": {
-            "title": "4월 리셋: 지금 바로 좋아지기",
-            "subtitle": "4월 리셋: 지금 바로 좋아지기"
+            "title": "당신을 위한 스마트 분석",
+            "subtitle": "당신을 위한 스마트 분석"
         },
         "da": {
-            "title": "April-reset: Få det bedre",
-            "subtitle": "April-reset: Få det bedre"
+            "title": "Smartere indsigt til dig",
+            "subtitle": "Smartere indsigt til dig"
         },
         "es": {
-            "title": "Reset de abril: Siéntete bien",
-            "subtitle": "Reset de abril: Siéntete bien"
+            "title": "Análisis más inteligentes",
+            "subtitle": "Análisis más inteligentes"
         },
         "nl": {
-            "title": "April Reset: Voel je beter",
-            "subtitle": "April Reset: Voel je beter"
+            "title": "Slimmer inzicht voor jou",
+            "subtitle": "Slimmer inzicht voor jou"
         },
         "fi": {
-            "title": "Huhtikuun reset: Voi paremmin",
-            "subtitle": "Huhtikuun reset: Voi paremmin"
+            "title": "Älykkäämpää tietoa sulle",
+            "subtitle": "Älykkäämpää tietoa sulle"
         },
         "ro": {
-            "title": "Reset de aprilie: Mai bine",
-            "subtitle": "Reset de aprilie: Mai bine"
+            "title": "Analiză smart pentru tine",
+            "subtitle": "Analiză smart pentru tine"
         },
         "uk": {
-            "title": "Квітень: час почуватися краще",
-            "subtitle": "Квітень: час почуватися краще"
+            "title": "Розумніші дані для вас",
+            "subtitle": "Розумніші дані для вас"
         }
     }
 }
