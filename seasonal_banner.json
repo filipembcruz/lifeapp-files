@@ -7,8 +7,8 @@
     "right_padding": "0",
     "deadline": "2026-05-28",
     "background": {
-        "start_color": "#1B022A",
-        "end_color": "#02040D",
+        "start_color": "#02040D",
+        "end_color": "#1B022A",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
