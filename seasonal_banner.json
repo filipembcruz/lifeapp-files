@@ -1,14 +1,14 @@
 {
-    "title": "Smarter Insights For You",
-    "subtitle": "Smarter Insights For You",
+    "title": "Period Care Worldwide",
+    "subtitle": "Period Care Worldwide",
     "title_text_color": "#FFFFFF",
     "subtitle_text_color": "#FFFFFF",
     "countdown": true,
     "right_padding": "0",
-    "deadline": "2026-05-19",
+    "deadline": "2026-05-28",
     "background": {
-        "start_color": "#AA5FEE",
-        "end_color": "#FD669D",
+        "start_color": "#1B022A",
+        "end_color": "#02040D",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
@@ -21,80 +21,80 @@
     },
     "translations": {
         "ar": {
-            "title": "رؤى أذكى من أجلك",
-            "subtitle": "رؤى أذكى من أجلك"
+            "title": "رعاية الدورة عالميًا",
+            "subtitle": "رعاية الدورة عالميًا"
         },
         "de": {
-            "title": "Bessere Insights für dich",
-            "subtitle": "Bessere Insights für dich"
+            "title": "Periodenpflege weltweit",
+            "subtitle": "Periodenpflege weltweit"
         },
         "fr": {
-            "title": "Des analyses plus fines",
-            "subtitle": "Des analyses plus fines"
+            "title": "Soin des règles partout",
+            "subtitle": "Soin des règles partout"
         },
         "it": {
-            "title": "Analisi smart per te",
-            "subtitle": "Analisi smart per te"
+            "title": "Cura del ciclo nel mondo",
+            "subtitle": "Cura del ciclo nel mondo"
         },
         "nb": {
-            "title": "Smartere innsikt til deg",
-            "subtitle": "Smartere innsikt til deg"
+            "title": "Menspleie overalt",
+            "subtitle": "Menspleie overalt"
         },
         "pt_BR": {
-            "title": "Análises mais espertas",
-            "subtitle": "Análises mais espertas"
+            "title": "Cuidado menstrual global",
+            "subtitle": "Cuidado menstrual global"
         },
         "pt_PT": {
-            "title": "Análises mais espertas",
-            "subtitle": "Análises mais espertas"
+            "title": "Cuidado menstrual global",
+            "subtitle": "Cuidado menstrual global"
         },
         "ru": {
-            "title": "Умные инсайты для вас",
-            "subtitle": "Умные инсайты для вас"
+            "title": "Забота о цикле в мире",
+            "subtitle": "Забота о цикле в мире"
         },
         "sv": {
-            "title": "Smarta insikter för dig",
-            "subtitle": "Smarta insikter för dig"
+            "title": "Mensvård världen över",
+            "subtitle": "Mensvård världen över"
         },
         "zh_Hans": {
-            "title": "为您提供更智能的见解",
-            "subtitle": "为您提供更智能的见解"
+            "title": "全球经期健康关爱",
+            "subtitle": "全球经期健康关爱"
         },
         "zh_Hant": {
-            "title": "為您提供更智能的見解",
-            "subtitle": "為您提供更智能的見解"
+            "title": "全球經期健康關愛",
+            "subtitle": "全球經期健康關愛"
         },
         "ja": {
-            "title": "よりスマートな分析を",
-            "subtitle": "よりスマートな分析を"
+            "title": "世界中の生理ケアを",
+            "subtitle": "世界中の生理ケアを"
         },
         "ko": {
-            "title": "당신을 위한 스마트 분석",
-            "subtitle": "당신을 위한 스마트 분석"
+            "title": "전 세계 생리 건강 케어",
+            "subtitle": "전 세계 생리 건강 케어"
         },
         "da": {
-            "title": "Smartere indsigt til dig",
-            "subtitle": "Smartere indsigt til dig"
+            "title": "Menspleje overalt",
+            "subtitle": "Menspleje overalt"
         },
         "es": {
-            "title": "Análisis más inteligentes",
-            "subtitle": "Análisis más inteligentes"
+            "title": "Cuidado menstrual global",
+            "subtitle": "Cuidado menstrual global"
         },
         "nl": {
-            "title": "Slimmer inzicht voor jou",
-            "subtitle": "Slimmer inzicht voor jou"
+            "title": "Menstruatiezorg wereld",
+            "subtitle": "Menstruatiezorg wereld"
         },
         "fi": {
-            "title": "Älykkäämpää tietoa sulle",
-            "subtitle": "Älykkäämpää tietoa sulle"
+            "title": "Kuukautishoito kaikkial",
+            "subtitle": "Kuukautishoito kaikkial"
         },
         "ro": {
-            "title": "Analiză smart pentru tine",
-            "subtitle": "Analiză smart pentru tine"
+            "title": "Îngrijire menstruală",
+            "subtitle": "Îngrijire menstruală"
         },
         "uk": {
-            "title": "Розумніші дані для вас",
-            "subtitle": "Розумніші дані для вас"
+            "title": "Турбота про цикл у світі",
+            "subtitle": "Турбота про цикл у світі"
         }
     }
 }
