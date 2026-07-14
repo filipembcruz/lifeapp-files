@@ -1,14 +1,14 @@
 {
-    "title": "Know Your Cycle Better",
-    "subtitle": "Know Your Cycle Better",
-    "title_text_color": "#FFFFFF",
-    "subtitle_text_color": "#FFFFFF",
+    "title": "Limited-time offer.",
+    "subtitle": "Limited-time offer.",
+    "title_text_color": "#222222",
+    "subtitle_text_color": "#222222",
     "countdown": true,
     "right_padding": "0",
-    "deadline": "2026-07-01",
+    "deadline": "2026-07-17",
     "background": {
-        "start_color": "#292B58",
-        "end_color": "#0B0C21",
+        "start_color": "#EE9CA7",
+        "end_color": "#FFDDE1",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
@@ -21,80 +21,80 @@
     },
     "translations": {
         "ar": {
-            "title": "اعرفي دورتك بشكل أفضل",
-            "subtitle": "اعرفي دورتك بشكل أفضل"
+            "title": "عرض لفترة محدودة",
+            "subtitle": "عرض لفترة محدودة"
         },
         "de": {
-            "title": "Kenne deinen Zyklus",
-            "subtitle": "Kenne deinen Zyklus"
+            "title": "Befristetes Angebot",
+            "subtitle": "Befristetes Angebot"
         },
         "fr": {
-            "title": "Comprenez votre cycle",
-            "subtitle": "Comprenez votre cycle"
+            "title": "Offre limitée",
+            "subtitle": "Offre limitée"
         },
         "it": {
-            "title": "Conosci il tuo ciclo",
-            "subtitle": "Conosci il tuo ciclo"
+            "title": "Offerta limitata",
+            "subtitle": "Offerta limitata"
         },
         "nb": {
-            "title": "Kjenn syklusen bedre",
-            "subtitle": "Kjenn syklusen bedre"
+            "title": "Tidsbegrenset tilbud",
+            "subtitle": "Tidsbegrenset tilbud"
         },
         "pt_BR": {
-            "title": "Conheça melhor seu ciclo",
-            "subtitle": "Conheça melhor seu ciclo"
+            "title": "Oferta limitada",
+            "subtitle": "Oferta limitada"
         },
         "pt_PT": {
-            "title": "Conheça melhor seu ciclo",
-            "subtitle": "Conheça melhor seu ciclo"
+            "title": "Oferta limitada",
+            "subtitle": "Oferta limitada"
         },
         "ru": {
-            "title": "Изучите свой цикл",
-            "subtitle": "Изучите свой цикл"
+            "title": "Акция ограничена",
+            "subtitle": "Акция ограничена"
         },
         "sv": {
-            "title": "Lär känna din cykel",
-            "subtitle": "Lär känna din cykel"
+            "title": "Tidsbegränsat erbjud",
+            "subtitle": "Tidsbegränsat erbjud"
         },
         "zh_Hans": {
-            "title": "更好了解您的周期",
-            "subtitle": "更好了解您的周期"
+            "title": "限时特惠",
+            "subtitle": "限时特惠"
         },
         "zh_Hant": {
-            "title": "更好了解您的週期",
-            "subtitle": "更好了解您的週期"
+            "title": "限時特惠",
+            "subtitle": "限時特惠"
         },
         "ja": {
-            "title": "あなたの周期を知る",
-            "subtitle": "あなたの周期を知る"
+            "title": "期間限定オファー",
+            "subtitle": "期間限定オファー"
         },
         "ko": {
-            "title": "당신의 주기를 더 잘 알기",
-            "subtitle": "당신의 주기를 더 잘 알기"
+            "title": "한정 기간 특별 혜택",
+            "subtitle": "한정 기간 특별 혜택"
         },
         "da": {
-            "title": "Kend din cyklus bedre",
-            "subtitle": "Kend din cyklus bedre"
+            "title": "Tidsbegrænset tilbud",
+            "subtitle": "Tidsbegrænset tilbud"
         },
         "es": {
-            "title": "Conoce mejor tu ciclo",
-            "subtitle": "Conoce melhor tu ciclo"
+            "title": "Oferta limitada",
+            "subtitle": "Oferta limitada"
         },
         "nl": {
-            "title": "Ken je cyclus beter",
-            "subtitle": "Ken je cyclus beter"
+            "title": "Tijdelijk aanbod",
+            "subtitle": "Tijdelijk aanbod"
         },
         "fi": {
-            "title": "Tunne kiertosi paremmin",
-            "subtitle": "Tunne kiertosi paremmin"
+            "title": "Rajoitettu tarjous",
+            "subtitle": "Rajoitettu tarjous"
         },
         "ro": {
-            "title": "Cunoaște-ți ciclul",
-            "subtitle": "Cunoaște-ți ciclul"
+            "title": "Ofertă limitată",
+            "subtitle": "Ofertă limitată"
         },
         "uk": {
-            "title": "Пізнайте свій цикл краще",
-            "subtitle": "Пізнайте свій цикл краще"
+            "title": "Обмежена пропозиція",
+            "subtitle": "Обмежена пропозиція"
         }
     }
 }
