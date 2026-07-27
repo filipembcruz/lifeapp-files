@@ -1,14 +1,14 @@
 {
-    "title": "Limited-time offer.",
-    "subtitle": "Limited-time offer.",
-    "title_text_color": "#222222",
-    "subtitle_text_color": "#222222",
+    "title": "Summer Offer",
+    "subtitle": "Summer Offer",
+    "title_text_color": "#FFFFFF",
+    "subtitle_text_color": "#FFFFFF",
     "countdown": true,
     "right_padding": "0",
-    "deadline": "2026-07-21",
+    "deadline": "2026-07-30",
     "background": {
-        "start_color": "#FFDDE1",
-        "end_color": "#EE9CA7",
+        "start_color": "#AA1C41",
+        "end_color": "#5E244E",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
@@ -21,80 +21,80 @@
     },
     "translations": {
         "ar": {
-            "title": "عرض لفترة محدودة",
-            "subtitle": "عرض لفترة محدودة"
+            "title": "عرض الصيف",
+            "subtitle": "عرض الصيف"
         },
         "de": {
-            "title": "Befristetes Angebot",
-            "subtitle": "Befristetes Angebot"
+            "title": "Sommerangebot",
+            "subtitle": "Sommerangebot"
         },
         "fr": {
-            "title": "Offre limitée",
-            "subtitle": "Offre limitée"
+            "title": "Offre d'été",
+            "subtitle": "Offre d'été"
         },
         "it": {
-            "title": "Offerta limitata",
-            "subtitle": "Offerta limitata"
+            "title": "Offerta estiva",
+            "subtitle": "Offerta estiva"
         },
         "nb": {
-            "title": "Tidsbegrenset tilbud",
-            "subtitle": "Tidsbegrenset tilbud"
+            "title": "Sommertilbud",
+            "subtitle": "Sommertilbud"
         },
         "pt_BR": {
-            "title": "Oferta limitada",
-            "subtitle": "Oferta limitada"
+            "title": "Oferta de Verão",
+            "subtitle": "Oferta de Verão"
         },
         "pt_PT": {
-            "title": "Oferta limitada",
-            "subtitle": "Oferta limitada"
+            "title": "Oferta de Verão",
+            "subtitle": "Oferta de Verão"
         },
         "ru": {
-            "title": "Акция ограничена",
-            "subtitle": "Акция ограничена"
+            "title": "Летнее предложение",
+            "subtitle": "Летнее предложение"
         },
         "sv": {
-            "title": "Tidsbegränsat erbjud",
-            "subtitle": "Tidsbegränsat erbjud"
+            "title": "Sommarerbjudande",
+            "subtitle": "Sommarerbjudande"
         },
         "zh_Hans": {
-            "title": "限时特惠",
-            "subtitle": "限时特惠"
+            "title": "夏季优惠",
+            "subtitle": "夏季优惠"
         },
         "zh_Hant": {
-            "title": "限時特惠",
-            "subtitle": "限時特惠"
+            "title": "夏季優惠",
+            "subtitle": "夏季優惠"
         },
         "ja": {
-            "title": "期間限定オファー",
-            "subtitle": "期間限定オファー"
+            "title": "サマーオファー",
+            "subtitle": "サマーオファー"
         },
         "ko": {
-            "title": "한정 기간 특별 혜택",
-            "subtitle": "한정 기간 특별 혜택"
+            "title": "여름 특별 혜택",
+            "subtitle": "여름 특별 혜택"
         },
         "da": {
-            "title": "Tidsbegrænset tilbud",
-            "subtitle": "Tidsbegrænset tilbud"
+            "title": "Sommertilbud",
+            "subtitle": "Sommertilbud"
         },
         "es": {
-            "title": "Oferta limitada",
-            "subtitle": "Oferta limitada"
+            "title": "Oferta de verano",
+            "subtitle": "Oferta de verano"
         },
         "nl": {
-            "title": "Tijdelijk aanbod",
-            "subtitle": "Tijdelijk aanbod"
+            "title": "Zomeraanbieding",
+            "subtitle": "Zomeraanbieding"
         },
         "fi": {
-            "title": "Rajoitettu tarjous",
-            "subtitle": "Rajoitettu tarjous"
+            "title": "Kesätarjous",
+            "subtitle": "Kesätarjous"
         },
         "ro": {
-            "title": "Ofertă limitată",
-            "subtitle": "Ofertă limitată"
+            "title": "Ofertă de vară",
+            "subtitle": "Ofertă de vară"
         },
         "uk": {
-            "title": "Обмежена пропозиція",
-            "subtitle": "Обмежена пропозиція"
+            "title": "Літня пропозиція",
+            "subtitle": "Літня пропозиція"
         }
     }
 }
