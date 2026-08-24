@@ -1,14 +1,14 @@
 {
-    "title": "Summer Offer",
-    "subtitle": "Summer Offer",
+    "title": "Wellness Month Offer",
+    "subtitle": "Wellness Month Offer",
     "title_text_color": "#FFFFFF",
     "subtitle_text_color": "#FFFFFF",
     "countdown": true,
     "right_padding": "0",
-    "deadline": "2026-08-04",
+    "deadline": "2026-08-27",
     "background": {
-        "start_color": "#AA1C41",
-        "end_color": "#5E244E",
+        "start_color": "#514E76",
+        "end_color": "#2F4858",
         "direction": "left-to-right"
     },
     "title_font_size": "16",
@@ -21,80 +21,80 @@
     },
     "translations": {
         "ar": {
-            "title": "عرض الصيف",
-            "subtitle": "عرض الصيف"
+            "title": "عرض شهر العافية",
+            "subtitle": "عرض شهر العافية"
         },
         "de": {
-            "title": "Sommerangebot",
-            "subtitle": "Sommerangebot"
+            "title": "Wellness-Monat Offer",
+            "subtitle": "Wellness-Monat Offer"
         },
         "fr": {
-            "title": "Offre d'été",
-            "subtitle": "Offre d'été"
+            "title": "Offre Mois Bien-être",
+            "subtitle": "Offre Mois Bien-être"
         },
         "it": {
-            "title": "Offerta estiva",
-            "subtitle": "Offerta estiva"
+            "title": "Offerta Mese Benessere",
+            "subtitle": "Offerta Mese Benessere"
         },
         "nb": {
-            "title": "Sommertilbud",
-            "subtitle": "Sommertilbud"
+            "title": "Månedens velværetilbud",
+            "subtitle": "Månedens velværetilbud"
         },
         "pt_BR": {
-            "title": "Oferta de Verão",
-            "subtitle": "Oferta de Verão"
+            "title": "Oferta Mês do Bem-Estar",
+            "subtitle": "Oferta Mês do Bem-Estar"
         },
         "pt_PT": {
-            "title": "Oferta de Verão",
-            "subtitle": "Oferta de Verão"
+            "title": "Oferta Mês de Bem-Estar",
+            "subtitle": "Oferta Mês de Bem-Estar"
         },
         "ru": {
-            "title": "Летнее предложение",
-            "subtitle": "Летнее предложение"
+            "title": "Месяц велнеса: акция",
+            "subtitle": "Месяц велнеса: акция"
         },
         "sv": {
-            "title": "Sommarerbjudande",
-            "subtitle": "Sommarerbjudande"
+            "title": "Erbjudande friskvård",
+            "subtitle": "Erbjudande friskvård"
         },
         "zh_Hans": {
-            "title": "夏季优惠",
-            "subtitle": "夏季优惠"
+            "title": "健康月限时优惠",
+            "subtitle": "健康月限时优惠"
         },
         "zh_Hant": {
-            "title": "夏季優惠",
-            "subtitle": "夏季優惠"
+            "title": "健康月限時優惠",
+            "subtitle": "健康月限時優惠"
         },
         "ja": {
-            "title": "サマーオファー",
-            "subtitle": "サマーオファー"
+            "title": "ウェルネス月間特典",
+            "subtitle": "ウェルネス月間特典"
         },
         "ko": {
-            "title": "여름 특별 혜택",
-            "subtitle": "여름 특별 혜택"
+            "title": "웰니스의 달 특별 혜택",
+            "subtitle": "웰니스의 달 특별 혜택"
         },
         "da": {
-            "title": "Sommertilbud",
-            "subtitle": "Sommertilbud"
+            "title": "Månedens velværetilbud",
+            "subtitle": "Månedens velværetilbud"
         },
         "es": {
-            "title": "Oferta de verano",
-            "subtitle": "Oferta de verano"
+            "title": "Oferta Mes Bienestar",
+            "subtitle": "Oferta Mes Bienestar"
         },
         "nl": {
-            "title": "Zomeraanbieding",
-            "subtitle": "Zomeraanbieding"
+            "title": "Wellness Maand Aanbod",
+            "subtitle": "Wellness Maand Aanbod"
         },
         "fi": {
-            "title": "Kesätarjous",
-            "subtitle": "Kesätarjous"
+            "title": "Hyvinvointikuukausi",
+            "subtitle": "Hyvinvointikuukausi"
         },
         "ro": {
-            "title": "Ofertă de vară",
-            "subtitle": "Ofertă de vară"
+            "title": "Ofertă Luna Stării de Bine",
+            "subtitle": "Ofertă Luna Stării de Bine"
         },
         "uk": {
-            "title": "Літня пропозиція",
-            "subtitle": "Літня пропозиція"
+            "title": "Місяць велнесу: акція",
+            "subtitle": "Місяць велнесу: акція"
         }
     }
 }
